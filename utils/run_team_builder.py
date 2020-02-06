@@ -1,9 +1,9 @@
 # Author:     Andrew Smith
-# File:       execute_builder.py
+# File:       run_team_builder.py
 # Project:    Pokemon Team Builder
 
 '''
-execute_builder.py: This file is the main execution file.
+run_team_builder.py: This file is the main execution file.
 '''
 
 import json
@@ -19,7 +19,7 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--data', required=True, \
                         help='path to the data directory')
-    parser.add_argument('--results', required=True, \
+    parser.add_argument('--results_path', required=True, \
                         help='path to the results file')
     parser.add_argument('--test_flag', action='store_true', \
                         help='flag to make main run as a test')
@@ -27,7 +27,7 @@ def parse_arguments():
                         help='flag to make main find a partner pokemon')
     parser.add_argument('--build_team_flag', action='store_true', \
                         help='flag to make main build a team')
-    parser.add_argument('--mons', nargs='+', \
+    parser.add_argument('--mons', nargs='+', type=str.lower, \
                         help='one or more pokemon to use for the algorithm. ' +\
                         'use one for find_partner and one or more for' +\
                         'build_team.')
@@ -39,7 +39,7 @@ def load_data(data_path):
     # and type data jsons
     print('Loading data...')
 
-    # Loads the pokedex database
+    # Loads the pokedex data
     with open(osp.join(data_path, 'pokedex.json')) as f_in:
         pokemon = json.load(f_in)
 
@@ -50,7 +50,32 @@ def load_data(data_path):
     print('Finished loading data.')
     return pokemon, types
 
-def find_partner(mon, dex):
+def save_results(path_string, scores, mon):
+    # Takes the results from the team builder or partner finder function and
+    # writes the results to a text file
+
+    # Find the longest string in the scores dict, used for prettier output
+    max_len = 0
+    for key in scores.keys():
+        if len(key) > max_len:
+            max_len = len(key)
+
+    # Open the user-specified file and write the scores output
+    with open(path_string, 'w') as f_out:
+        f_out.write('Results for {}:\n'.format(mon))
+        f_out.write('-' * (max_len + 31))
+        f_out.write('\n')
+        for count, pokemon in enumerate(scores):
+            f_out.write('|  {}\t|'.format(count + 1))
+            # Add more spaces to make the output prettier
+            spaces = ' ' * (max_len - len(pokemon))
+            f_out.write('  {}\t|'.format(pokemon + spaces))
+            # Write the scores to 6 sig figs
+            f_out.write('  Score = {:.5f}\t|\n'.format(scores[pokemon]))
+        f_out.write('-' * (max_len + 31))
+    return
+
+def find_partner(mon, dex, results_path):
     # This function takes in a single pokemon as a string and finds a partner
     # that covers its flaws
     print('Searching for a partner for {}.'.format(mon))
@@ -60,30 +85,32 @@ def find_partner(mon, dex):
     # pair
     for count, pokemon in enumerate(dex.keys()):
         partners[pokemon] = type_synergy(dex[mon]['type'], dex[pokemon]['type'])
-        if count % 100 == 0:
+        if count % 150 == 0:
             print('Done with {} Pokemon.'.format(count))
 
     # Sort the dictionary by type synergy value
     partners = {k : v for k, v in sorted(partners.items(), \
-               key=lambda item: item[1])}
+                key=lambda item: item[1])}
 
-    # Only display the first ten pokemon in partners
+    # Take only the first 10 items of the dictionary
+    partners_new = {}
     for count, pokemon in enumerate(partners.keys()):
-        if count == 10:
+        partners_new[pokemon] = partners[pokemon]
+        if count == 9:
             break
-        else:
-            print('|{} \t|\t {} \t|\t Score = {:.5f} \t|'.format(count + 1, \
-                  pokemon, round(partners[pokemon], 5)))
+
+    # Save results and end the function
+    save_results(results_path, partners_new, mon)
     return
 
-def main(data, results='../dumps/results.txt', mons=[], test_flag=False, \
+def main(data, results_path, mons=[], test_flag=False, \
          find_partner_flag=False, build_team_flag=False):
     # Main execution function.  Check each flag and execute the chosen one.
     if test_flag is True:
         test(dex)
     elif find_partner_flag is True:
         dex, type_data = load_data(data)
-        find_partner(mons[0], dex)
+        find_partner(mons[0], dex, results_path)
     elif build_team_flag is True:
         dex, type_data = load_data(data)
         build_team(mons, dex)
@@ -94,5 +121,5 @@ def main(data, results='../dumps/results.txt', mons=[], test_flag=False, \
 
 if __name__ == '__main__':
     args = parse_arguments()
-    main(args.data, args.results, args.mons, args.test_flag, \
+    main(args.data, args.results_path, args.mons, args.test_flag, \
          args.find_partner_flag, args.build_team_flag)
