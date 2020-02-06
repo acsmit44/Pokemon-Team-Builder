@@ -16,6 +16,8 @@ import requests
 import lxml.html as lh
 import pandas as pd
 import json
+import os
+import os.path as osp
 
 url='http://pokemondb.net/pokedex/all'
 
@@ -132,6 +134,7 @@ for i in range(len(df)):
             pokedex[name]['dex_id'] = id
             pokedex[name]['type'] = type
             pokedex[name]['stats'] = stats
+            pokedex[name]['alt_form'] = alt_form
 
             # This is necessary for some reason otherwise every Pokemon will
             # have Eternatus's stats
@@ -142,5 +145,5 @@ for i in range(len(df)):
             continue
 
 # Write the data to a JSON
-with open('../data/pokedex.json', 'w') as f_out:
+with open(osp.join(os.pardir, 'data', 'pokedex.json'), 'w') as f_out:
     json.dump(pokedex, f_out, indent=2)

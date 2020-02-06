@@ -12,7 +12,8 @@
       65,
       65,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "ivysaur": {
     "dex_id": 2,
@@ -27,7 +28,8 @@
       80,
       80,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "venusaur": {
     "dex_id": 3,
@@ -42,7 +44,8 @@
       100,
       100,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "venusaur mega venusaur": {
     "dex_id": 3,
@@ -57,7 +60,8 @@
       122,
       120,
       80
-    ]
+    ],
+    "alt_form": true
   },
   "charmander": {
     "dex_id": 4,
@@ -71,7 +75,8 @@
       60,
       50,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "charmeleon": {
     "dex_id": 5,
@@ -85,7 +90,8 @@
       80,
       65,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "charizard": {
     "dex_id": 6,
@@ -100,7 +106,8 @@
       109,
       85,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "charizard mega charizard x": {
     "dex_id": 6,
@@ -115,7 +122,8 @@
       130,
       85,
       100
-    ]
+    ],
+    "alt_form": true
   },
   "charizard mega charizard y": {
     "dex_id": 6,
@@ -130,7 +138,8 @@
       159,
       115,
       100
-    ]
+    ],
+    "alt_form": true
   },
   "squirtle": {
     "dex_id": 7,
@@ -144,7 +153,8 @@
       50,
       64,
       43
-    ]
+    ],
+    "alt_form": false
   },
   "wartortle": {
     "dex_id": 8,
@@ -158,7 +168,8 @@
       65,
       80,
       58
-    ]
+    ],
+    "alt_form": false
   },
   "blastoise": {
     "dex_id": 9,
@@ -172,7 +183,8 @@
       85,
       105,
       78
-    ]
+    ],
+    "alt_form": false
   },
   "blastoise mega blastoise": {
     "dex_id": 9,
@@ -186,7 +198,8 @@
       135,
       115,
       78
-    ]
+    ],
+    "alt_form": true
   },
   "caterpie": {
     "dex_id": 10,
@@ -200,7 +213,8 @@
       20,
       20,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "metapod": {
     "dex_id": 11,
@@ -214,7 +228,8 @@
       25,
       25,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "butterfree": {
     "dex_id": 12,
@@ -229,7 +244,8 @@
       90,
       80,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "weedle": {
     "dex_id": 13,
@@ -244,7 +260,8 @@
       20,
       20,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "kakuna": {
     "dex_id": 14,
@@ -259,7 +276,8 @@
       25,
       25,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "beedrill": {
     "dex_id": 15,
@@ -274,7 +292,8 @@
       45,
       80,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "beedrill mega beedrill": {
     "dex_id": 15,
@@ -289,7 +308,8 @@
       15,
       80,
       145
-    ]
+    ],
+    "alt_form": true
   },
   "pidgey": {
     "dex_id": 16,
@@ -304,7 +324,8 @@
       35,
       35,
       56
-    ]
+    ],
+    "alt_form": false
   },
   "pidgeotto": {
     "dex_id": 17,
@@ -319,7 +340,8 @@
       50,
       50,
       71
-    ]
+    ],
+    "alt_form": false
   },
   "pidgeot": {
     "dex_id": 18,
@@ -334,7 +356,8 @@
       70,
       70,
       101
-    ]
+    ],
+    "alt_form": false
   },
   "pidgeot mega pidgeot": {
     "dex_id": 18,
@@ -349,7 +372,8 @@
       135,
       80,
       121
-    ]
+    ],
+    "alt_form": true
   },
   "rattata": {
     "dex_id": 19,
@@ -363,7 +387,8 @@
       25,
       35,
       72
-    ]
+    ],
+    "alt_form": false
   },
   "rattata alolan rattata": {
     "dex_id": 19,
@@ -378,7 +403,8 @@
       25,
       35,
       72
-    ]
+    ],
+    "alt_form": true
   },
   "raticate": {
     "dex_id": 20,
@@ -392,7 +418,8 @@
       50,
       70,
       97
-    ]
+    ],
+    "alt_form": false
   },
   "raticate alolan raticate": {
     "dex_id": 20,
@@ -407,7 +434,8 @@
       40,
       80,
       77
-    ]
+    ],
+    "alt_form": true
   },
   "spearow": {
     "dex_id": 21,
@@ -422,7 +450,8 @@
       31,
       31,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "fearow": {
     "dex_id": 22,
@@ -437,7 +466,8 @@
       61,
       61,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "ekans": {
     "dex_id": 23,
@@ -451,7 +481,8 @@
       40,
       54,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "arbok": {
     "dex_id": 24,
@@ -465,7 +496,8 @@
       65,
       79,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "pikachu": {
     "dex_id": 25,
@@ -479,7 +511,8 @@
       50,
       50,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "pikachu partner pikachu": {
     "dex_id": 25,
@@ -493,7 +526,8 @@
       75,
       60,
       120
-    ]
+    ],
+    "alt_form": true
   },
   "raichu": {
     "dex_id": 26,
@@ -507,7 +541,8 @@
       90,
       80,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "raichu alolan raichu": {
     "dex_id": 26,
@@ -522,7 +557,8 @@
       95,
       85,
       110
-    ]
+    ],
+    "alt_form": true
   },
   "sandshrew": {
     "dex_id": 27,
@@ -536,7 +572,8 @@
       20,
       30,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "sandshrew alolan sandshrew": {
     "dex_id": 27,
@@ -551,7 +588,8 @@
       10,
       35,
       40
-    ]
+    ],
+    "alt_form": true
   },
   "sandslash": {
     "dex_id": 28,
@@ -565,7 +603,8 @@
       45,
       55,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "sandslash alolan sandslash": {
     "dex_id": 28,
@@ -580,7 +619,8 @@
       25,
       65,
       65
-    ]
+    ],
+    "alt_form": true
   },
   "nidoran\u2640": {
     "dex_id": 29,
@@ -594,7 +634,8 @@
       40,
       40,
       41
-    ]
+    ],
+    "alt_form": false
   },
   "nidorina": {
     "dex_id": 30,
@@ -608,7 +649,8 @@
       55,
       55,
       56
-    ]
+    ],
+    "alt_form": false
   },
   "nidoqueen": {
     "dex_id": 31,
@@ -623,7 +665,8 @@
       75,
       85,
       76
-    ]
+    ],
+    "alt_form": false
   },
   "nidoran\u2642": {
     "dex_id": 32,
@@ -637,7 +680,8 @@
       40,
       40,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "nidorino": {
     "dex_id": 33,
@@ -651,7 +695,8 @@
       55,
       55,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "nidoking": {
     "dex_id": 34,
@@ -666,7 +711,8 @@
       85,
       75,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "clefairy": {
     "dex_id": 35,
@@ -680,7 +726,8 @@
       60,
       65,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "clefable": {
     "dex_id": 36,
@@ -694,7 +741,8 @@
       95,
       90,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "vulpix": {
     "dex_id": 37,
@@ -708,7 +756,8 @@
       50,
       65,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "vulpix alolan vulpix": {
     "dex_id": 37,
@@ -722,7 +771,8 @@
       50,
       65,
       65
-    ]
+    ],
+    "alt_form": true
   },
   "ninetales": {
     "dex_id": 38,
@@ -736,7 +786,8 @@
       81,
       100,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "ninetales alolan ninetales": {
     "dex_id": 38,
@@ -751,7 +802,8 @@
       81,
       100,
       109
-    ]
+    ],
+    "alt_form": true
   },
   "jigglypuff": {
     "dex_id": 39,
@@ -766,7 +818,8 @@
       45,
       25,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "wigglytuff": {
     "dex_id": 40,
@@ -781,7 +834,8 @@
       85,
       50,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "zubat": {
     "dex_id": 41,
@@ -796,7 +850,8 @@
       30,
       40,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "golbat": {
     "dex_id": 42,
@@ -811,7 +866,8 @@
       65,
       75,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "oddish": {
     "dex_id": 43,
@@ -826,7 +882,8 @@
       75,
       65,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "gloom": {
     "dex_id": 44,
@@ -841,7 +898,8 @@
       85,
       75,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "vileplume": {
     "dex_id": 45,
@@ -856,7 +914,8 @@
       110,
       90,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "paras": {
     "dex_id": 46,
@@ -871,7 +930,8 @@
       45,
       55,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "parasect": {
     "dex_id": 47,
@@ -886,7 +946,8 @@
       60,
       80,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "venonat": {
     "dex_id": 48,
@@ -901,7 +962,8 @@
       40,
       55,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "venomoth": {
     "dex_id": 49,
@@ -916,7 +978,8 @@
       90,
       75,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "diglett": {
     "dex_id": 50,
@@ -930,7 +993,8 @@
       35,
       45,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "diglett alolan diglett": {
     "dex_id": 50,
@@ -945,7 +1009,8 @@
       35,
       45,
       90
-    ]
+    ],
+    "alt_form": true
   },
   "dugtrio": {
     "dex_id": 51,
@@ -959,7 +1024,8 @@
       50,
       70,
       120
-    ]
+    ],
+    "alt_form": false
   },
   "dugtrio alolan dugtrio": {
     "dex_id": 51,
@@ -974,7 +1040,8 @@
       50,
       70,
       110
-    ]
+    ],
+    "alt_form": true
   },
   "meowth": {
     "dex_id": 52,
@@ -988,7 +1055,8 @@
       40,
       40,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "meowth alolan meowth": {
     "dex_id": 52,
@@ -1002,7 +1070,8 @@
       50,
       40,
       90
-    ]
+    ],
+    "alt_form": true
   },
   "meowth galarian meowth": {
     "dex_id": 52,
@@ -1016,7 +1085,8 @@
       40,
       40,
       40
-    ]
+    ],
+    "alt_form": true
   },
   "persian": {
     "dex_id": 53,
@@ -1030,7 +1100,8 @@
       65,
       65,
       115
-    ]
+    ],
+    "alt_form": false
   },
   "persian alolan persian": {
     "dex_id": 53,
@@ -1044,7 +1115,8 @@
       75,
       65,
       115
-    ]
+    ],
+    "alt_form": true
   },
   "psyduck": {
     "dex_id": 54,
@@ -1058,7 +1130,8 @@
       65,
       50,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "golduck": {
     "dex_id": 55,
@@ -1072,7 +1145,8 @@
       95,
       80,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "mankey": {
     "dex_id": 56,
@@ -1086,7 +1160,8 @@
       35,
       45,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "primeape": {
     "dex_id": 57,
@@ -1100,7 +1175,8 @@
       60,
       70,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "growlithe": {
     "dex_id": 58,
@@ -1114,7 +1190,8 @@
       70,
       50,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "arcanine": {
     "dex_id": 59,
@@ -1128,7 +1205,8 @@
       100,
       80,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "poliwag": {
     "dex_id": 60,
@@ -1142,7 +1220,8 @@
       40,
       40,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "poliwhirl": {
     "dex_id": 61,
@@ -1156,7 +1235,8 @@
       50,
       50,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "poliwrath": {
     "dex_id": 62,
@@ -1171,7 +1251,8 @@
       70,
       90,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "abra": {
     "dex_id": 63,
@@ -1185,7 +1266,8 @@
       105,
       55,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "kadabra": {
     "dex_id": 64,
@@ -1199,7 +1281,8 @@
       120,
       70,
       105
-    ]
+    ],
+    "alt_form": false
   },
   "alakazam": {
     "dex_id": 65,
@@ -1213,7 +1296,8 @@
       135,
       95,
       120
-    ]
+    ],
+    "alt_form": false
   },
   "alakazam mega alakazam": {
     "dex_id": 65,
@@ -1227,7 +1311,8 @@
       175,
       105,
       150
-    ]
+    ],
+    "alt_form": true
   },
   "machop": {
     "dex_id": 66,
@@ -1241,7 +1326,8 @@
       35,
       35,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "machoke": {
     "dex_id": 67,
@@ -1255,7 +1341,8 @@
       50,
       60,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "machamp": {
     "dex_id": 68,
@@ -1269,7 +1356,8 @@
       65,
       85,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "bellsprout": {
     "dex_id": 69,
@@ -1284,7 +1372,8 @@
       70,
       30,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "weepinbell": {
     "dex_id": 70,
@@ -1299,7 +1388,8 @@
       85,
       45,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "victreebel": {
     "dex_id": 71,
@@ -1314,7 +1404,8 @@
       100,
       70,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "tentacool": {
     "dex_id": 72,
@@ -1329,7 +1420,8 @@
       50,
       100,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "tentacruel": {
     "dex_id": 73,
@@ -1344,7 +1436,8 @@
       80,
       120,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "geodude": {
     "dex_id": 74,
@@ -1359,7 +1452,8 @@
       30,
       30,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "geodude alolan geodude": {
     "dex_id": 74,
@@ -1374,7 +1468,8 @@
       30,
       30,
       20
-    ]
+    ],
+    "alt_form": true
   },
   "graveler": {
     "dex_id": 75,
@@ -1389,7 +1484,8 @@
       45,
       45,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "graveler alolan graveler": {
     "dex_id": 75,
@@ -1404,7 +1500,8 @@
       45,
       45,
       35
-    ]
+    ],
+    "alt_form": true
   },
   "golem": {
     "dex_id": 76,
@@ -1419,7 +1516,8 @@
       55,
       65,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "golem alolan golem": {
     "dex_id": 76,
@@ -1434,7 +1532,8 @@
       55,
       65,
       45
-    ]
+    ],
+    "alt_form": true
   },
   "ponyta": {
     "dex_id": 77,
@@ -1448,7 +1547,8 @@
       65,
       65,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "ponyta galarian ponyta": {
     "dex_id": 77,
@@ -1462,7 +1562,8 @@
       65,
       65,
       90
-    ]
+    ],
+    "alt_form": true
   },
   "rapidash": {
     "dex_id": 78,
@@ -1476,7 +1577,8 @@
       80,
       80,
       105
-    ]
+    ],
+    "alt_form": false
   },
   "rapidash galarian rapidash": {
     "dex_id": 78,
@@ -1491,7 +1593,8 @@
       80,
       80,
       105
-    ]
+    ],
+    "alt_form": true
   },
   "slowpoke": {
     "dex_id": 79,
@@ -1506,7 +1609,8 @@
       40,
       40,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "slowbro": {
     "dex_id": 80,
@@ -1521,7 +1625,8 @@
       100,
       80,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "slowbro mega slowbro": {
     "dex_id": 80,
@@ -1536,7 +1641,8 @@
       130,
       80,
       30
-    ]
+    ],
+    "alt_form": true
   },
   "magnemite": {
     "dex_id": 81,
@@ -1551,7 +1657,8 @@
       95,
       55,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "magneton": {
     "dex_id": 82,
@@ -1566,7 +1673,8 @@
       120,
       70,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "farfetch'd": {
     "dex_id": 83,
@@ -1581,7 +1689,8 @@
       58,
       62,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "farfetch'd galarian farfetch'd": {
     "dex_id": 83,
@@ -1595,7 +1704,8 @@
       58,
       62,
       55
-    ]
+    ],
+    "alt_form": true
   },
   "doduo": {
     "dex_id": 84,
@@ -1610,7 +1720,8 @@
       35,
       35,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "dodrio": {
     "dex_id": 85,
@@ -1625,7 +1736,8 @@
       60,
       60,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "seel": {
     "dex_id": 86,
@@ -1639,7 +1751,8 @@
       45,
       70,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "dewgong": {
     "dex_id": 87,
@@ -1654,7 +1767,8 @@
       70,
       95,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "grimer": {
     "dex_id": 88,
@@ -1668,7 +1782,8 @@
       40,
       50,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "grimer alolan grimer": {
     "dex_id": 88,
@@ -1683,7 +1798,8 @@
       40,
       50,
       25
-    ]
+    ],
+    "alt_form": true
   },
   "muk": {
     "dex_id": 89,
@@ -1697,7 +1813,8 @@
       65,
       100,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "muk alolan muk": {
     "dex_id": 89,
@@ -1712,7 +1829,8 @@
       65,
       100,
       50
-    ]
+    ],
+    "alt_form": true
   },
   "shellder": {
     "dex_id": 90,
@@ -1726,7 +1844,8 @@
       45,
       25,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "cloyster": {
     "dex_id": 91,
@@ -1741,7 +1860,8 @@
       85,
       45,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "gastly": {
     "dex_id": 92,
@@ -1756,7 +1876,8 @@
       100,
       35,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "haunter": {
     "dex_id": 93,
@@ -1771,7 +1892,8 @@
       115,
       55,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "gengar": {
     "dex_id": 94,
@@ -1786,7 +1908,8 @@
       130,
       75,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "gengar mega gengar": {
     "dex_id": 94,
@@ -1801,7 +1924,8 @@
       170,
       95,
       130
-    ]
+    ],
+    "alt_form": true
   },
   "onix": {
     "dex_id": 95,
@@ -1816,7 +1940,8 @@
       30,
       45,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "drowzee": {
     "dex_id": 96,
@@ -1830,7 +1955,8 @@
       43,
       90,
       42
-    ]
+    ],
+    "alt_form": false
   },
   "hypno": {
     "dex_id": 97,
@@ -1844,7 +1970,8 @@
       73,
       115,
       67
-    ]
+    ],
+    "alt_form": false
   },
   "krabby": {
     "dex_id": 98,
@@ -1858,7 +1985,8 @@
       25,
       25,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "kingler": {
     "dex_id": 99,
@@ -1872,7 +2000,8 @@
       50,
       50,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "voltorb": {
     "dex_id": 100,
@@ -1886,7 +2015,8 @@
       55,
       55,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "electrode": {
     "dex_id": 101,
@@ -1900,7 +2030,8 @@
       80,
       80,
       150
-    ]
+    ],
+    "alt_form": false
   },
   "exeggcute": {
     "dex_id": 102,
@@ -1915,7 +2046,8 @@
       60,
       45,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "exeggutor": {
     "dex_id": 103,
@@ -1930,7 +2062,8 @@
       125,
       75,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "exeggutor alolan exeggutor": {
     "dex_id": 103,
@@ -1945,7 +2078,8 @@
       125,
       75,
       45
-    ]
+    ],
+    "alt_form": true
   },
   "cubone": {
     "dex_id": 104,
@@ -1959,7 +2093,8 @@
       40,
       50,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "marowak": {
     "dex_id": 105,
@@ -1973,7 +2108,8 @@
       50,
       80,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "marowak alolan marowak": {
     "dex_id": 105,
@@ -1988,7 +2124,8 @@
       50,
       80,
       45
-    ]
+    ],
+    "alt_form": true
   },
   "hitmonlee": {
     "dex_id": 106,
@@ -2002,7 +2139,8 @@
       35,
       110,
       87
-    ]
+    ],
+    "alt_form": false
   },
   "hitmonchan": {
     "dex_id": 107,
@@ -2016,7 +2154,8 @@
       35,
       110,
       76
-    ]
+    ],
+    "alt_form": false
   },
   "lickitung": {
     "dex_id": 108,
@@ -2030,7 +2169,8 @@
       60,
       75,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "koffing": {
     "dex_id": 109,
@@ -2044,7 +2184,8 @@
       60,
       45,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "weezing": {
     "dex_id": 110,
@@ -2058,7 +2199,8 @@
       85,
       70,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "weezing galarian weezing": {
     "dex_id": 110,
@@ -2073,7 +2215,8 @@
       85,
       70,
       60
-    ]
+    ],
+    "alt_form": true
   },
   "rhyhorn": {
     "dex_id": 111,
@@ -2088,7 +2231,8 @@
       30,
       30,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "rhydon": {
     "dex_id": 112,
@@ -2103,7 +2247,8 @@
       45,
       45,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "chansey": {
     "dex_id": 113,
@@ -2117,7 +2262,8 @@
       35,
       105,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "tangela": {
     "dex_id": 114,
@@ -2131,7 +2277,8 @@
       100,
       40,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "kangaskhan": {
     "dex_id": 115,
@@ -2145,7 +2292,8 @@
       40,
       80,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "kangaskhan mega kangaskhan": {
     "dex_id": 115,
@@ -2159,7 +2307,8 @@
       60,
       100,
       100
-    ]
+    ],
+    "alt_form": true
   },
   "horsea": {
     "dex_id": 116,
@@ -2173,7 +2322,8 @@
       70,
       25,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "seadra": {
     "dex_id": 117,
@@ -2187,7 +2337,8 @@
       95,
       45,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "goldeen": {
     "dex_id": 118,
@@ -2201,7 +2352,8 @@
       35,
       50,
       63
-    ]
+    ],
+    "alt_form": false
   },
   "seaking": {
     "dex_id": 119,
@@ -2215,7 +2367,8 @@
       65,
       80,
       68
-    ]
+    ],
+    "alt_form": false
   },
   "staryu": {
     "dex_id": 120,
@@ -2229,7 +2382,8 @@
       70,
       55,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "starmie": {
     "dex_id": 121,
@@ -2244,7 +2398,8 @@
       100,
       85,
       115
-    ]
+    ],
+    "alt_form": false
   },
   "mr. mime": {
     "dex_id": 122,
@@ -2259,7 +2414,8 @@
       100,
       120,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "mr. mime galarian mr. mime": {
     "dex_id": 122,
@@ -2274,7 +2430,8 @@
       90,
       90,
       100
-    ]
+    ],
+    "alt_form": true
   },
   "scyther": {
     "dex_id": 123,
@@ -2289,7 +2446,8 @@
       55,
       80,
       105
-    ]
+    ],
+    "alt_form": false
   },
   "jynx": {
     "dex_id": 124,
@@ -2304,7 +2462,8 @@
       115,
       95,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "electabuzz": {
     "dex_id": 125,
@@ -2318,7 +2477,8 @@
       95,
       85,
       105
-    ]
+    ],
+    "alt_form": false
   },
   "magmar": {
     "dex_id": 126,
@@ -2332,7 +2492,8 @@
       100,
       85,
       93
-    ]
+    ],
+    "alt_form": false
   },
   "pinsir": {
     "dex_id": 127,
@@ -2346,7 +2507,8 @@
       55,
       70,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "pinsir mega pinsir": {
     "dex_id": 127,
@@ -2361,7 +2523,8 @@
       65,
       90,
       105
-    ]
+    ],
+    "alt_form": true
   },
   "tauros": {
     "dex_id": 128,
@@ -2375,7 +2538,8 @@
       40,
       70,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "magikarp": {
     "dex_id": 129,
@@ -2389,7 +2553,8 @@
       15,
       20,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "gyarados": {
     "dex_id": 130,
@@ -2404,7 +2569,8 @@
       60,
       100,
       81
-    ]
+    ],
+    "alt_form": false
   },
   "gyarados mega gyarados": {
     "dex_id": 130,
@@ -2419,7 +2585,8 @@
       70,
       130,
       81
-    ]
+    ],
+    "alt_form": true
   },
   "lapras": {
     "dex_id": 131,
@@ -2434,7 +2601,8 @@
       85,
       95,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "ditto": {
     "dex_id": 132,
@@ -2448,7 +2616,8 @@
       48,
       48,
       48
-    ]
+    ],
+    "alt_form": false
   },
   "eevee": {
     "dex_id": 133,
@@ -2462,7 +2631,8 @@
       45,
       65,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "eevee partner eevee": {
     "dex_id": 133,
@@ -2476,7 +2646,8 @@
       65,
       85,
       75
-    ]
+    ],
+    "alt_form": true
   },
   "vaporeon": {
     "dex_id": 134,
@@ -2490,7 +2661,8 @@
       110,
       95,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "jolteon": {
     "dex_id": 135,
@@ -2504,7 +2676,8 @@
       110,
       95,
       130
-    ]
+    ],
+    "alt_form": false
   },
   "flareon": {
     "dex_id": 136,
@@ -2518,7 +2691,8 @@
       95,
       110,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "porygon": {
     "dex_id": 137,
@@ -2532,7 +2706,8 @@
       85,
       75,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "omanyte": {
     "dex_id": 138,
@@ -2547,7 +2722,8 @@
       90,
       55,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "omastar": {
     "dex_id": 139,
@@ -2562,7 +2738,8 @@
       115,
       70,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "kabuto": {
     "dex_id": 140,
@@ -2577,7 +2754,8 @@
       55,
       45,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "kabutops": {
     "dex_id": 141,
@@ -2592,7 +2770,8 @@
       65,
       70,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "aerodactyl": {
     "dex_id": 142,
@@ -2607,7 +2786,8 @@
       60,
       75,
       130
-    ]
+    ],
+    "alt_form": false
   },
   "aerodactyl mega aerodactyl": {
     "dex_id": 142,
@@ -2622,7 +2802,8 @@
       70,
       95,
       150
-    ]
+    ],
+    "alt_form": true
   },
   "snorlax": {
     "dex_id": 143,
@@ -2636,7 +2817,8 @@
       65,
       110,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "articuno": {
     "dex_id": 144,
@@ -2651,7 +2833,8 @@
       95,
       125,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "zapdos": {
     "dex_id": 145,
@@ -2666,7 +2849,8 @@
       125,
       90,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "moltres": {
     "dex_id": 146,
@@ -2681,7 +2865,8 @@
       125,
       85,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "dratini": {
     "dex_id": 147,
@@ -2695,7 +2880,8 @@
       50,
       50,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "dragonair": {
     "dex_id": 148,
@@ -2709,7 +2895,8 @@
       70,
       70,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "dragonite": {
     "dex_id": 149,
@@ -2724,7 +2911,8 @@
       100,
       100,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "mewtwo": {
     "dex_id": 150,
@@ -2738,7 +2926,8 @@
       154,
       90,
       130
-    ]
+    ],
+    "alt_form": false
   },
   "mewtwo mega mewtwo x": {
     "dex_id": 150,
@@ -2753,7 +2942,8 @@
       154,
       100,
       130
-    ]
+    ],
+    "alt_form": true
   },
   "mewtwo mega mewtwo y": {
     "dex_id": 150,
@@ -2767,7 +2957,8 @@
       194,
       120,
       140
-    ]
+    ],
+    "alt_form": true
   },
   "mew": {
     "dex_id": 151,
@@ -2781,7 +2972,8 @@
       100,
       100,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "chikorita": {
     "dex_id": 152,
@@ -2795,7 +2987,8 @@
       49,
       65,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "bayleef": {
     "dex_id": 153,
@@ -2809,7 +3002,8 @@
       63,
       80,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "meganium": {
     "dex_id": 154,
@@ -2823,7 +3017,8 @@
       83,
       100,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "cyndaquil": {
     "dex_id": 155,
@@ -2837,7 +3032,8 @@
       60,
       50,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "quilava": {
     "dex_id": 156,
@@ -2851,7 +3047,8 @@
       80,
       65,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "typhlosion": {
     "dex_id": 157,
@@ -2865,7 +3062,8 @@
       109,
       85,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "totodile": {
     "dex_id": 158,
@@ -2879,7 +3077,8 @@
       44,
       48,
       43
-    ]
+    ],
+    "alt_form": false
   },
   "croconaw": {
     "dex_id": 159,
@@ -2893,7 +3092,8 @@
       59,
       63,
       58
-    ]
+    ],
+    "alt_form": false
   },
   "feraligatr": {
     "dex_id": 160,
@@ -2907,7 +3107,8 @@
       79,
       83,
       78
-    ]
+    ],
+    "alt_form": false
   },
   "sentret": {
     "dex_id": 161,
@@ -2921,7 +3122,8 @@
       35,
       45,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "furret": {
     "dex_id": 162,
@@ -2935,7 +3137,8 @@
       45,
       55,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "hoothoot": {
     "dex_id": 163,
@@ -2950,7 +3153,8 @@
       36,
       56,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "noctowl": {
     "dex_id": 164,
@@ -2965,7 +3169,8 @@
       86,
       96,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "ledyba": {
     "dex_id": 165,
@@ -2980,7 +3185,8 @@
       40,
       80,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "ledian": {
     "dex_id": 166,
@@ -2995,7 +3201,8 @@
       55,
       110,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "spinarak": {
     "dex_id": 167,
@@ -3010,7 +3217,8 @@
       40,
       40,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "ariados": {
     "dex_id": 168,
@@ -3025,7 +3233,8 @@
       60,
       70,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "crobat": {
     "dex_id": 169,
@@ -3040,7 +3249,8 @@
       70,
       80,
       130
-    ]
+    ],
+    "alt_form": false
   },
   "chinchou": {
     "dex_id": 170,
@@ -3055,7 +3265,8 @@
       56,
       56,
       67
-    ]
+    ],
+    "alt_form": false
   },
   "lanturn": {
     "dex_id": 171,
@@ -3070,7 +3281,8 @@
       76,
       76,
       67
-    ]
+    ],
+    "alt_form": false
   },
   "pichu": {
     "dex_id": 172,
@@ -3084,7 +3296,8 @@
       35,
       35,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "cleffa": {
     "dex_id": 173,
@@ -3098,7 +3311,8 @@
       45,
       55,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "igglybuff": {
     "dex_id": 174,
@@ -3113,7 +3327,8 @@
       40,
       20,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "togepi": {
     "dex_id": 175,
@@ -3127,7 +3342,8 @@
       40,
       65,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "togetic": {
     "dex_id": 176,
@@ -3142,7 +3358,8 @@
       80,
       105,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "natu": {
     "dex_id": 177,
@@ -3157,7 +3374,8 @@
       70,
       45,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "xatu": {
     "dex_id": 178,
@@ -3172,7 +3390,8 @@
       95,
       70,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "mareep": {
     "dex_id": 179,
@@ -3186,7 +3405,8 @@
       65,
       45,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "flaaffy": {
     "dex_id": 180,
@@ -3200,7 +3420,8 @@
       80,
       60,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "ampharos": {
     "dex_id": 181,
@@ -3214,7 +3435,8 @@
       115,
       90,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "ampharos mega ampharos": {
     "dex_id": 181,
@@ -3229,7 +3451,8 @@
       165,
       110,
       45
-    ]
+    ],
+    "alt_form": true
   },
   "bellossom": {
     "dex_id": 182,
@@ -3243,7 +3466,8 @@
       90,
       100,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "marill": {
     "dex_id": 183,
@@ -3258,7 +3482,8 @@
       20,
       50,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "azumarill": {
     "dex_id": 184,
@@ -3273,7 +3498,8 @@
       60,
       80,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "sudowoodo": {
     "dex_id": 185,
@@ -3287,7 +3513,8 @@
       30,
       65,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "politoed": {
     "dex_id": 186,
@@ -3301,7 +3528,8 @@
       90,
       100,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "hoppip": {
     "dex_id": 187,
@@ -3316,7 +3544,8 @@
       35,
       55,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "skiploom": {
     "dex_id": 188,
@@ -3331,7 +3560,8 @@
       45,
       65,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "jumpluff": {
     "dex_id": 189,
@@ -3346,7 +3576,8 @@
       55,
       95,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "aipom": {
     "dex_id": 190,
@@ -3360,7 +3591,8 @@
       40,
       55,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "sunkern": {
     "dex_id": 191,
@@ -3374,7 +3606,8 @@
       30,
       30,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "sunflora": {
     "dex_id": 192,
@@ -3388,7 +3621,8 @@
       105,
       85,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "yanma": {
     "dex_id": 193,
@@ -3403,7 +3637,8 @@
       75,
       45,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "wooper": {
     "dex_id": 194,
@@ -3418,7 +3653,8 @@
       25,
       25,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "quagsire": {
     "dex_id": 195,
@@ -3433,7 +3669,8 @@
       65,
       65,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "espeon": {
     "dex_id": 196,
@@ -3447,7 +3684,8 @@
       130,
       95,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "umbreon": {
     "dex_id": 197,
@@ -3461,7 +3699,8 @@
       60,
       130,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "murkrow": {
     "dex_id": 198,
@@ -3476,7 +3715,8 @@
       85,
       42,
       91
-    ]
+    ],
+    "alt_form": false
   },
   "slowking": {
     "dex_id": 199,
@@ -3491,7 +3731,8 @@
       100,
       110,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "misdreavus": {
     "dex_id": 200,
@@ -3505,7 +3746,8 @@
       85,
       85,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "unown": {
     "dex_id": 201,
@@ -3519,7 +3761,8 @@
       72,
       48,
       48
-    ]
+    ],
+    "alt_form": false
   },
   "wobbuffet": {
     "dex_id": 202,
@@ -3533,7 +3776,8 @@
       33,
       58,
       33
-    ]
+    ],
+    "alt_form": false
   },
   "girafarig": {
     "dex_id": 203,
@@ -3548,7 +3792,8 @@
       90,
       65,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "pineco": {
     "dex_id": 204,
@@ -3562,7 +3807,8 @@
       35,
       35,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "forretress": {
     "dex_id": 205,
@@ -3577,7 +3823,8 @@
       60,
       60,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "dunsparce": {
     "dex_id": 206,
@@ -3591,7 +3838,8 @@
       65,
       65,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "gligar": {
     "dex_id": 207,
@@ -3606,7 +3854,8 @@
       35,
       65,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "steelix": {
     "dex_id": 208,
@@ -3621,7 +3870,8 @@
       55,
       65,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "steelix mega steelix": {
     "dex_id": 208,
@@ -3636,7 +3886,8 @@
       55,
       95,
       30
-    ]
+    ],
+    "alt_form": true
   },
   "snubbull": {
     "dex_id": 209,
@@ -3650,7 +3901,8 @@
       40,
       40,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "granbull": {
     "dex_id": 210,
@@ -3664,7 +3916,8 @@
       60,
       60,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "qwilfish": {
     "dex_id": 211,
@@ -3679,7 +3932,8 @@
       55,
       55,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "scizor": {
     "dex_id": 212,
@@ -3694,7 +3948,8 @@
       55,
       80,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "scizor mega scizor": {
     "dex_id": 212,
@@ -3709,7 +3964,8 @@
       65,
       100,
       75
-    ]
+    ],
+    "alt_form": true
   },
   "shuckle": {
     "dex_id": 213,
@@ -3724,7 +3980,8 @@
       10,
       230,
       5
-    ]
+    ],
+    "alt_form": false
   },
   "heracross": {
     "dex_id": 214,
@@ -3739,7 +3996,8 @@
       40,
       95,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "heracross mega heracross": {
     "dex_id": 214,
@@ -3754,7 +4012,8 @@
       40,
       105,
       75
-    ]
+    ],
+    "alt_form": true
   },
   "sneasel": {
     "dex_id": 215,
@@ -3769,7 +4028,8 @@
       35,
       75,
       115
-    ]
+    ],
+    "alt_form": false
   },
   "teddiursa": {
     "dex_id": 216,
@@ -3783,7 +4043,8 @@
       50,
       50,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "ursaring": {
     "dex_id": 217,
@@ -3797,7 +4058,8 @@
       75,
       75,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "slugma": {
     "dex_id": 218,
@@ -3811,7 +4073,8 @@
       70,
       40,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "magcargo": {
     "dex_id": 219,
@@ -3826,7 +4089,8 @@
       90,
       80,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "swinub": {
     "dex_id": 220,
@@ -3841,7 +4105,8 @@
       30,
       30,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "piloswine": {
     "dex_id": 221,
@@ -3856,7 +4121,8 @@
       60,
       60,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "corsola": {
     "dex_id": 222,
@@ -3871,7 +4137,8 @@
       65,
       95,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "corsola galarian corsola": {
     "dex_id": 222,
@@ -3885,7 +4152,8 @@
       65,
       100,
       30
-    ]
+    ],
+    "alt_form": true
   },
   "remoraid": {
     "dex_id": 223,
@@ -3899,7 +4167,8 @@
       65,
       35,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "octillery": {
     "dex_id": 224,
@@ -3913,7 +4182,8 @@
       105,
       75,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "delibird": {
     "dex_id": 225,
@@ -3928,7 +4198,8 @@
       65,
       45,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "mantine": {
     "dex_id": 226,
@@ -3943,7 +4214,8 @@
       80,
       140,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "skarmory": {
     "dex_id": 227,
@@ -3958,7 +4230,8 @@
       40,
       70,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "houndour": {
     "dex_id": 228,
@@ -3973,7 +4246,8 @@
       80,
       50,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "houndoom": {
     "dex_id": 229,
@@ -3988,7 +4262,8 @@
       110,
       80,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "houndoom mega houndoom": {
     "dex_id": 229,
@@ -4003,7 +4278,8 @@
       140,
       90,
       115
-    ]
+    ],
+    "alt_form": true
   },
   "kingdra": {
     "dex_id": 230,
@@ -4018,7 +4294,8 @@
       95,
       95,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "phanpy": {
     "dex_id": 231,
@@ -4032,7 +4309,8 @@
       40,
       40,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "donphan": {
     "dex_id": 232,
@@ -4046,7 +4324,8 @@
       60,
       60,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "porygon2": {
     "dex_id": 233,
@@ -4060,7 +4339,8 @@
       105,
       95,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "stantler": {
     "dex_id": 234,
@@ -4074,7 +4354,8 @@
       85,
       65,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "smeargle": {
     "dex_id": 235,
@@ -4088,7 +4369,8 @@
       20,
       45,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "tyrogue": {
     "dex_id": 236,
@@ -4102,7 +4384,8 @@
       35,
       35,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "hitmontop": {
     "dex_id": 237,
@@ -4116,7 +4399,8 @@
       35,
       110,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "smoochum": {
     "dex_id": 238,
@@ -4131,7 +4415,8 @@
       85,
       65,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "elekid": {
     "dex_id": 239,
@@ -4145,7 +4430,8 @@
       65,
       55,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "magby": {
     "dex_id": 240,
@@ -4159,7 +4445,8 @@
       70,
       55,
       83
-    ]
+    ],
+    "alt_form": false
   },
   "miltank": {
     "dex_id": 241,
@@ -4173,7 +4460,8 @@
       40,
       70,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "blissey": {
     "dex_id": 242,
@@ -4187,7 +4475,8 @@
       75,
       135,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "raikou": {
     "dex_id": 243,
@@ -4201,7 +4490,8 @@
       115,
       100,
       115
-    ]
+    ],
+    "alt_form": false
   },
   "entei": {
     "dex_id": 244,
@@ -4215,7 +4505,8 @@
       90,
       75,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "suicune": {
     "dex_id": 245,
@@ -4229,7 +4520,8 @@
       90,
       115,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "larvitar": {
     "dex_id": 246,
@@ -4244,7 +4536,8 @@
       45,
       50,
       41
-    ]
+    ],
+    "alt_form": false
   },
   "pupitar": {
     "dex_id": 247,
@@ -4259,7 +4552,8 @@
       65,
       70,
       51
-    ]
+    ],
+    "alt_form": false
   },
   "tyranitar": {
     "dex_id": 248,
@@ -4274,7 +4568,8 @@
       95,
       100,
       61
-    ]
+    ],
+    "alt_form": false
   },
   "tyranitar mega tyranitar": {
     "dex_id": 248,
@@ -4289,7 +4584,8 @@
       95,
       120,
       71
-    ]
+    ],
+    "alt_form": true
   },
   "lugia": {
     "dex_id": 249,
@@ -4304,7 +4600,8 @@
       90,
       154,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "ho-oh": {
     "dex_id": 250,
@@ -4319,7 +4616,8 @@
       110,
       154,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "celebi": {
     "dex_id": 251,
@@ -4334,7 +4632,8 @@
       100,
       100,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "treecko": {
     "dex_id": 252,
@@ -4348,7 +4647,8 @@
       65,
       55,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "grovyle": {
     "dex_id": 253,
@@ -4362,7 +4662,8 @@
       85,
       65,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "sceptile": {
     "dex_id": 254,
@@ -4376,7 +4677,8 @@
       105,
       85,
       120
-    ]
+    ],
+    "alt_form": false
   },
   "sceptile mega sceptile": {
     "dex_id": 254,
@@ -4391,7 +4693,8 @@
       145,
       85,
       145
-    ]
+    ],
+    "alt_form": true
   },
   "torchic": {
     "dex_id": 255,
@@ -4405,7 +4708,8 @@
       70,
       50,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "combusken": {
     "dex_id": 256,
@@ -4420,7 +4724,8 @@
       85,
       60,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "blaziken": {
     "dex_id": 257,
@@ -4435,7 +4740,8 @@
       110,
       70,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "blaziken mega blaziken": {
     "dex_id": 257,
@@ -4450,7 +4756,8 @@
       130,
       80,
       100
-    ]
+    ],
+    "alt_form": true
   },
   "mudkip": {
     "dex_id": 258,
@@ -4464,7 +4771,8 @@
       50,
       50,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "marshtomp": {
     "dex_id": 259,
@@ -4479,7 +4787,8 @@
       60,
       70,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "swampert": {
     "dex_id": 260,
@@ -4494,7 +4803,8 @@
       85,
       90,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "swampert mega swampert": {
     "dex_id": 260,
@@ -4509,7 +4819,8 @@
       95,
       110,
       70
-    ]
+    ],
+    "alt_form": true
   },
   "poochyena": {
     "dex_id": 261,
@@ -4523,7 +4834,8 @@
       30,
       30,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "mightyena": {
     "dex_id": 262,
@@ -4537,7 +4849,8 @@
       60,
       60,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "zigzagoon": {
     "dex_id": 263,
@@ -4551,7 +4864,8 @@
       30,
       41,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "zigzagoon galarian zigzagoon": {
     "dex_id": 263,
@@ -4566,7 +4880,8 @@
       30,
       41,
       60
-    ]
+    ],
+    "alt_form": true
   },
   "linoone": {
     "dex_id": 264,
@@ -4580,7 +4895,8 @@
       50,
       61,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "linoone galarian linoone": {
     "dex_id": 264,
@@ -4595,7 +4911,8 @@
       50,
       61,
       100
-    ]
+    ],
+    "alt_form": true
   },
   "wurmple": {
     "dex_id": 265,
@@ -4609,7 +4926,8 @@
       20,
       30,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "silcoon": {
     "dex_id": 266,
@@ -4623,7 +4941,8 @@
       25,
       25,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "beautifly": {
     "dex_id": 267,
@@ -4638,7 +4957,8 @@
       100,
       50,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "cascoon": {
     "dex_id": 268,
@@ -4652,7 +4972,8 @@
       25,
       25,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "dustox": {
     "dex_id": 269,
@@ -4667,7 +4988,8 @@
       50,
       90,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "lotad": {
     "dex_id": 270,
@@ -4682,7 +5004,8 @@
       40,
       50,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "lombre": {
     "dex_id": 271,
@@ -4697,7 +5020,8 @@
       60,
       70,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "ludicolo": {
     "dex_id": 272,
@@ -4712,7 +5036,8 @@
       90,
       100,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "seedot": {
     "dex_id": 273,
@@ -4726,7 +5051,8 @@
       30,
       30,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "nuzleaf": {
     "dex_id": 274,
@@ -4741,7 +5067,8 @@
       60,
       40,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "shiftry": {
     "dex_id": 275,
@@ -4756,7 +5083,8 @@
       90,
       60,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "taillow": {
     "dex_id": 276,
@@ -4771,7 +5099,8 @@
       30,
       30,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "swellow": {
     "dex_id": 277,
@@ -4786,7 +5115,8 @@
       75,
       50,
       125
-    ]
+    ],
+    "alt_form": false
   },
   "wingull": {
     "dex_id": 278,
@@ -4801,7 +5131,8 @@
       55,
       30,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "pelipper": {
     "dex_id": 279,
@@ -4816,7 +5147,8 @@
       95,
       70,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "ralts": {
     "dex_id": 280,
@@ -4831,7 +5163,8 @@
       45,
       35,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "kirlia": {
     "dex_id": 281,
@@ -4846,7 +5179,8 @@
       65,
       55,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "gardevoir": {
     "dex_id": 282,
@@ -4861,7 +5195,8 @@
       125,
       115,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "gardevoir mega gardevoir": {
     "dex_id": 282,
@@ -4876,7 +5211,8 @@
       165,
       135,
       100
-    ]
+    ],
+    "alt_form": true
   },
   "surskit": {
     "dex_id": 283,
@@ -4891,7 +5227,8 @@
       50,
       52,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "masquerain": {
     "dex_id": 284,
@@ -4906,7 +5243,8 @@
       100,
       82,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "shroomish": {
     "dex_id": 285,
@@ -4920,7 +5258,8 @@
       40,
       60,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "breloom": {
     "dex_id": 286,
@@ -4935,7 +5274,8 @@
       60,
       60,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "slakoth": {
     "dex_id": 287,
@@ -4949,7 +5289,8 @@
       35,
       35,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "vigoroth": {
     "dex_id": 288,
@@ -4963,7 +5304,8 @@
       55,
       55,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "slaking": {
     "dex_id": 289,
@@ -4977,7 +5319,8 @@
       95,
       65,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "nincada": {
     "dex_id": 290,
@@ -4992,7 +5335,8 @@
       30,
       30,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "ninjask": {
     "dex_id": 291,
@@ -5007,7 +5351,8 @@
       50,
       50,
       160
-    ]
+    ],
+    "alt_form": false
   },
   "shedinja": {
     "dex_id": 292,
@@ -5022,7 +5367,8 @@
       30,
       30,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "whismur": {
     "dex_id": 293,
@@ -5036,7 +5382,8 @@
       51,
       23,
       28
-    ]
+    ],
+    "alt_form": false
   },
   "loudred": {
     "dex_id": 294,
@@ -5050,7 +5397,8 @@
       71,
       43,
       48
-    ]
+    ],
+    "alt_form": false
   },
   "exploud": {
     "dex_id": 295,
@@ -5064,7 +5412,8 @@
       91,
       73,
       68
-    ]
+    ],
+    "alt_form": false
   },
   "makuhita": {
     "dex_id": 296,
@@ -5078,7 +5427,8 @@
       20,
       30,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "hariyama": {
     "dex_id": 297,
@@ -5092,7 +5442,8 @@
       40,
       60,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "azurill": {
     "dex_id": 298,
@@ -5107,7 +5458,8 @@
       20,
       40,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "nosepass": {
     "dex_id": 299,
@@ -5121,7 +5473,8 @@
       45,
       90,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "skitty": {
     "dex_id": 300,
@@ -5135,7 +5488,8 @@
       35,
       35,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "delcatty": {
     "dex_id": 301,
@@ -5149,7 +5503,8 @@
       55,
       55,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "sableye": {
     "dex_id": 302,
@@ -5164,7 +5519,8 @@
       65,
       65,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "sableye mega sableye": {
     "dex_id": 302,
@@ -5179,7 +5535,8 @@
       85,
       115,
       20
-    ]
+    ],
+    "alt_form": true
   },
   "mawile": {
     "dex_id": 303,
@@ -5194,7 +5551,8 @@
       55,
       55,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "mawile mega mawile": {
     "dex_id": 303,
@@ -5209,7 +5567,8 @@
       55,
       95,
       50
-    ]
+    ],
+    "alt_form": true
   },
   "aron": {
     "dex_id": 304,
@@ -5224,7 +5583,8 @@
       40,
       40,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "lairon": {
     "dex_id": 305,
@@ -5239,7 +5599,8 @@
       50,
       50,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "aggron": {
     "dex_id": 306,
@@ -5254,7 +5615,8 @@
       60,
       60,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "aggron mega aggron": {
     "dex_id": 306,
@@ -5268,7 +5630,8 @@
       60,
       80,
       50
-    ]
+    ],
+    "alt_form": true
   },
   "meditite": {
     "dex_id": 307,
@@ -5283,7 +5646,8 @@
       40,
       55,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "medicham": {
     "dex_id": 308,
@@ -5298,7 +5662,8 @@
       60,
       75,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "medicham mega medicham": {
     "dex_id": 308,
@@ -5313,7 +5678,8 @@
       80,
       85,
       100
-    ]
+    ],
+    "alt_form": true
   },
   "electrike": {
     "dex_id": 309,
@@ -5327,7 +5693,8 @@
       65,
       40,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "manectric": {
     "dex_id": 310,
@@ -5341,7 +5708,8 @@
       105,
       60,
       105
-    ]
+    ],
+    "alt_form": false
   },
   "manectric mega manectric": {
     "dex_id": 310,
@@ -5355,7 +5723,8 @@
       135,
       80,
       135
-    ]
+    ],
+    "alt_form": true
   },
   "plusle": {
     "dex_id": 311,
@@ -5369,7 +5738,8 @@
       85,
       75,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "minun": {
     "dex_id": 312,
@@ -5383,7 +5753,8 @@
       75,
       85,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "volbeat": {
     "dex_id": 313,
@@ -5397,7 +5768,8 @@
       47,
       85,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "illumise": {
     "dex_id": 314,
@@ -5411,7 +5783,8 @@
       73,
       85,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "roselia": {
     "dex_id": 315,
@@ -5426,7 +5799,8 @@
       100,
       80,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "gulpin": {
     "dex_id": 316,
@@ -5440,7 +5814,8 @@
       43,
       53,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "swalot": {
     "dex_id": 317,
@@ -5454,7 +5829,8 @@
       73,
       83,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "carvanha": {
     "dex_id": 318,
@@ -5469,7 +5845,8 @@
       65,
       20,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "sharpedo": {
     "dex_id": 319,
@@ -5484,7 +5861,8 @@
       95,
       40,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "sharpedo mega sharpedo": {
     "dex_id": 319,
@@ -5499,7 +5877,8 @@
       110,
       65,
       105
-    ]
+    ],
+    "alt_form": true
   },
   "wailmer": {
     "dex_id": 320,
@@ -5513,7 +5892,8 @@
       70,
       35,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "wailord": {
     "dex_id": 321,
@@ -5527,7 +5907,8 @@
       90,
       45,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "numel": {
     "dex_id": 322,
@@ -5542,7 +5923,8 @@
       65,
       45,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "camerupt": {
     "dex_id": 323,
@@ -5557,7 +5939,8 @@
       105,
       75,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "camerupt mega camerupt": {
     "dex_id": 323,
@@ -5572,7 +5955,8 @@
       145,
       105,
       20
-    ]
+    ],
+    "alt_form": true
   },
   "torkoal": {
     "dex_id": 324,
@@ -5586,7 +5970,8 @@
       85,
       70,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "spoink": {
     "dex_id": 325,
@@ -5600,7 +5985,8 @@
       70,
       80,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "grumpig": {
     "dex_id": 326,
@@ -5614,7 +6000,8 @@
       90,
       110,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "spinda": {
     "dex_id": 327,
@@ -5628,7 +6015,8 @@
       60,
       60,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "trapinch": {
     "dex_id": 328,
@@ -5642,7 +6030,8 @@
       45,
       45,
       10
-    ]
+    ],
+    "alt_form": false
   },
   "vibrava": {
     "dex_id": 329,
@@ -5657,7 +6046,8 @@
       50,
       50,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "flygon": {
     "dex_id": 330,
@@ -5672,7 +6062,8 @@
       80,
       80,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "cacnea": {
     "dex_id": 331,
@@ -5686,7 +6077,8 @@
       85,
       40,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "cacturne": {
     "dex_id": 332,
@@ -5701,7 +6093,8 @@
       115,
       60,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "swablu": {
     "dex_id": 333,
@@ -5716,7 +6109,8 @@
       40,
       75,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "altaria": {
     "dex_id": 334,
@@ -5731,7 +6125,8 @@
       70,
       105,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "altaria mega altaria": {
     "dex_id": 334,
@@ -5746,7 +6141,8 @@
       110,
       105,
       80
-    ]
+    ],
+    "alt_form": true
   },
   "zangoose": {
     "dex_id": 335,
@@ -5760,7 +6156,8 @@
       60,
       60,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "seviper": {
     "dex_id": 336,
@@ -5774,7 +6171,8 @@
       100,
       60,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "lunatone": {
     "dex_id": 337,
@@ -5789,7 +6187,8 @@
       95,
       85,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "solrock": {
     "dex_id": 338,
@@ -5804,7 +6203,8 @@
       55,
       65,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "barboach": {
     "dex_id": 339,
@@ -5819,7 +6219,8 @@
       46,
       41,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "whiscash": {
     "dex_id": 340,
@@ -5834,7 +6235,8 @@
       76,
       71,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "corphish": {
     "dex_id": 341,
@@ -5848,7 +6250,8 @@
       50,
       35,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "crawdaunt": {
     "dex_id": 342,
@@ -5863,7 +6266,8 @@
       90,
       55,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "baltoy": {
     "dex_id": 343,
@@ -5878,7 +6282,8 @@
       40,
       70,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "claydol": {
     "dex_id": 344,
@@ -5893,7 +6298,8 @@
       70,
       120,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "lileep": {
     "dex_id": 345,
@@ -5908,7 +6314,8 @@
       61,
       87,
       23
-    ]
+    ],
+    "alt_form": false
   },
   "cradily": {
     "dex_id": 346,
@@ -5923,7 +6330,8 @@
       81,
       107,
       43
-    ]
+    ],
+    "alt_form": false
   },
   "anorith": {
     "dex_id": 347,
@@ -5938,7 +6346,8 @@
       40,
       50,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "armaldo": {
     "dex_id": 348,
@@ -5953,7 +6362,8 @@
       70,
       80,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "feebas": {
     "dex_id": 349,
@@ -5967,7 +6377,8 @@
       10,
       55,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "milotic": {
     "dex_id": 350,
@@ -5981,7 +6392,8 @@
       100,
       125,
       81
-    ]
+    ],
+    "alt_form": false
   },
   "castform": {
     "dex_id": 351,
@@ -5995,7 +6407,8 @@
       70,
       70,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "castform sunny form": {
     "dex_id": 351,
@@ -6009,7 +6422,8 @@
       70,
       70,
       70
-    ]
+    ],
+    "alt_form": true
   },
   "castform rainy form": {
     "dex_id": 351,
@@ -6023,7 +6437,8 @@
       70,
       70,
       70
-    ]
+    ],
+    "alt_form": true
   },
   "castform snowy form": {
     "dex_id": 351,
@@ -6037,7 +6452,8 @@
       70,
       70,
       70
-    ]
+    ],
+    "alt_form": true
   },
   "kecleon": {
     "dex_id": 352,
@@ -6051,7 +6467,8 @@
       60,
       120,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "shuppet": {
     "dex_id": 353,
@@ -6065,7 +6482,8 @@
       63,
       33,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "banette": {
     "dex_id": 354,
@@ -6079,7 +6497,8 @@
       83,
       63,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "banette mega banette": {
     "dex_id": 354,
@@ -6093,7 +6512,8 @@
       93,
       83,
       75
-    ]
+    ],
+    "alt_form": true
   },
   "duskull": {
     "dex_id": 355,
@@ -6107,7 +6527,8 @@
       30,
       90,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "dusclops": {
     "dex_id": 356,
@@ -6121,7 +6542,8 @@
       60,
       130,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "tropius": {
     "dex_id": 357,
@@ -6136,7 +6558,8 @@
       72,
       87,
       51
-    ]
+    ],
+    "alt_form": false
   },
   "chimecho": {
     "dex_id": 358,
@@ -6150,7 +6573,8 @@
       95,
       90,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "absol": {
     "dex_id": 359,
@@ -6164,7 +6588,8 @@
       75,
       60,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "absol mega absol": {
     "dex_id": 359,
@@ -6178,7 +6603,8 @@
       115,
       60,
       115
-    ]
+    ],
+    "alt_form": true
   },
   "wynaut": {
     "dex_id": 360,
@@ -6192,7 +6618,8 @@
       23,
       48,
       23
-    ]
+    ],
+    "alt_form": false
   },
   "snorunt": {
     "dex_id": 361,
@@ -6206,7 +6633,8 @@
       50,
       50,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "glalie": {
     "dex_id": 362,
@@ -6220,7 +6648,8 @@
       80,
       80,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "glalie mega glalie": {
     "dex_id": 362,
@@ -6234,7 +6663,8 @@
       120,
       80,
       100
-    ]
+    ],
+    "alt_form": true
   },
   "spheal": {
     "dex_id": 363,
@@ -6249,7 +6679,8 @@
       55,
       50,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "sealeo": {
     "dex_id": 364,
@@ -6264,7 +6695,8 @@
       75,
       70,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "walrein": {
     "dex_id": 365,
@@ -6279,7 +6711,8 @@
       95,
       90,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "clamperl": {
     "dex_id": 366,
@@ -6293,7 +6726,8 @@
       74,
       55,
       32
-    ]
+    ],
+    "alt_form": false
   },
   "huntail": {
     "dex_id": 367,
@@ -6307,7 +6741,8 @@
       94,
       75,
       52
-    ]
+    ],
+    "alt_form": false
   },
   "gorebyss": {
     "dex_id": 368,
@@ -6321,7 +6756,8 @@
       114,
       75,
       52
-    ]
+    ],
+    "alt_form": false
   },
   "relicanth": {
     "dex_id": 369,
@@ -6336,7 +6772,8 @@
       45,
       65,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "luvdisc": {
     "dex_id": 370,
@@ -6350,7 +6787,8 @@
       40,
       65,
       97
-    ]
+    ],
+    "alt_form": false
   },
   "bagon": {
     "dex_id": 371,
@@ -6364,7 +6802,8 @@
       40,
       30,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "shelgon": {
     "dex_id": 372,
@@ -6378,7 +6817,8 @@
       60,
       50,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "salamence": {
     "dex_id": 373,
@@ -6393,7 +6833,8 @@
       110,
       80,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "salamence mega salamence": {
     "dex_id": 373,
@@ -6408,7 +6849,8 @@
       120,
       90,
       120
-    ]
+    ],
+    "alt_form": true
   },
   "beldum": {
     "dex_id": 374,
@@ -6423,7 +6865,8 @@
       35,
       60,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "metang": {
     "dex_id": 375,
@@ -6438,7 +6881,8 @@
       55,
       80,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "metagross": {
     "dex_id": 376,
@@ -6453,7 +6897,8 @@
       95,
       90,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "metagross mega metagross": {
     "dex_id": 376,
@@ -6468,7 +6913,8 @@
       105,
       110,
       110
-    ]
+    ],
+    "alt_form": true
   },
   "regirock": {
     "dex_id": 377,
@@ -6482,7 +6928,8 @@
       50,
       100,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "regice": {
     "dex_id": 378,
@@ -6496,7 +6943,8 @@
       100,
       200,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "registeel": {
     "dex_id": 379,
@@ -6510,7 +6958,8 @@
       75,
       150,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "latias": {
     "dex_id": 380,
@@ -6525,7 +6974,8 @@
       110,
       130,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "latias mega latias": {
     "dex_id": 380,
@@ -6540,7 +6990,8 @@
       140,
       150,
       110
-    ]
+    ],
+    "alt_form": true
   },
   "latios": {
     "dex_id": 381,
@@ -6555,7 +7006,8 @@
       130,
       110,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "latios mega latios": {
     "dex_id": 381,
@@ -6570,7 +7022,8 @@
       160,
       120,
       110
-    ]
+    ],
+    "alt_form": true
   },
   "kyogre": {
     "dex_id": 382,
@@ -6584,7 +7037,8 @@
       150,
       140,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "kyogre primal kyogre": {
     "dex_id": 382,
@@ -6598,7 +7052,8 @@
       180,
       160,
       90
-    ]
+    ],
+    "alt_form": true
   },
   "groudon": {
     "dex_id": 383,
@@ -6612,7 +7067,8 @@
       100,
       90,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "groudon primal groudon": {
     "dex_id": 383,
@@ -6627,7 +7083,8 @@
       150,
       90,
       90
-    ]
+    ],
+    "alt_form": true
   },
   "rayquaza": {
     "dex_id": 384,
@@ -6642,7 +7099,8 @@
       150,
       90,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "rayquaza mega rayquaza": {
     "dex_id": 384,
@@ -6657,7 +7115,8 @@
       180,
       100,
       115
-    ]
+    ],
+    "alt_form": true
   },
   "jirachi": {
     "dex_id": 385,
@@ -6672,7 +7131,8 @@
       100,
       100,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "deoxys normal forme": {
     "dex_id": 386,
@@ -6686,7 +7146,8 @@
       150,
       50,
       150
-    ]
+    ],
+    "alt_form": false
   },
   "deoxys attack forme": {
     "dex_id": 386,
@@ -6700,7 +7161,8 @@
       180,
       20,
       150
-    ]
+    ],
+    "alt_form": true
   },
   "deoxys defense forme": {
     "dex_id": 386,
@@ -6714,7 +7176,8 @@
       70,
       160,
       90
-    ]
+    ],
+    "alt_form": true
   },
   "deoxys speed forme": {
     "dex_id": 386,
@@ -6728,7 +7191,8 @@
       95,
       90,
       180
-    ]
+    ],
+    "alt_form": true
   },
   "turtwig": {
     "dex_id": 387,
@@ -6742,7 +7206,8 @@
       45,
       55,
       31
-    ]
+    ],
+    "alt_form": false
   },
   "grotle": {
     "dex_id": 388,
@@ -6756,7 +7221,8 @@
       55,
       65,
       36
-    ]
+    ],
+    "alt_form": false
   },
   "torterra": {
     "dex_id": 389,
@@ -6771,7 +7237,8 @@
       75,
       85,
       56
-    ]
+    ],
+    "alt_form": false
   },
   "chimchar": {
     "dex_id": 390,
@@ -6785,7 +7252,8 @@
       58,
       44,
       61
-    ]
+    ],
+    "alt_form": false
   },
   "monferno": {
     "dex_id": 391,
@@ -6800,7 +7268,8 @@
       78,
       52,
       81
-    ]
+    ],
+    "alt_form": false
   },
   "infernape": {
     "dex_id": 392,
@@ -6815,7 +7284,8 @@
       104,
       71,
       108
-    ]
+    ],
+    "alt_form": false
   },
   "piplup": {
     "dex_id": 393,
@@ -6829,7 +7299,8 @@
       61,
       56,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "prinplup": {
     "dex_id": 394,
@@ -6843,7 +7314,8 @@
       81,
       76,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "empoleon": {
     "dex_id": 395,
@@ -6858,7 +7330,8 @@
       111,
       101,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "starly": {
     "dex_id": 396,
@@ -6873,7 +7346,8 @@
       30,
       30,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "staravia": {
     "dex_id": 397,
@@ -6888,7 +7362,8 @@
       40,
       40,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "staraptor": {
     "dex_id": 398,
@@ -6903,7 +7378,8 @@
       50,
       60,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "bidoof": {
     "dex_id": 399,
@@ -6917,7 +7393,8 @@
       35,
       40,
       31
-    ]
+    ],
+    "alt_form": false
   },
   "bibarel": {
     "dex_id": 400,
@@ -6932,7 +7409,8 @@
       55,
       60,
       71
-    ]
+    ],
+    "alt_form": false
   },
   "kricketot": {
     "dex_id": 401,
@@ -6946,7 +7424,8 @@
       25,
       41,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "kricketune": {
     "dex_id": 402,
@@ -6960,7 +7439,8 @@
       55,
       51,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "shinx": {
     "dex_id": 403,
@@ -6974,7 +7454,8 @@
       40,
       34,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "luxio": {
     "dex_id": 404,
@@ -6988,7 +7469,8 @@
       60,
       49,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "luxray": {
     "dex_id": 405,
@@ -7002,7 +7484,8 @@
       95,
       79,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "budew": {
     "dex_id": 406,
@@ -7017,7 +7500,8 @@
       50,
       70,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "roserade": {
     "dex_id": 407,
@@ -7032,7 +7516,8 @@
       125,
       105,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "cranidos": {
     "dex_id": 408,
@@ -7046,7 +7531,8 @@
       30,
       30,
       58
-    ]
+    ],
+    "alt_form": false
   },
   "rampardos": {
     "dex_id": 409,
@@ -7060,7 +7546,8 @@
       65,
       50,
       58
-    ]
+    ],
+    "alt_form": false
   },
   "shieldon": {
     "dex_id": 410,
@@ -7075,7 +7562,8 @@
       42,
       88,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "bastiodon": {
     "dex_id": 411,
@@ -7090,7 +7578,8 @@
       47,
       138,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "burmy": {
     "dex_id": 412,
@@ -7104,7 +7593,8 @@
       29,
       45,
       36
-    ]
+    ],
+    "alt_form": false
   },
   "wormadam plant cloak": {
     "dex_id": 413,
@@ -7119,7 +7609,8 @@
       79,
       105,
       36
-    ]
+    ],
+    "alt_form": false
   },
   "wormadam sandy cloak": {
     "dex_id": 413,
@@ -7134,7 +7625,8 @@
       59,
       85,
       36
-    ]
+    ],
+    "alt_form": true
   },
   "wormadam trash cloak": {
     "dex_id": 413,
@@ -7149,7 +7641,8 @@
       69,
       95,
       36
-    ]
+    ],
+    "alt_form": true
   },
   "mothim": {
     "dex_id": 414,
@@ -7164,7 +7657,8 @@
       94,
       50,
       66
-    ]
+    ],
+    "alt_form": false
   },
   "combee": {
     "dex_id": 415,
@@ -7179,7 +7673,8 @@
       30,
       42,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "vespiquen": {
     "dex_id": 416,
@@ -7194,7 +7689,8 @@
       80,
       102,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "pachirisu": {
     "dex_id": 417,
@@ -7208,7 +7704,8 @@
       45,
       90,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "buizel": {
     "dex_id": 418,
@@ -7222,7 +7719,8 @@
       60,
       30,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "floatzel": {
     "dex_id": 419,
@@ -7236,7 +7734,8 @@
       85,
       50,
       115
-    ]
+    ],
+    "alt_form": false
   },
   "cherubi": {
     "dex_id": 420,
@@ -7250,7 +7749,8 @@
       62,
       53,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "cherrim": {
     "dex_id": 421,
@@ -7264,7 +7764,8 @@
       87,
       78,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "shellos": {
     "dex_id": 422,
@@ -7278,7 +7779,8 @@
       57,
       62,
       34
-    ]
+    ],
+    "alt_form": false
   },
   "gastrodon": {
     "dex_id": 423,
@@ -7293,7 +7795,8 @@
       92,
       82,
       39
-    ]
+    ],
+    "alt_form": false
   },
   "ambipom": {
     "dex_id": 424,
@@ -7307,7 +7810,8 @@
       60,
       66,
       115
-    ]
+    ],
+    "alt_form": false
   },
   "drifloon": {
     "dex_id": 425,
@@ -7322,7 +7826,8 @@
       60,
       44,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "drifblim": {
     "dex_id": 426,
@@ -7337,7 +7842,8 @@
       90,
       54,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "buneary": {
     "dex_id": 427,
@@ -7351,7 +7857,8 @@
       44,
       56,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "lopunny": {
     "dex_id": 428,
@@ -7365,7 +7872,8 @@
       54,
       96,
       105
-    ]
+    ],
+    "alt_form": false
   },
   "lopunny mega lopunny": {
     "dex_id": 428,
@@ -7380,7 +7888,8 @@
       54,
       96,
       135
-    ]
+    ],
+    "alt_form": true
   },
   "mismagius": {
     "dex_id": 429,
@@ -7394,7 +7903,8 @@
       105,
       105,
       105
-    ]
+    ],
+    "alt_form": false
   },
   "honchkrow": {
     "dex_id": 430,
@@ -7409,7 +7919,8 @@
       105,
       52,
       71
-    ]
+    ],
+    "alt_form": false
   },
   "glameow": {
     "dex_id": 431,
@@ -7423,7 +7934,8 @@
       42,
       37,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "purugly": {
     "dex_id": 432,
@@ -7437,7 +7949,8 @@
       64,
       59,
       112
-    ]
+    ],
+    "alt_form": false
   },
   "chingling": {
     "dex_id": 433,
@@ -7451,7 +7964,8 @@
       65,
       50,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "stunky": {
     "dex_id": 434,
@@ -7466,7 +7980,8 @@
       41,
       41,
       74
-    ]
+    ],
+    "alt_form": false
   },
   "skuntank": {
     "dex_id": 435,
@@ -7481,7 +7996,8 @@
       71,
       61,
       84
-    ]
+    ],
+    "alt_form": false
   },
   "bronzor": {
     "dex_id": 436,
@@ -7496,7 +8012,8 @@
       24,
       86,
       23
-    ]
+    ],
+    "alt_form": false
   },
   "bronzong": {
     "dex_id": 437,
@@ -7511,7 +8028,8 @@
       79,
       116,
       33
-    ]
+    ],
+    "alt_form": false
   },
   "bonsly": {
     "dex_id": 438,
@@ -7525,7 +8043,8 @@
       10,
       45,
       10
-    ]
+    ],
+    "alt_form": false
   },
   "mime jr.": {
     "dex_id": 439,
@@ -7540,7 +8059,8 @@
       70,
       90,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "happiny": {
     "dex_id": 440,
@@ -7554,7 +8074,8 @@
       15,
       65,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "chatot": {
     "dex_id": 441,
@@ -7569,7 +8090,8 @@
       92,
       42,
       91
-    ]
+    ],
+    "alt_form": false
   },
   "spiritomb": {
     "dex_id": 442,
@@ -7584,7 +8106,8 @@
       92,
       108,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "gible": {
     "dex_id": 443,
@@ -7599,7 +8122,8 @@
       40,
       45,
       42
-    ]
+    ],
+    "alt_form": false
   },
   "gabite": {
     "dex_id": 444,
@@ -7614,7 +8138,8 @@
       50,
       55,
       82
-    ]
+    ],
+    "alt_form": false
   },
   "garchomp": {
     "dex_id": 445,
@@ -7629,7 +8154,8 @@
       80,
       85,
       102
-    ]
+    ],
+    "alt_form": false
   },
   "garchomp mega garchomp": {
     "dex_id": 445,
@@ -7644,7 +8170,8 @@
       120,
       95,
       92
-    ]
+    ],
+    "alt_form": true
   },
   "munchlax": {
     "dex_id": 446,
@@ -7658,7 +8185,8 @@
       40,
       85,
       5
-    ]
+    ],
+    "alt_form": false
   },
   "riolu": {
     "dex_id": 447,
@@ -7672,7 +8200,8 @@
       35,
       40,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "lucario": {
     "dex_id": 448,
@@ -7687,7 +8216,8 @@
       115,
       70,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "lucario mega lucario": {
     "dex_id": 448,
@@ -7702,7 +8232,8 @@
       140,
       70,
       112
-    ]
+    ],
+    "alt_form": true
   },
   "hippopotas": {
     "dex_id": 449,
@@ -7716,7 +8247,8 @@
       38,
       42,
       32
-    ]
+    ],
+    "alt_form": false
   },
   "hippowdon": {
     "dex_id": 450,
@@ -7730,7 +8262,8 @@
       68,
       72,
       47
-    ]
+    ],
+    "alt_form": false
   },
   "skorupi": {
     "dex_id": 451,
@@ -7745,7 +8278,8 @@
       30,
       55,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "drapion": {
     "dex_id": 452,
@@ -7760,7 +8294,8 @@
       60,
       75,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "croagunk": {
     "dex_id": 453,
@@ -7775,7 +8310,8 @@
       61,
       40,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "toxicroak": {
     "dex_id": 454,
@@ -7790,7 +8326,8 @@
       86,
       65,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "carnivine": {
     "dex_id": 455,
@@ -7804,7 +8341,8 @@
       90,
       72,
       46
-    ]
+    ],
+    "alt_form": false
   },
   "finneon": {
     "dex_id": 456,
@@ -7818,7 +8356,8 @@
       49,
       61,
       66
-    ]
+    ],
+    "alt_form": false
   },
   "lumineon": {
     "dex_id": 457,
@@ -7832,7 +8371,8 @@
       69,
       86,
       91
-    ]
+    ],
+    "alt_form": false
   },
   "mantyke": {
     "dex_id": 458,
@@ -7847,7 +8387,8 @@
       60,
       120,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "snover": {
     "dex_id": 459,
@@ -7862,7 +8403,8 @@
       62,
       60,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "abomasnow": {
     "dex_id": 460,
@@ -7877,7 +8419,8 @@
       92,
       85,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "abomasnow mega abomasnow": {
     "dex_id": 460,
@@ -7892,7 +8435,8 @@
       132,
       105,
       30
-    ]
+    ],
+    "alt_form": true
   },
   "weavile": {
     "dex_id": 461,
@@ -7907,7 +8451,8 @@
       45,
       85,
       125
-    ]
+    ],
+    "alt_form": false
   },
   "magnezone": {
     "dex_id": 462,
@@ -7922,7 +8467,8 @@
       130,
       90,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "lickilicky": {
     "dex_id": 463,
@@ -7936,7 +8482,8 @@
       80,
       95,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "rhyperior": {
     "dex_id": 464,
@@ -7951,7 +8498,8 @@
       55,
       55,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "tangrowth": {
     "dex_id": 465,
@@ -7965,7 +8513,8 @@
       110,
       50,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "electivire": {
     "dex_id": 466,
@@ -7979,7 +8528,8 @@
       95,
       85,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "magmortar": {
     "dex_id": 467,
@@ -7993,7 +8543,8 @@
       125,
       95,
       83
-    ]
+    ],
+    "alt_form": false
   },
   "togekiss": {
     "dex_id": 468,
@@ -8008,7 +8559,8 @@
       120,
       115,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "yanmega": {
     "dex_id": 469,
@@ -8023,7 +8575,8 @@
       116,
       56,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "leafeon": {
     "dex_id": 470,
@@ -8037,7 +8590,8 @@
       60,
       65,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "glaceon": {
     "dex_id": 471,
@@ -8051,7 +8605,8 @@
       130,
       95,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "gliscor": {
     "dex_id": 472,
@@ -8066,7 +8621,8 @@
       45,
       75,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "mamoswine": {
     "dex_id": 473,
@@ -8081,7 +8637,8 @@
       70,
       60,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "porygon-z": {
     "dex_id": 474,
@@ -8095,7 +8652,8 @@
       135,
       75,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "gallade": {
     "dex_id": 475,
@@ -8110,7 +8668,8 @@
       65,
       115,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "gallade mega gallade": {
     "dex_id": 475,
@@ -8125,7 +8684,8 @@
       65,
       115,
       110
-    ]
+    ],
+    "alt_form": true
   },
   "probopass": {
     "dex_id": 476,
@@ -8140,7 +8700,8 @@
       75,
       150,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "dusknoir": {
     "dex_id": 477,
@@ -8154,7 +8715,8 @@
       65,
       135,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "froslass": {
     "dex_id": 478,
@@ -8169,7 +8731,8 @@
       80,
       70,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "rotom": {
     "dex_id": 479,
@@ -8184,7 +8747,8 @@
       95,
       77,
       91
-    ]
+    ],
+    "alt_form": false
   },
   "rotom heat rotom": {
     "dex_id": 479,
@@ -8199,7 +8763,8 @@
       105,
       107,
       86
-    ]
+    ],
+    "alt_form": true
   },
   "rotom wash rotom": {
     "dex_id": 479,
@@ -8214,7 +8779,8 @@
       105,
       107,
       86
-    ]
+    ],
+    "alt_form": true
   },
   "rotom frost rotom": {
     "dex_id": 479,
@@ -8229,7 +8795,8 @@
       105,
       107,
       86
-    ]
+    ],
+    "alt_form": true
   },
   "rotom fan rotom": {
     "dex_id": 479,
@@ -8244,7 +8811,8 @@
       105,
       107,
       86
-    ]
+    ],
+    "alt_form": true
   },
   "rotom mow rotom": {
     "dex_id": 479,
@@ -8259,7 +8827,8 @@
       105,
       107,
       86
-    ]
+    ],
+    "alt_form": true
   },
   "uxie": {
     "dex_id": 480,
@@ -8273,7 +8842,8 @@
       75,
       130,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "mesprit": {
     "dex_id": 481,
@@ -8287,7 +8857,8 @@
       105,
       105,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "azelf": {
     "dex_id": 482,
@@ -8301,7 +8872,8 @@
       125,
       70,
       115
-    ]
+    ],
+    "alt_form": false
   },
   "dialga": {
     "dex_id": 483,
@@ -8316,7 +8888,8 @@
       150,
       100,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "palkia": {
     "dex_id": 484,
@@ -8331,7 +8904,8 @@
       150,
       120,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "heatran": {
     "dex_id": 485,
@@ -8346,7 +8920,8 @@
       130,
       106,
       77
-    ]
+    ],
+    "alt_form": false
   },
   "regigigas": {
     "dex_id": 486,
@@ -8360,7 +8935,8 @@
       80,
       110,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "giratina altered forme": {
     "dex_id": 487,
@@ -8375,7 +8951,8 @@
       100,
       120,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "giratina origin forme": {
     "dex_id": 487,
@@ -8390,7 +8967,8 @@
       120,
       100,
       90
-    ]
+    ],
+    "alt_form": true
   },
   "cresselia": {
     "dex_id": 488,
@@ -8404,7 +8982,8 @@
       75,
       130,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "phione": {
     "dex_id": 489,
@@ -8418,7 +8997,8 @@
       80,
       80,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "manaphy": {
     "dex_id": 490,
@@ -8432,7 +9012,8 @@
       100,
       100,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "darkrai": {
     "dex_id": 491,
@@ -8446,7 +9027,8 @@
       135,
       90,
       125
-    ]
+    ],
+    "alt_form": false
   },
   "shaymin land forme": {
     "dex_id": 492,
@@ -8460,7 +9042,8 @@
       100,
       100,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "shaymin sky forme": {
     "dex_id": 492,
@@ -8475,7 +9058,8 @@
       120,
       75,
       127
-    ]
+    ],
+    "alt_form": true
   },
   "arceus": {
     "dex_id": 493,
@@ -8489,7 +9073,8 @@
       120,
       120,
       120
-    ]
+    ],
+    "alt_form": false
   },
   "victini": {
     "dex_id": 494,
@@ -8504,7 +9089,8 @@
       100,
       100,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "snivy": {
     "dex_id": 495,
@@ -8518,7 +9104,8 @@
       45,
       55,
       63
-    ]
+    ],
+    "alt_form": false
   },
   "servine": {
     "dex_id": 496,
@@ -8532,7 +9119,8 @@
       60,
       75,
       83
-    ]
+    ],
+    "alt_form": false
   },
   "serperior": {
     "dex_id": 497,
@@ -8546,7 +9134,8 @@
       75,
       95,
       113
-    ]
+    ],
+    "alt_form": false
   },
   "tepig": {
     "dex_id": 498,
@@ -8560,7 +9149,8 @@
       45,
       45,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "pignite": {
     "dex_id": 499,
@@ -8575,7 +9165,8 @@
       70,
       55,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "emboar": {
     "dex_id": 500,
@@ -8590,7 +9181,8 @@
       100,
       65,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "oshawott": {
     "dex_id": 501,
@@ -8604,7 +9196,8 @@
       63,
       45,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "dewott": {
     "dex_id": 502,
@@ -8618,7 +9211,8 @@
       83,
       60,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "samurott": {
     "dex_id": 503,
@@ -8632,7 +9226,8 @@
       108,
       70,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "patrat": {
     "dex_id": 504,
@@ -8646,7 +9241,8 @@
       35,
       39,
       42
-    ]
+    ],
+    "alt_form": false
   },
   "watchog": {
     "dex_id": 505,
@@ -8660,7 +9256,8 @@
       60,
       69,
       77
-    ]
+    ],
+    "alt_form": false
   },
   "lillipup": {
     "dex_id": 506,
@@ -8674,7 +9271,8 @@
       25,
       45,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "herdier": {
     "dex_id": 507,
@@ -8688,7 +9286,8 @@
       35,
       65,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "stoutland": {
     "dex_id": 508,
@@ -8702,7 +9301,8 @@
       45,
       90,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "purrloin": {
     "dex_id": 509,
@@ -8716,7 +9316,8 @@
       50,
       37,
       66
-    ]
+    ],
+    "alt_form": false
   },
   "liepard": {
     "dex_id": 510,
@@ -8730,7 +9331,8 @@
       88,
       50,
       106
-    ]
+    ],
+    "alt_form": false
   },
   "pansage": {
     "dex_id": 511,
@@ -8744,7 +9346,8 @@
       53,
       48,
       64
-    ]
+    ],
+    "alt_form": false
   },
   "simisage": {
     "dex_id": 512,
@@ -8758,7 +9361,8 @@
       98,
       63,
       101
-    ]
+    ],
+    "alt_form": false
   },
   "pansear": {
     "dex_id": 513,
@@ -8772,7 +9376,8 @@
       53,
       48,
       64
-    ]
+    ],
+    "alt_form": false
   },
   "simisear": {
     "dex_id": 514,
@@ -8786,7 +9391,8 @@
       98,
       63,
       101
-    ]
+    ],
+    "alt_form": false
   },
   "panpour": {
     "dex_id": 515,
@@ -8800,7 +9406,8 @@
       53,
       48,
       64
-    ]
+    ],
+    "alt_form": false
   },
   "simipour": {
     "dex_id": 516,
@@ -8814,7 +9421,8 @@
       98,
       63,
       101
-    ]
+    ],
+    "alt_form": false
   },
   "munna": {
     "dex_id": 517,
@@ -8828,7 +9436,8 @@
       67,
       55,
       24
-    ]
+    ],
+    "alt_form": false
   },
   "musharna": {
     "dex_id": 518,
@@ -8842,7 +9451,8 @@
       107,
       95,
       29
-    ]
+    ],
+    "alt_form": false
   },
   "pidove": {
     "dex_id": 519,
@@ -8857,7 +9467,8 @@
       36,
       30,
       43
-    ]
+    ],
+    "alt_form": false
   },
   "tranquill": {
     "dex_id": 520,
@@ -8872,7 +9483,8 @@
       50,
       42,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "unfezant": {
     "dex_id": 521,
@@ -8887,7 +9499,8 @@
       65,
       55,
       93
-    ]
+    ],
+    "alt_form": false
   },
   "blitzle": {
     "dex_id": 522,
@@ -8901,7 +9514,8 @@
       50,
       32,
       76
-    ]
+    ],
+    "alt_form": false
   },
   "zebstrika": {
     "dex_id": 523,
@@ -8915,7 +9529,8 @@
       80,
       63,
       116
-    ]
+    ],
+    "alt_form": false
   },
   "roggenrola": {
     "dex_id": 524,
@@ -8929,7 +9544,8 @@
       25,
       25,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "boldore": {
     "dex_id": 525,
@@ -8943,7 +9559,8 @@
       50,
       40,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "gigalith": {
     "dex_id": 526,
@@ -8957,7 +9574,8 @@
       60,
       80,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "woobat": {
     "dex_id": 527,
@@ -8972,7 +9590,8 @@
       55,
       43,
       72
-    ]
+    ],
+    "alt_form": false
   },
   "swoobat": {
     "dex_id": 528,
@@ -8987,7 +9606,8 @@
       77,
       55,
       114
-    ]
+    ],
+    "alt_form": false
   },
   "drilbur": {
     "dex_id": 529,
@@ -9001,7 +9621,8 @@
       30,
       45,
       68
-    ]
+    ],
+    "alt_form": false
   },
   "excadrill": {
     "dex_id": 530,
@@ -9016,7 +9637,8 @@
       50,
       65,
       88
-    ]
+    ],
+    "alt_form": false
   },
   "audino": {
     "dex_id": 531,
@@ -9030,7 +9652,8 @@
       60,
       86,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "audino mega audino": {
     "dex_id": 531,
@@ -9045,7 +9668,8 @@
       80,
       126,
       50
-    ]
+    ],
+    "alt_form": true
   },
   "timburr": {
     "dex_id": 532,
@@ -9059,7 +9683,8 @@
       25,
       35,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "gurdurr": {
     "dex_id": 533,
@@ -9073,7 +9698,8 @@
       40,
       50,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "conkeldurr": {
     "dex_id": 534,
@@ -9087,7 +9713,8 @@
       55,
       65,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "tympole": {
     "dex_id": 535,
@@ -9101,7 +9728,8 @@
       50,
       40,
       64
-    ]
+    ],
+    "alt_form": false
   },
   "palpitoad": {
     "dex_id": 536,
@@ -9116,7 +9744,8 @@
       65,
       55,
       69
-    ]
+    ],
+    "alt_form": false
   },
   "seismitoad": {
     "dex_id": 537,
@@ -9131,7 +9760,8 @@
       85,
       75,
       74
-    ]
+    ],
+    "alt_form": false
   },
   "throh": {
     "dex_id": 538,
@@ -9145,7 +9775,8 @@
       30,
       85,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "sawk": {
     "dex_id": 539,
@@ -9159,7 +9790,8 @@
       30,
       75,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "sewaddle": {
     "dex_id": 540,
@@ -9174,7 +9806,8 @@
       40,
       60,
       42
-    ]
+    ],
+    "alt_form": false
   },
   "swadloon": {
     "dex_id": 541,
@@ -9189,7 +9822,8 @@
       50,
       80,
       42
-    ]
+    ],
+    "alt_form": false
   },
   "leavanny": {
     "dex_id": 542,
@@ -9204,7 +9838,8 @@
       70,
       80,
       92
-    ]
+    ],
+    "alt_form": false
   },
   "venipede": {
     "dex_id": 543,
@@ -9219,7 +9854,8 @@
       30,
       39,
       57
-    ]
+    ],
+    "alt_form": false
   },
   "whirlipede": {
     "dex_id": 544,
@@ -9234,7 +9870,8 @@
       40,
       79,
       47
-    ]
+    ],
+    "alt_form": false
   },
   "scolipede": {
     "dex_id": 545,
@@ -9249,7 +9886,8 @@
       55,
       69,
       112
-    ]
+    ],
+    "alt_form": false
   },
   "cottonee": {
     "dex_id": 546,
@@ -9264,7 +9902,8 @@
       37,
       50,
       66
-    ]
+    ],
+    "alt_form": false
   },
   "whimsicott": {
     "dex_id": 547,
@@ -9279,7 +9918,8 @@
       77,
       75,
       116
-    ]
+    ],
+    "alt_form": false
   },
   "petilil": {
     "dex_id": 548,
@@ -9293,7 +9933,8 @@
       70,
       50,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "lilligant": {
     "dex_id": 549,
@@ -9307,7 +9948,8 @@
       110,
       75,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "basculin red-striped form": {
     "dex_id": 550,
@@ -9321,7 +9963,8 @@
       80,
       55,
       98
-    ]
+    ],
+    "alt_form": false
   },
   "basculin blue-striped form": {
     "dex_id": 550,
@@ -9335,7 +9978,8 @@
       80,
       55,
       98
-    ]
+    ],
+    "alt_form": true
   },
   "sandile": {
     "dex_id": 551,
@@ -9350,7 +9994,8 @@
       35,
       35,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "krokorok": {
     "dex_id": 552,
@@ -9365,7 +10010,8 @@
       45,
       45,
       74
-    ]
+    ],
+    "alt_form": false
   },
   "krookodile": {
     "dex_id": 553,
@@ -9380,7 +10026,8 @@
       65,
       70,
       92
-    ]
+    ],
+    "alt_form": false
   },
   "darumaka": {
     "dex_id": 554,
@@ -9394,7 +10041,8 @@
       15,
       45,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "darumaka galarian darumaka": {
     "dex_id": 554,
@@ -9408,7 +10056,8 @@
       15,
       45,
       50
-    ]
+    ],
+    "alt_form": true
   },
   "darmanitan standard mode": {
     "dex_id": 555,
@@ -9422,7 +10071,8 @@
       30,
       55,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "darmanitan zen mode": {
     "dex_id": 555,
@@ -9437,7 +10087,8 @@
       140,
       105,
       55
-    ]
+    ],
+    "alt_form": true
   },
   "darmanitan galarian standard mode": {
     "dex_id": 555,
@@ -9451,7 +10102,8 @@
       30,
       55,
       95
-    ]
+    ],
+    "alt_form": true
   },
   "darmanitan galarian zen mode": {
     "dex_id": 555,
@@ -9466,7 +10118,8 @@
       30,
       55,
       135
-    ]
+    ],
+    "alt_form": true
   },
   "maractus": {
     "dex_id": 556,
@@ -9480,7 +10133,8 @@
       106,
       67,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "dwebble": {
     "dex_id": 557,
@@ -9495,7 +10149,8 @@
       35,
       35,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "crustle": {
     "dex_id": 558,
@@ -9510,7 +10165,8 @@
       65,
       75,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "scraggy": {
     "dex_id": 559,
@@ -9525,7 +10181,8 @@
       35,
       70,
       48
-    ]
+    ],
+    "alt_form": false
   },
   "scrafty": {
     "dex_id": 560,
@@ -9540,7 +10197,8 @@
       45,
       115,
       58
-    ]
+    ],
+    "alt_form": false
   },
   "sigilyph": {
     "dex_id": 561,
@@ -9555,7 +10213,8 @@
       103,
       80,
       97
-    ]
+    ],
+    "alt_form": false
   },
   "yamask": {
     "dex_id": 562,
@@ -9569,7 +10228,8 @@
       55,
       65,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "yamask galarian yamask": {
     "dex_id": 562,
@@ -9584,7 +10244,8 @@
       30,
       65,
       30
-    ]
+    ],
+    "alt_form": true
   },
   "cofagrigus": {
     "dex_id": 563,
@@ -9598,7 +10259,8 @@
       95,
       105,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "tirtouga": {
     "dex_id": 564,
@@ -9613,7 +10275,8 @@
       53,
       45,
       22
-    ]
+    ],
+    "alt_form": false
   },
   "carracosta": {
     "dex_id": 565,
@@ -9628,7 +10291,8 @@
       83,
       65,
       32
-    ]
+    ],
+    "alt_form": false
   },
   "archen": {
     "dex_id": 566,
@@ -9643,7 +10307,8 @@
       74,
       45,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "archeops": {
     "dex_id": 567,
@@ -9658,7 +10323,8 @@
       112,
       65,
       110
-    ]
+    ],
+    "alt_form": false
   },
   "trubbish": {
     "dex_id": 568,
@@ -9672,7 +10338,8 @@
       40,
       62,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "garbodor": {
     "dex_id": 569,
@@ -9686,7 +10353,8 @@
       60,
       82,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "zorua": {
     "dex_id": 570,
@@ -9700,7 +10368,8 @@
       80,
       40,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "zoroark": {
     "dex_id": 571,
@@ -9714,7 +10383,8 @@
       120,
       60,
       105
-    ]
+    ],
+    "alt_form": false
   },
   "minccino": {
     "dex_id": 572,
@@ -9728,7 +10398,8 @@
       40,
       40,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "cinccino": {
     "dex_id": 573,
@@ -9742,7 +10413,8 @@
       65,
       60,
       115
-    ]
+    ],
+    "alt_form": false
   },
   "gothita": {
     "dex_id": 574,
@@ -9756,7 +10428,8 @@
       55,
       65,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "gothorita": {
     "dex_id": 575,
@@ -9770,7 +10443,8 @@
       75,
       85,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "gothitelle": {
     "dex_id": 576,
@@ -9784,7 +10458,8 @@
       95,
       110,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "solosis": {
     "dex_id": 577,
@@ -9798,7 +10473,8 @@
       105,
       50,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "duosion": {
     "dex_id": 578,
@@ -9812,7 +10488,8 @@
       125,
       60,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "reuniclus": {
     "dex_id": 579,
@@ -9826,7 +10503,8 @@
       125,
       85,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "ducklett": {
     "dex_id": 580,
@@ -9841,7 +10519,8 @@
       44,
       50,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "swanna": {
     "dex_id": 581,
@@ -9856,7 +10535,8 @@
       87,
       63,
       98
-    ]
+    ],
+    "alt_form": false
   },
   "vanillite": {
     "dex_id": 582,
@@ -9870,7 +10550,8 @@
       65,
       60,
       44
-    ]
+    ],
+    "alt_form": false
   },
   "vanillish": {
     "dex_id": 583,
@@ -9884,7 +10565,8 @@
       80,
       75,
       59
-    ]
+    ],
+    "alt_form": false
   },
   "vanilluxe": {
     "dex_id": 584,
@@ -9898,7 +10580,8 @@
       110,
       95,
       79
-    ]
+    ],
+    "alt_form": false
   },
   "deerling": {
     "dex_id": 585,
@@ -9913,7 +10596,8 @@
       40,
       50,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "sawsbuck": {
     "dex_id": 586,
@@ -9928,7 +10612,8 @@
       60,
       70,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "emolga": {
     "dex_id": 587,
@@ -9943,7 +10628,8 @@
       75,
       60,
       103
-    ]
+    ],
+    "alt_form": false
   },
   "karrablast": {
     "dex_id": 588,
@@ -9957,7 +10643,8 @@
       40,
       45,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "escavalier": {
     "dex_id": 589,
@@ -9972,7 +10659,8 @@
       60,
       105,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "foongus": {
     "dex_id": 590,
@@ -9987,7 +10675,8 @@
       55,
       55,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "amoonguss": {
     "dex_id": 591,
@@ -10002,7 +10691,8 @@
       85,
       80,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "frillish": {
     "dex_id": 592,
@@ -10017,7 +10707,8 @@
       65,
       85,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "jellicent": {
     "dex_id": 593,
@@ -10032,7 +10723,8 @@
       85,
       105,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "alomomola": {
     "dex_id": 594,
@@ -10046,7 +10738,8 @@
       40,
       45,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "joltik": {
     "dex_id": 595,
@@ -10061,7 +10754,8 @@
       57,
       50,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "galvantula": {
     "dex_id": 596,
@@ -10076,7 +10770,8 @@
       97,
       60,
       108
-    ]
+    ],
+    "alt_form": false
   },
   "ferroseed": {
     "dex_id": 597,
@@ -10091,7 +10786,8 @@
       24,
       86,
       10
-    ]
+    ],
+    "alt_form": false
   },
   "ferrothorn": {
     "dex_id": 598,
@@ -10106,7 +10802,8 @@
       54,
       116,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "klink": {
     "dex_id": 599,
@@ -10120,7 +10817,8 @@
       45,
       60,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "klang": {
     "dex_id": 600,
@@ -10134,7 +10832,8 @@
       70,
       85,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "klinklang": {
     "dex_id": 601,
@@ -10148,7 +10847,8 @@
       70,
       85,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "tynamo": {
     "dex_id": 602,
@@ -10162,7 +10862,8 @@
       45,
       40,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "eelektrik": {
     "dex_id": 603,
@@ -10176,7 +10877,8 @@
       75,
       70,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "eelektross": {
     "dex_id": 604,
@@ -10190,7 +10892,8 @@
       105,
       80,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "elgyem": {
     "dex_id": 605,
@@ -10204,7 +10907,8 @@
       85,
       55,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "beheeyem": {
     "dex_id": 606,
@@ -10218,7 +10922,8 @@
       125,
       95,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "litwick": {
     "dex_id": 607,
@@ -10233,7 +10938,8 @@
       65,
       55,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "lampent": {
     "dex_id": 608,
@@ -10248,7 +10954,8 @@
       95,
       60,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "chandelure": {
     "dex_id": 609,
@@ -10263,7 +10970,8 @@
       145,
       90,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "axew": {
     "dex_id": 610,
@@ -10277,7 +10985,8 @@
       30,
       40,
       57
-    ]
+    ],
+    "alt_form": false
   },
   "fraxure": {
     "dex_id": 611,
@@ -10291,7 +11000,8 @@
       40,
       50,
       67
-    ]
+    ],
+    "alt_form": false
   },
   "haxorus": {
     "dex_id": 612,
@@ -10305,7 +11015,8 @@
       60,
       70,
       97
-    ]
+    ],
+    "alt_form": false
   },
   "cubchoo": {
     "dex_id": 613,
@@ -10319,7 +11030,8 @@
       60,
       40,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "beartic": {
     "dex_id": 614,
@@ -10333,7 +11045,8 @@
       70,
       80,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "cryogonal": {
     "dex_id": 615,
@@ -10347,7 +11060,8 @@
       95,
       135,
       105
-    ]
+    ],
+    "alt_form": false
   },
   "shelmet": {
     "dex_id": 616,
@@ -10361,7 +11075,8 @@
       40,
       65,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "accelgor": {
     "dex_id": 617,
@@ -10375,7 +11090,8 @@
       100,
       60,
       145
-    ]
+    ],
+    "alt_form": false
   },
   "stunfisk": {
     "dex_id": 618,
@@ -10390,7 +11106,8 @@
       81,
       99,
       32
-    ]
+    ],
+    "alt_form": false
   },
   "stunfisk galarian stunfisk": {
     "dex_id": 618,
@@ -10405,7 +11122,8 @@
       66,
       84,
       32
-    ]
+    ],
+    "alt_form": true
   },
   "mienfoo": {
     "dex_id": 619,
@@ -10419,7 +11137,8 @@
       55,
       50,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "mienshao": {
     "dex_id": 620,
@@ -10433,7 +11152,8 @@
       95,
       60,
       105
-    ]
+    ],
+    "alt_form": false
   },
   "druddigon": {
     "dex_id": 621,
@@ -10447,7 +11167,8 @@
       60,
       90,
       48
-    ]
+    ],
+    "alt_form": false
   },
   "golett": {
     "dex_id": 622,
@@ -10462,7 +11183,8 @@
       35,
       50,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "golurk": {
     "dex_id": 623,
@@ -10477,7 +11199,8 @@
       55,
       80,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "pawniard": {
     "dex_id": 624,
@@ -10492,7 +11215,8 @@
       40,
       40,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "bisharp": {
     "dex_id": 625,
@@ -10507,7 +11231,8 @@
       60,
       70,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "bouffalant": {
     "dex_id": 626,
@@ -10521,7 +11246,8 @@
       40,
       95,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "rufflet": {
     "dex_id": 627,
@@ -10536,7 +11262,8 @@
       37,
       50,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "braviary": {
     "dex_id": 628,
@@ -10551,7 +11278,8 @@
       57,
       75,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "vullaby": {
     "dex_id": 629,
@@ -10566,7 +11294,8 @@
       45,
       65,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "mandibuzz": {
     "dex_id": 630,
@@ -10581,7 +11310,8 @@
       55,
       95,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "heatmor": {
     "dex_id": 631,
@@ -10595,7 +11325,8 @@
       105,
       66,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "durant": {
     "dex_id": 632,
@@ -10610,7 +11341,8 @@
       48,
       48,
       109
-    ]
+    ],
+    "alt_form": false
   },
   "deino": {
     "dex_id": 633,
@@ -10625,7 +11357,8 @@
       45,
       50,
       38
-    ]
+    ],
+    "alt_form": false
   },
   "zweilous": {
     "dex_id": 634,
@@ -10640,7 +11373,8 @@
       65,
       70,
       58
-    ]
+    ],
+    "alt_form": false
   },
   "hydreigon": {
     "dex_id": 635,
@@ -10655,7 +11389,8 @@
       125,
       90,
       98
-    ]
+    ],
+    "alt_form": false
   },
   "larvesta": {
     "dex_id": 636,
@@ -10670,7 +11405,8 @@
       50,
       55,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "volcarona": {
     "dex_id": 637,
@@ -10685,7 +11421,8 @@
       135,
       105,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "cobalion": {
     "dex_id": 638,
@@ -10700,7 +11437,8 @@
       90,
       72,
       108
-    ]
+    ],
+    "alt_form": false
   },
   "terrakion": {
     "dex_id": 639,
@@ -10715,7 +11453,8 @@
       72,
       90,
       108
-    ]
+    ],
+    "alt_form": false
   },
   "virizion": {
     "dex_id": 640,
@@ -10730,7 +11469,8 @@
       90,
       129,
       108
-    ]
+    ],
+    "alt_form": false
   },
   "tornadus incarnate forme": {
     "dex_id": 641,
@@ -10744,7 +11484,8 @@
       125,
       80,
       111
-    ]
+    ],
+    "alt_form": false
   },
   "tornadus therian forme": {
     "dex_id": 641,
@@ -10758,7 +11499,8 @@
       110,
       90,
       121
-    ]
+    ],
+    "alt_form": true
   },
   "thundurus incarnate forme": {
     "dex_id": 642,
@@ -10773,7 +11515,8 @@
       125,
       80,
       111
-    ]
+    ],
+    "alt_form": false
   },
   "thundurus therian forme": {
     "dex_id": 642,
@@ -10788,7 +11531,8 @@
       145,
       80,
       101
-    ]
+    ],
+    "alt_form": true
   },
   "reshiram": {
     "dex_id": 643,
@@ -10803,7 +11547,8 @@
       150,
       120,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "zekrom": {
     "dex_id": 644,
@@ -10818,7 +11563,8 @@
       120,
       100,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "landorus incarnate forme": {
     "dex_id": 645,
@@ -10833,7 +11579,8 @@
       115,
       80,
       101
-    ]
+    ],
+    "alt_form": false
   },
   "landorus therian forme": {
     "dex_id": 645,
@@ -10848,7 +11595,8 @@
       105,
       80,
       91
-    ]
+    ],
+    "alt_form": true
   },
   "kyurem": {
     "dex_id": 646,
@@ -10863,7 +11611,8 @@
       130,
       90,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "kyurem black kyurem": {
     "dex_id": 646,
@@ -10878,7 +11627,8 @@
       120,
       90,
       95
-    ]
+    ],
+    "alt_form": true
   },
   "kyurem white kyurem": {
     "dex_id": 646,
@@ -10893,7 +11643,8 @@
       170,
       100,
       95
-    ]
+    ],
+    "alt_form": true
   },
   "keldeo ordinary forme": {
     "dex_id": 647,
@@ -10908,7 +11659,8 @@
       129,
       90,
       108
-    ]
+    ],
+    "alt_form": false
   },
   "keldeo resolute forme": {
     "dex_id": 647,
@@ -10923,7 +11675,8 @@
       129,
       90,
       108
-    ]
+    ],
+    "alt_form": true
   },
   "meloetta aria forme": {
     "dex_id": 648,
@@ -10938,7 +11691,8 @@
       128,
       128,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "meloetta pirouette forme": {
     "dex_id": 648,
@@ -10953,7 +11707,8 @@
       77,
       77,
       128
-    ]
+    ],
+    "alt_form": true
   },
   "genesect": {
     "dex_id": 649,
@@ -10968,7 +11723,8 @@
       120,
       95,
       99
-    ]
+    ],
+    "alt_form": false
   },
   "chespin": {
     "dex_id": 650,
@@ -10982,7 +11738,8 @@
       48,
       45,
       38
-    ]
+    ],
+    "alt_form": false
   },
   "quilladin": {
     "dex_id": 651,
@@ -10996,7 +11753,8 @@
       56,
       58,
       57
-    ]
+    ],
+    "alt_form": false
   },
   "chesnaught": {
     "dex_id": 652,
@@ -11011,7 +11769,8 @@
       74,
       75,
       64
-    ]
+    ],
+    "alt_form": false
   },
   "fennekin": {
     "dex_id": 653,
@@ -11025,7 +11784,8 @@
       62,
       60,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "braixen": {
     "dex_id": 654,
@@ -11039,7 +11799,8 @@
       90,
       70,
       73
-    ]
+    ],
+    "alt_form": false
   },
   "delphox": {
     "dex_id": 655,
@@ -11054,7 +11815,8 @@
       114,
       100,
       104
-    ]
+    ],
+    "alt_form": false
   },
   "froakie": {
     "dex_id": 656,
@@ -11068,7 +11830,8 @@
       62,
       44,
       71
-    ]
+    ],
+    "alt_form": false
   },
   "frogadier": {
     "dex_id": 657,
@@ -11082,7 +11845,8 @@
       83,
       56,
       97
-    ]
+    ],
+    "alt_form": false
   },
   "greninja": {
     "dex_id": 658,
@@ -11097,7 +11861,8 @@
       103,
       71,
       122
-    ]
+    ],
+    "alt_form": false
   },
   "greninja ash-greninja": {
     "dex_id": 658,
@@ -11112,7 +11877,8 @@
       153,
       71,
       132
-    ]
+    ],
+    "alt_form": true
   },
   "bunnelby": {
     "dex_id": 659,
@@ -11126,7 +11892,8 @@
       32,
       36,
       57
-    ]
+    ],
+    "alt_form": false
   },
   "diggersby": {
     "dex_id": 660,
@@ -11141,7 +11908,8 @@
       50,
       77,
       78
-    ]
+    ],
+    "alt_form": false
   },
   "fletchling": {
     "dex_id": 661,
@@ -11156,7 +11924,8 @@
       40,
       38,
       62
-    ]
+    ],
+    "alt_form": false
   },
   "fletchinder": {
     "dex_id": 662,
@@ -11171,7 +11940,8 @@
       56,
       52,
       84
-    ]
+    ],
+    "alt_form": false
   },
   "talonflame": {
     "dex_id": 663,
@@ -11186,7 +11956,8 @@
       74,
       69,
       126
-    ]
+    ],
+    "alt_form": false
   },
   "scatterbug": {
     "dex_id": 664,
@@ -11200,7 +11971,8 @@
       27,
       25,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "spewpa": {
     "dex_id": 665,
@@ -11214,7 +11986,8 @@
       27,
       30,
       29
-    ]
+    ],
+    "alt_form": false
   },
   "vivillon": {
     "dex_id": 666,
@@ -11229,7 +12002,8 @@
       90,
       50,
       89
-    ]
+    ],
+    "alt_form": false
   },
   "litleo": {
     "dex_id": 667,
@@ -11244,7 +12018,8 @@
       73,
       54,
       72
-    ]
+    ],
+    "alt_form": false
   },
   "pyroar": {
     "dex_id": 668,
@@ -11259,7 +12034,8 @@
       109,
       66,
       106
-    ]
+    ],
+    "alt_form": false
   },
   "flab\u00e9b\u00e9": {
     "dex_id": 669,
@@ -11273,7 +12049,8 @@
       61,
       79,
       42
-    ]
+    ],
+    "alt_form": false
   },
   "floette": {
     "dex_id": 670,
@@ -11287,7 +12064,8 @@
       75,
       98,
       52
-    ]
+    ],
+    "alt_form": false
   },
   "florges": {
     "dex_id": 671,
@@ -11301,7 +12079,8 @@
       112,
       154,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "skiddo": {
     "dex_id": 672,
@@ -11315,7 +12094,8 @@
       62,
       57,
       52
-    ]
+    ],
+    "alt_form": false
   },
   "gogoat": {
     "dex_id": 673,
@@ -11329,7 +12109,8 @@
       97,
       81,
       68
-    ]
+    ],
+    "alt_form": false
   },
   "pancham": {
     "dex_id": 674,
@@ -11343,7 +12124,8 @@
       46,
       48,
       43
-    ]
+    ],
+    "alt_form": false
   },
   "pangoro": {
     "dex_id": 675,
@@ -11358,7 +12140,8 @@
       69,
       71,
       58
-    ]
+    ],
+    "alt_form": false
   },
   "furfrou": {
     "dex_id": 676,
@@ -11372,7 +12155,8 @@
       65,
       90,
       102
-    ]
+    ],
+    "alt_form": false
   },
   "espurr": {
     "dex_id": 677,
@@ -11386,7 +12170,8 @@
       63,
       60,
       68
-    ]
+    ],
+    "alt_form": false
   },
   "meowstic male": {
     "dex_id": 678,
@@ -11400,7 +12185,8 @@
       83,
       81,
       104
-    ]
+    ],
+    "alt_form": false
   },
   "meowstic female": {
     "dex_id": 678,
@@ -11414,7 +12200,8 @@
       83,
       81,
       104
-    ]
+    ],
+    "alt_form": true
   },
   "honedge": {
     "dex_id": 679,
@@ -11429,7 +12216,8 @@
       35,
       37,
       28
-    ]
+    ],
+    "alt_form": false
   },
   "doublade": {
     "dex_id": 680,
@@ -11444,7 +12232,8 @@
       45,
       49,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "aegislash blade forme": {
     "dex_id": 681,
@@ -11459,7 +12248,8 @@
       150,
       50,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "aegislash shield forme": {
     "dex_id": 681,
@@ -11474,7 +12264,8 @@
       50,
       150,
       60
-    ]
+    ],
+    "alt_form": true
   },
   "spritzee": {
     "dex_id": 682,
@@ -11488,7 +12279,8 @@
       63,
       65,
       23
-    ]
+    ],
+    "alt_form": false
   },
   "aromatisse": {
     "dex_id": 683,
@@ -11502,7 +12294,8 @@
       99,
       89,
       29
-    ]
+    ],
+    "alt_form": false
   },
   "swirlix": {
     "dex_id": 684,
@@ -11516,7 +12309,8 @@
       59,
       57,
       49
-    ]
+    ],
+    "alt_form": false
   },
   "slurpuff": {
     "dex_id": 685,
@@ -11530,7 +12324,8 @@
       85,
       75,
       72
-    ]
+    ],
+    "alt_form": false
   },
   "inkay": {
     "dex_id": 686,
@@ -11545,7 +12340,8 @@
       37,
       46,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "malamar": {
     "dex_id": 687,
@@ -11560,7 +12356,8 @@
       68,
       75,
       73
-    ]
+    ],
+    "alt_form": false
   },
   "binacle": {
     "dex_id": 688,
@@ -11575,7 +12372,8 @@
       39,
       56,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "barbaracle": {
     "dex_id": 689,
@@ -11590,7 +12388,8 @@
       54,
       86,
       68
-    ]
+    ],
+    "alt_form": false
   },
   "skrelp": {
     "dex_id": 690,
@@ -11605,7 +12404,8 @@
       60,
       60,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "dragalge": {
     "dex_id": 691,
@@ -11620,7 +12420,8 @@
       97,
       123,
       44
-    ]
+    ],
+    "alt_form": false
   },
   "clauncher": {
     "dex_id": 692,
@@ -11634,7 +12435,8 @@
       58,
       63,
       44
-    ]
+    ],
+    "alt_form": false
   },
   "clawitzer": {
     "dex_id": 693,
@@ -11648,7 +12450,8 @@
       120,
       89,
       59
-    ]
+    ],
+    "alt_form": false
   },
   "helioptile": {
     "dex_id": 694,
@@ -11663,7 +12466,8 @@
       61,
       43,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "heliolisk": {
     "dex_id": 695,
@@ -11678,7 +12482,8 @@
       109,
       94,
       109
-    ]
+    ],
+    "alt_form": false
   },
   "tyrunt": {
     "dex_id": 696,
@@ -11693,7 +12498,8 @@
       45,
       45,
       48
-    ]
+    ],
+    "alt_form": false
   },
   "tyrantrum": {
     "dex_id": 697,
@@ -11708,7 +12514,8 @@
       69,
       59,
       71
-    ]
+    ],
+    "alt_form": false
   },
   "amaura": {
     "dex_id": 698,
@@ -11723,7 +12530,8 @@
       67,
       63,
       46
-    ]
+    ],
+    "alt_form": false
   },
   "aurorus": {
     "dex_id": 699,
@@ -11738,7 +12546,8 @@
       99,
       92,
       58
-    ]
+    ],
+    "alt_form": false
   },
   "sylveon": {
     "dex_id": 700,
@@ -11752,7 +12561,8 @@
       110,
       130,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "hawlucha": {
     "dex_id": 701,
@@ -11767,7 +12577,8 @@
       74,
       63,
       118
-    ]
+    ],
+    "alt_form": false
   },
   "dedenne": {
     "dex_id": 702,
@@ -11782,7 +12593,8 @@
       81,
       67,
       101
-    ]
+    ],
+    "alt_form": false
   },
   "carbink": {
     "dex_id": 703,
@@ -11797,7 +12609,8 @@
       50,
       150,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "goomy": {
     "dex_id": 704,
@@ -11811,7 +12624,8 @@
       55,
       75,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "sliggoo": {
     "dex_id": 705,
@@ -11825,7 +12639,8 @@
       83,
       113,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "goodra": {
     "dex_id": 706,
@@ -11839,7 +12654,8 @@
       110,
       150,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "klefki": {
     "dex_id": 707,
@@ -11854,7 +12670,8 @@
       80,
       87,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "phantump": {
     "dex_id": 708,
@@ -11869,7 +12686,8 @@
       50,
       60,
       38
-    ]
+    ],
+    "alt_form": false
   },
   "trevenant": {
     "dex_id": 709,
@@ -11884,7 +12702,8 @@
       65,
       82,
       56
-    ]
+    ],
+    "alt_form": false
   },
   "pumpkaboo average size": {
     "dex_id": 710,
@@ -11899,7 +12718,8 @@
       44,
       55,
       51
-    ]
+    ],
+    "alt_form": false
   },
   "pumpkaboo small size": {
     "dex_id": 710,
@@ -11914,7 +12734,8 @@
       44,
       55,
       56
-    ]
+    ],
+    "alt_form": true
   },
   "pumpkaboo large size": {
     "dex_id": 710,
@@ -11929,7 +12750,8 @@
       44,
       55,
       46
-    ]
+    ],
+    "alt_form": true
   },
   "pumpkaboo super size": {
     "dex_id": 710,
@@ -11944,7 +12766,8 @@
       44,
       55,
       41
-    ]
+    ],
+    "alt_form": true
   },
   "gourgeist average size": {
     "dex_id": 711,
@@ -11959,7 +12782,8 @@
       58,
       75,
       84
-    ]
+    ],
+    "alt_form": false
   },
   "gourgeist small size": {
     "dex_id": 711,
@@ -11974,7 +12798,8 @@
       58,
       75,
       99
-    ]
+    ],
+    "alt_form": true
   },
   "gourgeist large size": {
     "dex_id": 711,
@@ -11989,7 +12814,8 @@
       58,
       75,
       69
-    ]
+    ],
+    "alt_form": true
   },
   "gourgeist super size": {
     "dex_id": 711,
@@ -12004,7 +12830,8 @@
       58,
       75,
       54
-    ]
+    ],
+    "alt_form": true
   },
   "bergmite": {
     "dex_id": 712,
@@ -12018,7 +12845,8 @@
       32,
       35,
       28
-    ]
+    ],
+    "alt_form": false
   },
   "avalugg": {
     "dex_id": 713,
@@ -12032,7 +12860,8 @@
       44,
       46,
       28
-    ]
+    ],
+    "alt_form": false
   },
   "noibat": {
     "dex_id": 714,
@@ -12047,7 +12876,8 @@
       45,
       40,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "noivern": {
     "dex_id": 715,
@@ -12062,7 +12892,8 @@
       97,
       80,
       123
-    ]
+    ],
+    "alt_form": false
   },
   "xerneas": {
     "dex_id": 716,
@@ -12076,7 +12907,8 @@
       131,
       98,
       99
-    ]
+    ],
+    "alt_form": false
   },
   "yveltal": {
     "dex_id": 717,
@@ -12091,7 +12923,8 @@
       131,
       98,
       99
-    ]
+    ],
+    "alt_form": false
   },
   "zygarde 50% forme": {
     "dex_id": 718,
@@ -12106,7 +12939,8 @@
       81,
       95,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "zygarde 10% forme": {
     "dex_id": 718,
@@ -12121,7 +12955,8 @@
       61,
       85,
       115
-    ]
+    ],
+    "alt_form": true
   },
   "zygarde complete forme": {
     "dex_id": 718,
@@ -12136,7 +12971,8 @@
       91,
       95,
       85
-    ]
+    ],
+    "alt_form": true
   },
   "diancie": {
     "dex_id": 719,
@@ -12151,7 +12987,8 @@
       100,
       150,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "diancie mega diancie": {
     "dex_id": 719,
@@ -12166,7 +13003,8 @@
       160,
       110,
       110
-    ]
+    ],
+    "alt_form": true
   },
   "hoopa hoopa confined": {
     "dex_id": 720,
@@ -12181,7 +13019,8 @@
       150,
       130,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "hoopa hoopa unbound": {
     "dex_id": 720,
@@ -12196,7 +13035,8 @@
       170,
       130,
       80
-    ]
+    ],
+    "alt_form": true
   },
   "volcanion": {
     "dex_id": 721,
@@ -12211,7 +13051,8 @@
       130,
       90,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "rowlet": {
     "dex_id": 722,
@@ -12226,7 +13067,8 @@
       50,
       50,
       42
-    ]
+    ],
+    "alt_form": false
   },
   "dartrix": {
     "dex_id": 723,
@@ -12241,7 +13083,8 @@
       70,
       70,
       52
-    ]
+    ],
+    "alt_form": false
   },
   "decidueye": {
     "dex_id": 724,
@@ -12256,7 +13099,8 @@
       100,
       100,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "litten": {
     "dex_id": 725,
@@ -12270,7 +13114,8 @@
       60,
       40,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "torracat": {
     "dex_id": 726,
@@ -12284,7 +13129,8 @@
       80,
       50,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "incineroar": {
     "dex_id": 727,
@@ -12299,7 +13145,8 @@
       80,
       90,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "popplio": {
     "dex_id": 728,
@@ -12313,7 +13160,8 @@
       66,
       56,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "brionne": {
     "dex_id": 729,
@@ -12327,7 +13175,8 @@
       91,
       81,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "primarina": {
     "dex_id": 730,
@@ -12342,7 +13191,8 @@
       126,
       116,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "pikipek": {
     "dex_id": 731,
@@ -12357,7 +13207,8 @@
       30,
       30,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "trumbeak": {
     "dex_id": 732,
@@ -12372,7 +13223,8 @@
       40,
       50,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "toucannon": {
     "dex_id": 733,
@@ -12387,7 +13239,8 @@
       75,
       75,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "yungoos": {
     "dex_id": 734,
@@ -12401,7 +13254,8 @@
       30,
       30,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "gumshoos": {
     "dex_id": 735,
@@ -12415,7 +13269,8 @@
       55,
       60,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "grubbin": {
     "dex_id": 736,
@@ -12429,7 +13284,8 @@
       55,
       45,
       46
-    ]
+    ],
+    "alt_form": false
   },
   "charjabug": {
     "dex_id": 737,
@@ -12444,7 +13300,8 @@
       55,
       75,
       36
-    ]
+    ],
+    "alt_form": false
   },
   "vikavolt": {
     "dex_id": 738,
@@ -12459,7 +13316,8 @@
       145,
       75,
       43
-    ]
+    ],
+    "alt_form": false
   },
   "crabrawler": {
     "dex_id": 739,
@@ -12473,7 +13331,8 @@
       42,
       47,
       63
-    ]
+    ],
+    "alt_form": false
   },
   "crabominable": {
     "dex_id": 740,
@@ -12488,7 +13347,8 @@
       62,
       67,
       43
-    ]
+    ],
+    "alt_form": false
   },
   "oricorio baile style": {
     "dex_id": 741,
@@ -12503,7 +13363,8 @@
       98,
       70,
       93
-    ]
+    ],
+    "alt_form": false
   },
   "oricorio pom-pom style": {
     "dex_id": 741,
@@ -12518,7 +13379,8 @@
       98,
       70,
       93
-    ]
+    ],
+    "alt_form": true
   },
   "oricorio pa'u style": {
     "dex_id": 741,
@@ -12533,7 +13395,8 @@
       98,
       70,
       93
-    ]
+    ],
+    "alt_form": true
   },
   "oricorio sensu style": {
     "dex_id": 741,
@@ -12548,7 +13411,8 @@
       98,
       70,
       93
-    ]
+    ],
+    "alt_form": true
   },
   "cutiefly": {
     "dex_id": 742,
@@ -12563,7 +13427,8 @@
       55,
       40,
       84
-    ]
+    ],
+    "alt_form": false
   },
   "ribombee": {
     "dex_id": 743,
@@ -12578,7 +13443,8 @@
       95,
       70,
       124
-    ]
+    ],
+    "alt_form": false
   },
   "rockruff": {
     "dex_id": 744,
@@ -12592,7 +13458,8 @@
       30,
       40,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "rockruff own tempo rockruff": {
     "dex_id": 744,
@@ -12606,7 +13473,8 @@
       30,
       40,
       60
-    ]
+    ],
+    "alt_form": true
   },
   "lycanroc midday form": {
     "dex_id": 745,
@@ -12620,7 +13488,8 @@
       55,
       65,
       112
-    ]
+    ],
+    "alt_form": false
   },
   "lycanroc midnight form": {
     "dex_id": 745,
@@ -12634,7 +13503,8 @@
       55,
       75,
       82
-    ]
+    ],
+    "alt_form": true
   },
   "lycanroc dusk form": {
     "dex_id": 745,
@@ -12648,7 +13518,8 @@
       55,
       65,
       110
-    ]
+    ],
+    "alt_form": true
   },
   "wishiwashi solo form": {
     "dex_id": 746,
@@ -12662,7 +13533,8 @@
       25,
       25,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "wishiwashi school form": {
     "dex_id": 746,
@@ -12676,7 +13548,8 @@
       140,
       135,
       30
-    ]
+    ],
+    "alt_form": true
   },
   "mareanie": {
     "dex_id": 747,
@@ -12691,7 +13564,8 @@
       43,
       52,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "toxapex": {
     "dex_id": 748,
@@ -12706,7 +13580,8 @@
       53,
       142,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "mudbray": {
     "dex_id": 749,
@@ -12720,7 +13595,8 @@
       45,
       55,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "mudsdale": {
     "dex_id": 750,
@@ -12734,7 +13610,8 @@
       55,
       85,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "dewpider": {
     "dex_id": 751,
@@ -12749,7 +13626,8 @@
       40,
       72,
       27
-    ]
+    ],
+    "alt_form": false
   },
   "araquanid": {
     "dex_id": 752,
@@ -12764,7 +13642,8 @@
       50,
       132,
       42
-    ]
+    ],
+    "alt_form": false
   },
   "fomantis": {
     "dex_id": 753,
@@ -12778,7 +13657,8 @@
       50,
       35,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "lurantis": {
     "dex_id": 754,
@@ -12792,7 +13672,8 @@
       80,
       90,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "morelull": {
     "dex_id": 755,
@@ -12807,7 +13688,8 @@
       65,
       75,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "shiinotic": {
     "dex_id": 756,
@@ -12822,7 +13704,8 @@
       90,
       100,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "salandit": {
     "dex_id": 757,
@@ -12837,7 +13720,8 @@
       71,
       40,
       77
-    ]
+    ],
+    "alt_form": false
   },
   "salazzle": {
     "dex_id": 758,
@@ -12852,7 +13736,8 @@
       111,
       60,
       117
-    ]
+    ],
+    "alt_form": false
   },
   "stufful": {
     "dex_id": 759,
@@ -12867,7 +13752,8 @@
       45,
       50,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "bewear": {
     "dex_id": 760,
@@ -12882,7 +13768,8 @@
       55,
       60,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "bounsweet": {
     "dex_id": 761,
@@ -12896,7 +13783,8 @@
       30,
       38,
       32
-    ]
+    ],
+    "alt_form": false
   },
   "steenee": {
     "dex_id": 762,
@@ -12910,7 +13798,8 @@
       40,
       48,
       62
-    ]
+    ],
+    "alt_form": false
   },
   "tsareena": {
     "dex_id": 763,
@@ -12924,7 +13813,8 @@
       50,
       98,
       72
-    ]
+    ],
+    "alt_form": false
   },
   "comfey": {
     "dex_id": 764,
@@ -12938,7 +13828,8 @@
       82,
       110,
       100
-    ]
+    ],
+    "alt_form": false
   },
   "oranguru": {
     "dex_id": 765,
@@ -12953,7 +13844,8 @@
       90,
       110,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "passimian": {
     "dex_id": 766,
@@ -12967,7 +13859,8 @@
       40,
       60,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "wimpod": {
     "dex_id": 767,
@@ -12982,7 +13875,8 @@
       20,
       30,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "golisopod": {
     "dex_id": 768,
@@ -12997,7 +13891,8 @@
       60,
       90,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "sandygast": {
     "dex_id": 769,
@@ -13012,7 +13907,8 @@
       70,
       45,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "palossand": {
     "dex_id": 770,
@@ -13027,7 +13923,8 @@
       100,
       75,
       35
-    ]
+    ],
+    "alt_form": false
   },
   "pyukumuku": {
     "dex_id": 771,
@@ -13041,7 +13938,8 @@
       30,
       130,
       5
-    ]
+    ],
+    "alt_form": false
   },
   "type: null": {
     "dex_id": 772,
@@ -13055,7 +13953,8 @@
       95,
       95,
       59
-    ]
+    ],
+    "alt_form": false
   },
   "silvally": {
     "dex_id": 773,
@@ -13069,7 +13968,8 @@
       95,
       95,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "minior meteor form": {
     "dex_id": 774,
@@ -13084,7 +13984,8 @@
       60,
       100,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "minior core form": {
     "dex_id": 774,
@@ -13099,7 +14000,8 @@
       100,
       60,
       120
-    ]
+    ],
+    "alt_form": true
   },
   "komala": {
     "dex_id": 775,
@@ -13113,7 +14015,8 @@
       75,
       95,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "turtonator": {
     "dex_id": 776,
@@ -13128,7 +14031,8 @@
       91,
       85,
       36
-    ]
+    ],
+    "alt_form": false
   },
   "togedemaru": {
     "dex_id": 777,
@@ -13143,7 +14047,8 @@
       40,
       73,
       96
-    ]
+    ],
+    "alt_form": false
   },
   "mimikyu": {
     "dex_id": 778,
@@ -13158,7 +14063,8 @@
       50,
       105,
       96
-    ]
+    ],
+    "alt_form": false
   },
   "bruxish": {
     "dex_id": 779,
@@ -13173,7 +14079,8 @@
       70,
       70,
       92
-    ]
+    ],
+    "alt_form": false
   },
   "drampa": {
     "dex_id": 780,
@@ -13188,7 +14095,8 @@
       135,
       91,
       36
-    ]
+    ],
+    "alt_form": false
   },
   "dhelmise": {
     "dex_id": 781,
@@ -13203,7 +14111,8 @@
       86,
       90,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "jangmo-o": {
     "dex_id": 782,
@@ -13217,7 +14126,8 @@
       45,
       45,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "hakamo-o": {
     "dex_id": 783,
@@ -13232,7 +14142,8 @@
       65,
       70,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "kommo-o": {
     "dex_id": 784,
@@ -13247,7 +14158,8 @@
       100,
       105,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "tapu koko": {
     "dex_id": 785,
@@ -13262,7 +14174,8 @@
       95,
       75,
       130
-    ]
+    ],
+    "alt_form": false
   },
   "tapu lele": {
     "dex_id": 786,
@@ -13277,7 +14190,8 @@
       130,
       115,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "tapu bulu": {
     "dex_id": 787,
@@ -13292,7 +14206,8 @@
       85,
       95,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "tapu fini": {
     "dex_id": 788,
@@ -13307,7 +14222,8 @@
       95,
       130,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "cosmog": {
     "dex_id": 789,
@@ -13321,7 +14237,8 @@
       29,
       31,
       37
-    ]
+    ],
+    "alt_form": false
   },
   "cosmoem": {
     "dex_id": 790,
@@ -13335,7 +14252,8 @@
       29,
       131,
       37
-    ]
+    ],
+    "alt_form": false
   },
   "solgaleo": {
     "dex_id": 791,
@@ -13350,7 +14268,8 @@
       113,
       89,
       97
-    ]
+    ],
+    "alt_form": false
   },
   "lunala": {
     "dex_id": 792,
@@ -13365,7 +14284,8 @@
       137,
       107,
       97
-    ]
+    ],
+    "alt_form": false
   },
   "nihilego": {
     "dex_id": 793,
@@ -13380,7 +14300,8 @@
       127,
       131,
       103
-    ]
+    ],
+    "alt_form": false
   },
   "buzzwole": {
     "dex_id": 794,
@@ -13395,7 +14316,8 @@
       53,
       53,
       79
-    ]
+    ],
+    "alt_form": false
   },
   "pheromosa": {
     "dex_id": 795,
@@ -13410,7 +14332,8 @@
       137,
       37,
       151
-    ]
+    ],
+    "alt_form": false
   },
   "xurkitree": {
     "dex_id": 796,
@@ -13424,7 +14347,8 @@
       173,
       71,
       83
-    ]
+    ],
+    "alt_form": false
   },
   "celesteela": {
     "dex_id": 797,
@@ -13439,7 +14363,8 @@
       107,
       101,
       61
-    ]
+    ],
+    "alt_form": false
   },
   "kartana": {
     "dex_id": 798,
@@ -13454,7 +14379,8 @@
       59,
       31,
       109
-    ]
+    ],
+    "alt_form": false
   },
   "guzzlord": {
     "dex_id": 799,
@@ -13469,7 +14395,8 @@
       97,
       53,
       43
-    ]
+    ],
+    "alt_form": false
   },
   "necrozma": {
     "dex_id": 800,
@@ -13483,7 +14410,8 @@
       127,
       89,
       79
-    ]
+    ],
+    "alt_form": false
   },
   "necrozma dusk mane necrozma": {
     "dex_id": 800,
@@ -13498,7 +14426,8 @@
       113,
       109,
       77
-    ]
+    ],
+    "alt_form": true
   },
   "necrozma dawn wings necrozma": {
     "dex_id": 800,
@@ -13513,7 +14442,8 @@
       157,
       127,
       77
-    ]
+    ],
+    "alt_form": true
   },
   "necrozma ultra necrozma": {
     "dex_id": 800,
@@ -13528,7 +14458,8 @@
       167,
       97,
       129
-    ]
+    ],
+    "alt_form": true
   },
   "magearna": {
     "dex_id": 801,
@@ -13543,7 +14474,8 @@
       130,
       115,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "marshadow": {
     "dex_id": 802,
@@ -13558,7 +14490,8 @@
       90,
       90,
       125
-    ]
+    ],
+    "alt_form": false
   },
   "poipole": {
     "dex_id": 803,
@@ -13572,7 +14505,8 @@
       73,
       67,
       73
-    ]
+    ],
+    "alt_form": false
   },
   "naganadel": {
     "dex_id": 804,
@@ -13587,7 +14521,8 @@
       127,
       73,
       121
-    ]
+    ],
+    "alt_form": false
   },
   "stakataka": {
     "dex_id": 805,
@@ -13602,7 +14537,8 @@
       53,
       101,
       13
-    ]
+    ],
+    "alt_form": false
   },
   "blacephalon": {
     "dex_id": 806,
@@ -13617,7 +14553,8 @@
       151,
       79,
       107
-    ]
+    ],
+    "alt_form": false
   },
   "zeraora": {
     "dex_id": 807,
@@ -13631,7 +14568,8 @@
       102,
       80,
       143
-    ]
+    ],
+    "alt_form": false
   },
   "meltan": {
     "dex_id": 808,
@@ -13645,7 +14583,8 @@
       55,
       35,
       34
-    ]
+    ],
+    "alt_form": false
   },
   "melmetal": {
     "dex_id": 809,
@@ -13659,7 +14598,8 @@
       80,
       65,
       34
-    ]
+    ],
+    "alt_form": false
   },
   "grookey": {
     "dex_id": 810,
@@ -13673,7 +14613,8 @@
       40,
       40,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "thwackey": {
     "dex_id": 811,
@@ -13687,7 +14628,8 @@
       55,
       60,
       80
-    ]
+    ],
+    "alt_form": false
   },
   "rillaboom": {
     "dex_id": 812,
@@ -13701,7 +14643,8 @@
       60,
       70,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "scorbunny": {
     "dex_id": 813,
@@ -13715,7 +14658,8 @@
       40,
       40,
       69
-    ]
+    ],
+    "alt_form": false
   },
   "raboot": {
     "dex_id": 814,
@@ -13729,7 +14673,8 @@
       55,
       60,
       94
-    ]
+    ],
+    "alt_form": false
   },
   "cinderace": {
     "dex_id": 815,
@@ -13743,7 +14688,8 @@
       65,
       75,
       119
-    ]
+    ],
+    "alt_form": false
   },
   "sobble": {
     "dex_id": 816,
@@ -13757,7 +14703,8 @@
       70,
       40,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "drizzile": {
     "dex_id": 817,
@@ -13771,7 +14718,8 @@
       95,
       55,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "inteleon": {
     "dex_id": 818,
@@ -13785,7 +14733,8 @@
       125,
       65,
       120
-    ]
+    ],
+    "alt_form": false
   },
   "skwovet": {
     "dex_id": 819,
@@ -13799,7 +14748,8 @@
       35,
       35,
       25
-    ]
+    ],
+    "alt_form": false
   },
   "greedent": {
     "dex_id": 820,
@@ -13813,7 +14763,8 @@
       55,
       75,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "rookidee": {
     "dex_id": 821,
@@ -13827,7 +14778,8 @@
       33,
       35,
       57
-    ]
+    ],
+    "alt_form": false
   },
   "corvisquire": {
     "dex_id": 822,
@@ -13841,7 +14793,8 @@
       43,
       55,
       77
-    ]
+    ],
+    "alt_form": false
   },
   "corviknight": {
     "dex_id": 823,
@@ -13856,7 +14809,8 @@
       53,
       85,
       67
-    ]
+    ],
+    "alt_form": false
   },
   "blipbug": {
     "dex_id": 824,
@@ -13870,7 +14824,8 @@
       25,
       45,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "dottler": {
     "dex_id": 825,
@@ -13885,7 +14840,8 @@
       50,
       90,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "orbeetle": {
     "dex_id": 826,
@@ -13900,7 +14856,8 @@
       80,
       120,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "nickit": {
     "dex_id": 827,
@@ -13914,7 +14871,8 @@
       47,
       52,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "thievul": {
     "dex_id": 828,
@@ -13928,7 +14886,8 @@
       87,
       92,
       90
-    ]
+    ],
+    "alt_form": false
   },
   "gossifleur": {
     "dex_id": 829,
@@ -13942,7 +14901,8 @@
       40,
       60,
       10
-    ]
+    ],
+    "alt_form": false
   },
   "eldegoss": {
     "dex_id": 830,
@@ -13956,7 +14916,8 @@
       80,
       120,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "wooloo": {
     "dex_id": 831,
@@ -13970,7 +14931,8 @@
       40,
       45,
       48
-    ]
+    ],
+    "alt_form": false
   },
   "dubwool": {
     "dex_id": 832,
@@ -13984,7 +14946,8 @@
       60,
       90,
       88
-    ]
+    ],
+    "alt_form": false
   },
   "chewtle": {
     "dex_id": 833,
@@ -13998,7 +14961,8 @@
       38,
       38,
       44
-    ]
+    ],
+    "alt_form": false
   },
   "drednaw": {
     "dex_id": 834,
@@ -14013,7 +14977,8 @@
       48,
       68,
       74
-    ]
+    ],
+    "alt_form": false
   },
   "yamper": {
     "dex_id": 835,
@@ -14027,7 +14992,8 @@
       40,
       50,
       26
-    ]
+    ],
+    "alt_form": false
   },
   "boltund": {
     "dex_id": 836,
@@ -14041,7 +15007,8 @@
       90,
       60,
       121
-    ]
+    ],
+    "alt_form": false
   },
   "rolycoly": {
     "dex_id": 837,
@@ -14055,7 +15022,8 @@
       40,
       50,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "carkol": {
     "dex_id": 838,
@@ -14070,7 +15038,8 @@
       60,
       70,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "coalossal": {
     "dex_id": 839,
@@ -14085,7 +15054,8 @@
       80,
       90,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "applin": {
     "dex_id": 840,
@@ -14100,7 +15070,8 @@
       40,
       40,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "flapple": {
     "dex_id": 841,
@@ -14115,7 +15086,8 @@
       95,
       60,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "appletun": {
     "dex_id": 842,
@@ -14130,7 +15102,8 @@
       100,
       80,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "silicobra": {
     "dex_id": 843,
@@ -14144,7 +15117,8 @@
       35,
       50,
       46
-    ]
+    ],
+    "alt_form": false
   },
   "sandaconda": {
     "dex_id": 844,
@@ -14158,7 +15132,8 @@
       65,
       70,
       71
-    ]
+    ],
+    "alt_form": false
   },
   "cramorant": {
     "dex_id": 845,
@@ -14173,7 +15148,8 @@
       85,
       95,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "arrokuda": {
     "dex_id": 846,
@@ -14187,7 +15163,8 @@
       40,
       30,
       66
-    ]
+    ],
+    "alt_form": false
   },
   "barraskewda": {
     "dex_id": 847,
@@ -14201,7 +15178,8 @@
       60,
       50,
       136
-    ]
+    ],
+    "alt_form": false
   },
   "toxel": {
     "dex_id": 848,
@@ -14216,7 +15194,8 @@
       54,
       35,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "toxtricity low key form": {
     "dex_id": 849,
@@ -14231,7 +15210,8 @@
       114,
       70,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "toxtricity amped form": {
     "dex_id": 849,
@@ -14246,7 +15226,8 @@
       114,
       70,
       75
-    ]
+    ],
+    "alt_form": true
   },
   "sizzlipede": {
     "dex_id": 850,
@@ -14261,7 +15242,8 @@
       50,
       50,
       45
-    ]
+    ],
+    "alt_form": false
   },
   "centiskorch": {
     "dex_id": 851,
@@ -14276,7 +15258,8 @@
       90,
       90,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "clobbopus": {
     "dex_id": 852,
@@ -14290,7 +15273,8 @@
       50,
       50,
       32
-    ]
+    ],
+    "alt_form": false
   },
   "grapploct": {
     "dex_id": 853,
@@ -14304,7 +15288,8 @@
       70,
       80,
       42
-    ]
+    ],
+    "alt_form": false
   },
   "sinistea": {
     "dex_id": 854,
@@ -14318,7 +15303,8 @@
       74,
       54,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "polteageist": {
     "dex_id": 855,
@@ -14332,7 +15318,8 @@
       134,
       114,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "hatenna": {
     "dex_id": 856,
@@ -14346,7 +15333,8 @@
       56,
       53,
       39
-    ]
+    ],
+    "alt_form": false
   },
   "hattrem": {
     "dex_id": 857,
@@ -14360,7 +15348,8 @@
       86,
       73,
       49
-    ]
+    ],
+    "alt_form": false
   },
   "hatterene": {
     "dex_id": 858,
@@ -14375,7 +15364,8 @@
       136,
       103,
       29
-    ]
+    ],
+    "alt_form": false
   },
   "impidimp": {
     "dex_id": 859,
@@ -14390,7 +15380,8 @@
       55,
       40,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "morgrem": {
     "dex_id": 860,
@@ -14405,7 +15396,8 @@
       75,
       55,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "grimmsnarl": {
     "dex_id": 861,
@@ -14420,7 +15412,8 @@
       95,
       75,
       60
-    ]
+    ],
+    "alt_form": false
   },
   "obstagoon": {
     "dex_id": 862,
@@ -14435,7 +15428,8 @@
       60,
       81,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "perrserker": {
     "dex_id": 863,
@@ -14449,7 +15443,8 @@
       50,
       60,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "cursola": {
     "dex_id": 864,
@@ -14463,7 +15458,8 @@
       145,
       130,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "sirfetch'd": {
     "dex_id": 865,
@@ -14477,7 +15473,8 @@
       68,
       82,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "mr. rime": {
     "dex_id": 866,
@@ -14492,7 +15489,8 @@
       110,
       100,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "runerigus": {
     "dex_id": 867,
@@ -14507,7 +15505,8 @@
       50,
       105,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "milcery": {
     "dex_id": 868,
@@ -14521,7 +15520,8 @@
       50,
       61,
       34
-    ]
+    ],
+    "alt_form": false
   },
   "alcremie": {
     "dex_id": 869,
@@ -14535,7 +15535,8 @@
       110,
       121,
       64
-    ]
+    ],
+    "alt_form": false
   },
   "falinks": {
     "dex_id": 870,
@@ -14549,7 +15550,8 @@
       70,
       60,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "pincurchin": {
     "dex_id": 871,
@@ -14563,7 +15565,8 @@
       91,
       85,
       15
-    ]
+    ],
+    "alt_form": false
   },
   "snom": {
     "dex_id": 872,
@@ -14578,7 +15581,8 @@
       45,
       30,
       20
-    ]
+    ],
+    "alt_form": false
   },
   "frosmoth": {
     "dex_id": 873,
@@ -14593,7 +15597,8 @@
       125,
       90,
       65
-    ]
+    ],
+    "alt_form": false
   },
   "stonjourner": {
     "dex_id": 874,
@@ -14607,7 +15612,8 @@
       20,
       20,
       70
-    ]
+    ],
+    "alt_form": false
   },
   "eiscue ice face": {
     "dex_id": 875,
@@ -14621,7 +15627,8 @@
       65,
       90,
       50
-    ]
+    ],
+    "alt_form": false
   },
   "eiscue noice face": {
     "dex_id": 875,
@@ -14635,7 +15642,8 @@
       65,
       50,
       130
-    ]
+    ],
+    "alt_form": true
   },
   "indeedee male": {
     "dex_id": 876,
@@ -14650,7 +15658,8 @@
       105,
       95,
       95
-    ]
+    ],
+    "alt_form": false
   },
   "indeedee female": {
     "dex_id": 876,
@@ -14665,7 +15674,8 @@
       95,
       105,
       85
-    ]
+    ],
+    "alt_form": true
   },
   "morpeko full belly mode": {
     "dex_id": 877,
@@ -14680,7 +15690,8 @@
       70,
       58,
       97
-    ]
+    ],
+    "alt_form": false
   },
   "morpeko hangry mode": {
     "dex_id": 877,
@@ -14695,7 +15706,8 @@
       70,
       58,
       97
-    ]
+    ],
+    "alt_form": true
   },
   "cufant": {
     "dex_id": 878,
@@ -14709,7 +15721,8 @@
       40,
       49,
       40
-    ]
+    ],
+    "alt_form": false
   },
   "copperajah": {
     "dex_id": 879,
@@ -14723,7 +15736,8 @@
       80,
       69,
       30
-    ]
+    ],
+    "alt_form": false
   },
   "dracozolt": {
     "dex_id": 880,
@@ -14738,7 +15752,8 @@
       80,
       70,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "arctozolt": {
     "dex_id": 881,
@@ -14753,7 +15768,8 @@
       90,
       80,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "dracovish": {
     "dex_id": 882,
@@ -14768,7 +15784,8 @@
       70,
       80,
       75
-    ]
+    ],
+    "alt_form": false
   },
   "arctovish": {
     "dex_id": 883,
@@ -14783,7 +15800,8 @@
       80,
       90,
       55
-    ]
+    ],
+    "alt_form": false
   },
   "duraludon": {
     "dex_id": 884,
@@ -14798,7 +15816,8 @@
       120,
       50,
       85
-    ]
+    ],
+    "alt_form": false
   },
   "dreepy": {
     "dex_id": 885,
@@ -14813,7 +15832,8 @@
       40,
       30,
       82
-    ]
+    ],
+    "alt_form": false
   },
   "drakloak": {
     "dex_id": 886,
@@ -14828,7 +15848,8 @@
       60,
       50,
       102
-    ]
+    ],
+    "alt_form": false
   },
   "dragapult": {
     "dex_id": 887,
@@ -14843,7 +15864,8 @@
       100,
       75,
       142
-    ]
+    ],
+    "alt_form": false
   },
   "zacian crowned sword": {
     "dex_id": 888,
@@ -14858,7 +15880,8 @@
       80,
       115,
       148
-    ]
+    ],
+    "alt_form": false
   },
   "zacian hero of many battles": {
     "dex_id": 888,
@@ -14872,7 +15895,8 @@
       80,
       115,
       138
-    ]
+    ],
+    "alt_form": true
   },
   "zamazenta crowned shield": {
     "dex_id": 889,
@@ -14887,7 +15911,8 @@
       80,
       145,
       128
-    ]
+    ],
+    "alt_form": false
   },
   "zamazenta hero of many battles": {
     "dex_id": 889,
@@ -14901,7 +15926,8 @@
       80,
       115,
       138
-    ]
+    ],
+    "alt_form": true
   },
   "eternatus": {
     "dex_id": 890,
@@ -14916,7 +15942,8 @@
       145,
       95,
       130
-    ]
+    ],
+    "alt_form": false
   },
   "eternatus eternamax": {
     "dex_id": 890,
@@ -14931,6 +15958,7 @@
       125,
       250,
       130
-    ]
+    ],
+    "alt_form": true
   }
 }

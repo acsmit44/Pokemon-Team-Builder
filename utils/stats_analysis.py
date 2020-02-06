@@ -12,42 +12,88 @@ import json
 import numpy as np
 from numpy.linalg import norm
 from math import sqrt
+import matplotlib.pyplot as plt
+
+
+def make_stats_matrix(pokedex, ignore_alt_forms=True):
+    # Creates an mx6 matrix of Pokemon stats where m is the number of Pokemon in
+    # the pokedex and counts the number of mons
+    prev_id = 0
+    for count, mon in enumerate(pokedex.keys()):
+        if count == 0:
+            stats_matrix = np.asarray(pokedex[mon]['stats'])
+            stats_matrix = stats_matrix.reshape(1,6)
+
+        # Check if the Pokemon is an alt form and that they are to be ignored
+        elif pokedex[mon]['alt_form'] == False or ignore_alt_forms == False:
+            stat_vec = np.asarray(pokedex[mon]['stats'])
+            stat_vec = stat_vec.reshape(1,6)
+            stats_matrix = np.concatenate((stats_matrix, stat_vec))
+        else:
+            continue
+
+    # Finds the number of Pokemon in the pokedex
+    num_mons = stats_matrix.shape[0]
+
+    return stats_matrix, num_mons
+
 
 def get_avg_std(pokedex):
     # This function takes in the pokedex dict and computes various useful info
     # such as average stats and standard deviation
 
-    # Creates an mx6 matrix of Pokemon stats where m is the number of Pokemon in
-    # the pokedex
-    for count, mon in enumerate(pokedex.keys()):
-        if count == 0:
-            stats_vec = np.asarray(pokedex[mon]['stats'])
-            stats_vec = stats_vec.reshape(1,6)
-        else:
-            stat_vec = np.asarray(pokedex[mon]['stats'])
-            stat_vec = stat_vec.reshape(1,6)
+    # Get the stats matrix and number of Pokemon in it
+    stats_matrix, num_mons = make_stats_matrix(pokedex)
 
-            stats_vec = np.concatenate((stats_vec, stat_vec))
-
-    # Finds the number of Pokemon in the pokedex
-    num_mons = stats_vec.shape[0]
-
-    # Transposes the stats_vec so that the rows are the stats and then sums them
+    # Transposes the stats_matrix so that the rows are the stats and then sums them
     # and divides by the number of Pokemon to find the average
-    avg_vec = np.asarray([sum(row) / num_mons for row in stats_vec.T])
+    avg_vec = np.asarray([sum(row) / num_mons for row in stats_matrix.T])
 
     # Does the same thing as above but finds standard deviation instead
     std_vec = [sqrt(norm(row - avg_vec[i])**2 / num_mons - 1) for i, row in \
-                         enumerate(stats_vec.T)]
+                         enumerate(stats_matrix.T)]
 
     return avg_vec, std_vec
 
 
-def test():
+def plot_stats(stats_matrix, binwidth=6):
+    # Takes in a single stat's vector (for example, HP) and creates a
+    # distribution plot for it
+    stat_names = ['HP', 'Attack', 'Defense', 'Sp. Attack', 'Sp. Defense', \
+                  'Speed']
+
+    for i, stat_name in enumerate(stat_names):
+
+        # Set up the subplot
+        cur = plt.subplot(3, 2, i + 1)
+
+        # Grab the current stat vector from the stats matrix
+        stat_list = list(stats_matrix[:, i])
+
+        # Find the stat range for the plot
+        stat_range = max(stat_list) - min(stat_list)
+
+        # Create matplotlib histogram
+        cur.hist(stat_list, color = 'blue', edgecolor = 'black',
+                 bins = int(stat_range / binwidth))
+
+        # Add labels
+        cur.set_title('Distribution of Pokemon {} stats'.format(stat_name))
+        cur.set_xlabel('Stat range')
+        cur.set_ylabel('Number of mons in range')
+
+    plt.tight_layout()
+    plt.show()
+
+
+def main():
     with open('../data/pokedex.json') as f_in:
         pokedex = json.load(f_in)
     avg_vec, std_vec = get_avg_std(pokedex)
+    stats_matrix, _ = make_stats_matrix(pokedex)
+    plot_stats(stats_matrix)
     print('The average vec is: {}\nThe std vec is: {}'.format(avg_vec, std_vec))
 
+
 if __name__ == '__main__':
-    test()
+    main()
