@@ -1,0 +1,11733 @@
+{
+  "bulbasaur": {
+    "dex_id": 1,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      45,
+      49,
+      49,
+      65,
+      65,
+      45
+    ]
+  },
+  "ivysaur": {
+    "dex_id": 2,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      60,
+      62,
+      63,
+      80,
+      80,
+      60
+    ]
+  },
+  "venusaur": {
+    "dex_id": 3,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      80,
+      82,
+      83,
+      100,
+      100,
+      80
+    ]
+  },
+  "charmander": {
+    "dex_id": 4,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      39,
+      52,
+      43,
+      60,
+      50,
+      65
+    ]
+  },
+  "charmeleon": {
+    "dex_id": 5,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      58,
+      64,
+      58,
+      80,
+      65,
+      80
+    ]
+  },
+  "charizard": {
+    "dex_id": 6,
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "stats": [
+      78,
+      84,
+      78,
+      109,
+      85,
+      100
+    ]
+  },
+  "squirtle": {
+    "dex_id": 7,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      44,
+      48,
+      65,
+      50,
+      64,
+      43
+    ]
+  },
+  "wartortle": {
+    "dex_id": 8,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      59,
+      63,
+      80,
+      65,
+      80,
+      58
+    ]
+  },
+  "blastoise": {
+    "dex_id": 9,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      79,
+      83,
+      100,
+      85,
+      105,
+      78
+    ]
+  },
+  "caterpie": {
+    "dex_id": 10,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      45,
+      30,
+      35,
+      20,
+      20,
+      45
+    ]
+  },
+  "metapod": {
+    "dex_id": 11,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      50,
+      20,
+      55,
+      25,
+      25,
+      30
+    ]
+  },
+  "butterfree": {
+    "dex_id": 12,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      60,
+      45,
+      50,
+      90,
+      80,
+      70
+    ]
+  },
+  "weedle": {
+    "dex_id": 13,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      40,
+      35,
+      30,
+      20,
+      20,
+      50
+    ]
+  },
+  "kakuna": {
+    "dex_id": 14,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      45,
+      25,
+      50,
+      25,
+      25,
+      35
+    ]
+  },
+  "beedrill": {
+    "dex_id": 15,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      65,
+      90,
+      40,
+      45,
+      80,
+      75
+    ]
+  },
+  "pidgey": {
+    "dex_id": 16,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      40,
+      45,
+      40,
+      35,
+      35,
+      56
+    ]
+  },
+  "pidgeotto": {
+    "dex_id": 17,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      63,
+      60,
+      55,
+      50,
+      50,
+      71
+    ]
+  },
+  "pidgeot": {
+    "dex_id": 18,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      83,
+      80,
+      75,
+      70,
+      70,
+      101
+    ]
+  },
+  "rattata": {
+    "dex_id": 19,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      30,
+      56,
+      35,
+      25,
+      35,
+      72
+    ]
+  },
+  "raticate": {
+    "dex_id": 20,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      55,
+      81,
+      60,
+      50,
+      70,
+      97
+    ]
+  },
+  "spearow": {
+    "dex_id": 21,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      40,
+      60,
+      30,
+      31,
+      31,
+      70
+    ]
+  },
+  "fearow": {
+    "dex_id": 22,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      65,
+      90,
+      65,
+      61,
+      61,
+      100
+    ]
+  },
+  "ekans": {
+    "dex_id": 23,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      35,
+      60,
+      44,
+      40,
+      54,
+      55
+    ]
+  },
+  "arbok": {
+    "dex_id": 24,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      60,
+      95,
+      69,
+      65,
+      79,
+      80
+    ]
+  },
+  "pikachu": {
+    "dex_id": 25,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      35,
+      55,
+      40,
+      50,
+      50,
+      90
+    ]
+  },
+  "raichu": {
+    "dex_id": 26,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      60,
+      90,
+      55,
+      90,
+      80,
+      110
+    ]
+  },
+  "sandshrew": {
+    "dex_id": 27,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      50,
+      75,
+      85,
+      20,
+      30,
+      40
+    ]
+  },
+  "sandslash": {
+    "dex_id": 28,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      75,
+      100,
+      110,
+      45,
+      55,
+      65
+    ]
+  },
+  "nidoran\u2640": {
+    "dex_id": 29,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      55,
+      47,
+      52,
+      40,
+      40,
+      41
+    ]
+  },
+  "nidorina": {
+    "dex_id": 30,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      70,
+      62,
+      67,
+      55,
+      55,
+      56
+    ]
+  },
+  "nidoqueen": {
+    "dex_id": 31,
+    "type": [
+      "ground",
+      "poison"
+    ],
+    "stats": [
+      90,
+      92,
+      87,
+      75,
+      85,
+      76
+    ]
+  },
+  "nidoran\u2642": {
+    "dex_id": 32,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      46,
+      57,
+      40,
+      40,
+      40,
+      50
+    ]
+  },
+  "nidorino": {
+    "dex_id": 33,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      61,
+      72,
+      57,
+      55,
+      55,
+      65
+    ]
+  },
+  "nidoking": {
+    "dex_id": 34,
+    "type": [
+      "ground",
+      "poison"
+    ],
+    "stats": [
+      81,
+      102,
+      77,
+      85,
+      75,
+      85
+    ]
+  },
+  "clefairy": {
+    "dex_id": 35,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      70,
+      45,
+      48,
+      60,
+      65,
+      35
+    ]
+  },
+  "clefable": {
+    "dex_id": 36,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      95,
+      70,
+      73,
+      95,
+      90,
+      60
+    ]
+  },
+  "vulpix": {
+    "dex_id": 37,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      38,
+      41,
+      40,
+      50,
+      65,
+      65
+    ]
+  },
+  "ninetales": {
+    "dex_id": 38,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      73,
+      76,
+      75,
+      81,
+      100,
+      100
+    ]
+  },
+  "jigglypuff": {
+    "dex_id": 39,
+    "type": [
+      "fairy",
+      "normal"
+    ],
+    "stats": [
+      115,
+      45,
+      20,
+      45,
+      25,
+      20
+    ]
+  },
+  "wigglytuff": {
+    "dex_id": 40,
+    "type": [
+      "fairy",
+      "normal"
+    ],
+    "stats": [
+      140,
+      70,
+      45,
+      85,
+      50,
+      45
+    ]
+  },
+  "zubat": {
+    "dex_id": 41,
+    "type": [
+      "flying",
+      "poison"
+    ],
+    "stats": [
+      40,
+      45,
+      35,
+      30,
+      40,
+      55
+    ]
+  },
+  "golbat": {
+    "dex_id": 42,
+    "type": [
+      "flying",
+      "poison"
+    ],
+    "stats": [
+      75,
+      80,
+      70,
+      65,
+      75,
+      90
+    ]
+  },
+  "oddish": {
+    "dex_id": 43,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      45,
+      50,
+      55,
+      75,
+      65,
+      30
+    ]
+  },
+  "gloom": {
+    "dex_id": 44,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      60,
+      65,
+      70,
+      85,
+      75,
+      40
+    ]
+  },
+  "vileplume": {
+    "dex_id": 45,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      75,
+      80,
+      85,
+      110,
+      90,
+      50
+    ]
+  },
+  "paras": {
+    "dex_id": 46,
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "stats": [
+      35,
+      70,
+      55,
+      45,
+      55,
+      25
+    ]
+  },
+  "parasect": {
+    "dex_id": 47,
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "stats": [
+      60,
+      95,
+      80,
+      60,
+      80,
+      30
+    ]
+  },
+  "venonat": {
+    "dex_id": 48,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      60,
+      55,
+      50,
+      40,
+      55,
+      45
+    ]
+  },
+  "venomoth": {
+    "dex_id": 49,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      70,
+      65,
+      60,
+      90,
+      75,
+      90
+    ]
+  },
+  "diglett": {
+    "dex_id": 50,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      10,
+      55,
+      25,
+      35,
+      45,
+      95
+    ]
+  },
+  "dugtrio": {
+    "dex_id": 51,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      35,
+      100,
+      50,
+      50,
+      70,
+      120
+    ]
+  },
+  "meowth": {
+    "dex_id": 52,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      40,
+      45,
+      35,
+      40,
+      40,
+      90
+    ]
+  },
+  "persian": {
+    "dex_id": 53,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      65,
+      70,
+      60,
+      65,
+      65,
+      115
+    ]
+  },
+  "psyduck": {
+    "dex_id": 54,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      50,
+      52,
+      48,
+      65,
+      50,
+      55
+    ]
+  },
+  "golduck": {
+    "dex_id": 55,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      80,
+      82,
+      78,
+      95,
+      80,
+      85
+    ]
+  },
+  "mankey": {
+    "dex_id": 56,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      40,
+      80,
+      35,
+      35,
+      45,
+      70
+    ]
+  },
+  "primeape": {
+    "dex_id": 57,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      65,
+      105,
+      60,
+      60,
+      70,
+      95
+    ]
+  },
+  "growlithe": {
+    "dex_id": 58,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      55,
+      70,
+      45,
+      70,
+      50,
+      60
+    ]
+  },
+  "arcanine": {
+    "dex_id": 59,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      90,
+      110,
+      80,
+      100,
+      80,
+      95
+    ]
+  },
+  "poliwag": {
+    "dex_id": 60,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      40,
+      50,
+      40,
+      40,
+      40,
+      90
+    ]
+  },
+  "poliwhirl": {
+    "dex_id": 61,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      65,
+      65,
+      65,
+      50,
+      50,
+      90
+    ]
+  },
+  "poliwrath": {
+    "dex_id": 62,
+    "type": [
+      "fighting",
+      "water"
+    ],
+    "stats": [
+      90,
+      95,
+      95,
+      70,
+      90,
+      70
+    ]
+  },
+  "abra": {
+    "dex_id": 63,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      25,
+      20,
+      15,
+      105,
+      55,
+      90
+    ]
+  },
+  "kadabra": {
+    "dex_id": 64,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      40,
+      35,
+      30,
+      120,
+      70,
+      105
+    ]
+  },
+  "alakazam": {
+    "dex_id": 65,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      55,
+      50,
+      45,
+      135,
+      95,
+      120
+    ]
+  },
+  "machop": {
+    "dex_id": 66,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      70,
+      80,
+      50,
+      35,
+      35,
+      35
+    ]
+  },
+  "machoke": {
+    "dex_id": 67,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      80,
+      100,
+      70,
+      50,
+      60,
+      45
+    ]
+  },
+  "machamp": {
+    "dex_id": 68,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      90,
+      130,
+      80,
+      65,
+      85,
+      55
+    ]
+  },
+  "bellsprout": {
+    "dex_id": 69,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      50,
+      75,
+      35,
+      70,
+      30,
+      40
+    ]
+  },
+  "weepinbell": {
+    "dex_id": 70,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      65,
+      90,
+      50,
+      85,
+      45,
+      55
+    ]
+  },
+  "victreebel": {
+    "dex_id": 71,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      80,
+      105,
+      65,
+      100,
+      70,
+      70
+    ]
+  },
+  "tentacool": {
+    "dex_id": 72,
+    "type": [
+      "poison",
+      "water"
+    ],
+    "stats": [
+      40,
+      40,
+      35,
+      50,
+      100,
+      70
+    ]
+  },
+  "tentacruel": {
+    "dex_id": 73,
+    "type": [
+      "poison",
+      "water"
+    ],
+    "stats": [
+      80,
+      70,
+      65,
+      80,
+      120,
+      100
+    ]
+  },
+  "geodude": {
+    "dex_id": 74,
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "stats": [
+      40,
+      80,
+      100,
+      30,
+      30,
+      20
+    ]
+  },
+  "graveler": {
+    "dex_id": 75,
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "stats": [
+      55,
+      95,
+      115,
+      45,
+      45,
+      35
+    ]
+  },
+  "golem": {
+    "dex_id": 76,
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "stats": [
+      80,
+      120,
+      130,
+      55,
+      65,
+      45
+    ]
+  },
+  "ponyta": {
+    "dex_id": 77,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      50,
+      85,
+      55,
+      65,
+      65,
+      90
+    ]
+  },
+  "rapidash": {
+    "dex_id": 78,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      65,
+      100,
+      70,
+      80,
+      80,
+      105
+    ]
+  },
+  "slowpoke": {
+    "dex_id": 79,
+    "type": [
+      "psychic",
+      "water"
+    ],
+    "stats": [
+      90,
+      65,
+      65,
+      40,
+      40,
+      15
+    ]
+  },
+  "slowbro": {
+    "dex_id": 80,
+    "type": [
+      "psychic",
+      "water"
+    ],
+    "stats": [
+      95,
+      75,
+      110,
+      100,
+      80,
+      30
+    ]
+  },
+  "magnemite": {
+    "dex_id": 81,
+    "type": [
+      "electric",
+      "steel"
+    ],
+    "stats": [
+      25,
+      35,
+      70,
+      95,
+      55,
+      45
+    ]
+  },
+  "magneton": {
+    "dex_id": 82,
+    "type": [
+      "electric",
+      "steel"
+    ],
+    "stats": [
+      50,
+      60,
+      95,
+      120,
+      70,
+      70
+    ]
+  },
+  "farfetch'd": {
+    "dex_id": 83,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      52,
+      90,
+      55,
+      58,
+      62,
+      60
+    ]
+  },
+  "doduo": {
+    "dex_id": 84,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      35,
+      85,
+      45,
+      35,
+      35,
+      75
+    ]
+  },
+  "dodrio": {
+    "dex_id": 85,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      60,
+      110,
+      70,
+      60,
+      60,
+      110
+    ]
+  },
+  "seel": {
+    "dex_id": 86,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      65,
+      45,
+      55,
+      45,
+      70,
+      45
+    ]
+  },
+  "dewgong": {
+    "dex_id": 87,
+    "type": [
+      "ice",
+      "water"
+    ],
+    "stats": [
+      90,
+      70,
+      80,
+      70,
+      95,
+      70
+    ]
+  },
+  "grimer": {
+    "dex_id": 88,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      80,
+      80,
+      50,
+      40,
+      50,
+      25
+    ]
+  },
+  "muk": {
+    "dex_id": 89,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      105,
+      105,
+      75,
+      65,
+      100,
+      50
+    ]
+  },
+  "shellder": {
+    "dex_id": 90,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      30,
+      65,
+      100,
+      45,
+      25,
+      40
+    ]
+  },
+  "cloyster": {
+    "dex_id": 91,
+    "type": [
+      "ice",
+      "water"
+    ],
+    "stats": [
+      50,
+      95,
+      180,
+      85,
+      45,
+      70
+    ]
+  },
+  "gastly": {
+    "dex_id": 92,
+    "type": [
+      "ghost",
+      "poison"
+    ],
+    "stats": [
+      30,
+      35,
+      30,
+      100,
+      35,
+      80
+    ]
+  },
+  "haunter": {
+    "dex_id": 93,
+    "type": [
+      "ghost",
+      "poison"
+    ],
+    "stats": [
+      45,
+      50,
+      45,
+      115,
+      55,
+      95
+    ]
+  },
+  "gengar": {
+    "dex_id": 94,
+    "type": [
+      "ghost",
+      "poison"
+    ],
+    "stats": [
+      60,
+      65,
+      60,
+      130,
+      75,
+      110
+    ]
+  },
+  "onix": {
+    "dex_id": 95,
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "stats": [
+      35,
+      45,
+      160,
+      30,
+      45,
+      70
+    ]
+  },
+  "drowzee": {
+    "dex_id": 96,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      60,
+      48,
+      45,
+      43,
+      90,
+      42
+    ]
+  },
+  "hypno": {
+    "dex_id": 97,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      85,
+      73,
+      70,
+      73,
+      115,
+      67
+    ]
+  },
+  "krabby": {
+    "dex_id": 98,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      30,
+      105,
+      90,
+      25,
+      25,
+      50
+    ]
+  },
+  "kingler": {
+    "dex_id": 99,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      55,
+      130,
+      115,
+      50,
+      50,
+      75
+    ]
+  },
+  "voltorb": {
+    "dex_id": 100,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      40,
+      30,
+      50,
+      55,
+      55,
+      100
+    ]
+  },
+  "electrode": {
+    "dex_id": 101,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      60,
+      50,
+      70,
+      80,
+      80,
+      150
+    ]
+  },
+  "exeggcute": {
+    "dex_id": 102,
+    "type": [
+      "grass",
+      "psychic"
+    ],
+    "stats": [
+      60,
+      40,
+      80,
+      60,
+      45,
+      40
+    ]
+  },
+  "exeggutor": {
+    "dex_id": 103,
+    "type": [
+      "grass",
+      "psychic"
+    ],
+    "stats": [
+      95,
+      95,
+      85,
+      125,
+      75,
+      55
+    ]
+  },
+  "cubone": {
+    "dex_id": 104,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      50,
+      50,
+      95,
+      40,
+      50,
+      35
+    ]
+  },
+  "marowak": {
+    "dex_id": 105,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      60,
+      80,
+      110,
+      50,
+      80,
+      45
+    ]
+  },
+  "hitmonlee": {
+    "dex_id": 106,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      50,
+      120,
+      53,
+      35,
+      110,
+      87
+    ]
+  },
+  "hitmonchan": {
+    "dex_id": 107,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      50,
+      105,
+      79,
+      35,
+      110,
+      76
+    ]
+  },
+  "lickitung": {
+    "dex_id": 108,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      90,
+      55,
+      75,
+      60,
+      75,
+      30
+    ]
+  },
+  "koffing": {
+    "dex_id": 109,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      40,
+      65,
+      95,
+      60,
+      45,
+      35
+    ]
+  },
+  "weezing": {
+    "dex_id": 110,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      65,
+      90,
+      120,
+      85,
+      70,
+      60
+    ]
+  },
+  "rhyhorn": {
+    "dex_id": 111,
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "stats": [
+      80,
+      85,
+      95,
+      30,
+      30,
+      25
+    ]
+  },
+  "rhydon": {
+    "dex_id": 112,
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "stats": [
+      105,
+      130,
+      120,
+      45,
+      45,
+      40
+    ]
+  },
+  "chansey": {
+    "dex_id": 113,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      250,
+      5,
+      5,
+      35,
+      105,
+      50
+    ]
+  },
+  "tangela": {
+    "dex_id": 114,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      65,
+      55,
+      115,
+      100,
+      40,
+      60
+    ]
+  },
+  "kangaskhan": {
+    "dex_id": 115,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      105,
+      95,
+      80,
+      40,
+      80,
+      90
+    ]
+  },
+  "horsea": {
+    "dex_id": 116,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      30,
+      40,
+      70,
+      70,
+      25,
+      60
+    ]
+  },
+  "seadra": {
+    "dex_id": 117,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      55,
+      65,
+      95,
+      95,
+      45,
+      85
+    ]
+  },
+  "goldeen": {
+    "dex_id": 118,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      45,
+      67,
+      60,
+      35,
+      50,
+      63
+    ]
+  },
+  "seaking": {
+    "dex_id": 119,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      80,
+      92,
+      65,
+      65,
+      80,
+      68
+    ]
+  },
+  "staryu": {
+    "dex_id": 120,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      30,
+      45,
+      55,
+      70,
+      55,
+      85
+    ]
+  },
+  "starmie": {
+    "dex_id": 121,
+    "type": [
+      "psychic",
+      "water"
+    ],
+    "stats": [
+      60,
+      75,
+      85,
+      100,
+      85,
+      115
+    ]
+  },
+  "mr. mime": {
+    "dex_id": 122,
+    "type": [
+      "fairy",
+      "psychic"
+    ],
+    "stats": [
+      40,
+      45,
+      65,
+      100,
+      120,
+      90
+    ]
+  },
+  "scyther": {
+    "dex_id": 123,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      70,
+      110,
+      80,
+      55,
+      80,
+      105
+    ]
+  },
+  "jynx": {
+    "dex_id": 124,
+    "type": [
+      "ice",
+      "psychic"
+    ],
+    "stats": [
+      65,
+      50,
+      35,
+      115,
+      95,
+      95
+    ]
+  },
+  "electabuzz": {
+    "dex_id": 125,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      65,
+      83,
+      57,
+      95,
+      85,
+      105
+    ]
+  },
+  "magmar": {
+    "dex_id": 126,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      65,
+      95,
+      57,
+      100,
+      85,
+      93
+    ]
+  },
+  "pinsir": {
+    "dex_id": 127,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      65,
+      125,
+      100,
+      55,
+      70,
+      85
+    ]
+  },
+  "tauros": {
+    "dex_id": 128,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      75,
+      100,
+      95,
+      40,
+      70,
+      110
+    ]
+  },
+  "magikarp": {
+    "dex_id": 129,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      20,
+      10,
+      55,
+      15,
+      20,
+      80
+    ]
+  },
+  "gyarados": {
+    "dex_id": 130,
+    "type": [
+      "flying",
+      "water"
+    ],
+    "stats": [
+      95,
+      125,
+      79,
+      60,
+      100,
+      81
+    ]
+  },
+  "lapras": {
+    "dex_id": 131,
+    "type": [
+      "ice",
+      "water"
+    ],
+    "stats": [
+      130,
+      85,
+      80,
+      85,
+      95,
+      60
+    ]
+  },
+  "ditto": {
+    "dex_id": 132,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      48,
+      48,
+      48,
+      48,
+      48,
+      48
+    ]
+  },
+  "eevee": {
+    "dex_id": 133,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      55,
+      55,
+      50,
+      45,
+      65,
+      55
+    ]
+  },
+  "vaporeon": {
+    "dex_id": 134,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      130,
+      65,
+      60,
+      110,
+      95,
+      65
+    ]
+  },
+  "jolteon": {
+    "dex_id": 135,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      65,
+      65,
+      60,
+      110,
+      95,
+      130
+    ]
+  },
+  "flareon": {
+    "dex_id": 136,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      65,
+      130,
+      60,
+      95,
+      110,
+      65
+    ]
+  },
+  "porygon": {
+    "dex_id": 137,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      65,
+      60,
+      70,
+      85,
+      75,
+      40
+    ]
+  },
+  "omanyte": {
+    "dex_id": 138,
+    "type": [
+      "rock",
+      "water"
+    ],
+    "stats": [
+      35,
+      40,
+      100,
+      90,
+      55,
+      35
+    ]
+  },
+  "omastar": {
+    "dex_id": 139,
+    "type": [
+      "rock",
+      "water"
+    ],
+    "stats": [
+      70,
+      60,
+      125,
+      115,
+      70,
+      55
+    ]
+  },
+  "kabuto": {
+    "dex_id": 140,
+    "type": [
+      "rock",
+      "water"
+    ],
+    "stats": [
+      30,
+      80,
+      90,
+      55,
+      45,
+      55
+    ]
+  },
+  "kabutops": {
+    "dex_id": 141,
+    "type": [
+      "rock",
+      "water"
+    ],
+    "stats": [
+      60,
+      115,
+      105,
+      65,
+      70,
+      80
+    ]
+  },
+  "aerodactyl": {
+    "dex_id": 142,
+    "type": [
+      "flying",
+      "rock"
+    ],
+    "stats": [
+      80,
+      105,
+      65,
+      60,
+      75,
+      130
+    ]
+  },
+  "snorlax": {
+    "dex_id": 143,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      160,
+      110,
+      65,
+      65,
+      110,
+      30
+    ]
+  },
+  "articuno": {
+    "dex_id": 144,
+    "type": [
+      "flying",
+      "ice"
+    ],
+    "stats": [
+      90,
+      85,
+      100,
+      95,
+      125,
+      85
+    ]
+  },
+  "zapdos": {
+    "dex_id": 145,
+    "type": [
+      "electric",
+      "flying"
+    ],
+    "stats": [
+      90,
+      90,
+      85,
+      125,
+      90,
+      100
+    ]
+  },
+  "moltres": {
+    "dex_id": 146,
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "stats": [
+      90,
+      100,
+      90,
+      125,
+      85,
+      90
+    ]
+  },
+  "dratini": {
+    "dex_id": 147,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      41,
+      64,
+      45,
+      50,
+      50,
+      50
+    ]
+  },
+  "dragonair": {
+    "dex_id": 148,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      61,
+      84,
+      65,
+      70,
+      70,
+      70
+    ]
+  },
+  "dragonite": {
+    "dex_id": 149,
+    "type": [
+      "dragon",
+      "flying"
+    ],
+    "stats": [
+      91,
+      134,
+      95,
+      100,
+      100,
+      80
+    ]
+  },
+  "mewtwo": {
+    "dex_id": 150,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      106,
+      110,
+      90,
+      154,
+      90,
+      130
+    ]
+  },
+  "mew": {
+    "dex_id": 151,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "chikorita": {
+    "dex_id": 152,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      45,
+      49,
+      65,
+      49,
+      65,
+      45
+    ]
+  },
+  "bayleef": {
+    "dex_id": 153,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      60,
+      62,
+      80,
+      63,
+      80,
+      60
+    ]
+  },
+  "meganium": {
+    "dex_id": 154,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      80,
+      82,
+      100,
+      83,
+      100,
+      80
+    ]
+  },
+  "cyndaquil": {
+    "dex_id": 155,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      39,
+      52,
+      43,
+      60,
+      50,
+      65
+    ]
+  },
+  "quilava": {
+    "dex_id": 156,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      58,
+      64,
+      58,
+      80,
+      65,
+      80
+    ]
+  },
+  "typhlosion": {
+    "dex_id": 157,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      78,
+      84,
+      78,
+      109,
+      85,
+      100
+    ]
+  },
+  "totodile": {
+    "dex_id": 158,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      50,
+      65,
+      64,
+      44,
+      48,
+      43
+    ]
+  },
+  "croconaw": {
+    "dex_id": 159,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      65,
+      80,
+      80,
+      59,
+      63,
+      58
+    ]
+  },
+  "feraligatr": {
+    "dex_id": 160,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      85,
+      105,
+      100,
+      79,
+      83,
+      78
+    ]
+  },
+  "sentret": {
+    "dex_id": 161,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      35,
+      46,
+      34,
+      35,
+      45,
+      20
+    ]
+  },
+  "furret": {
+    "dex_id": 162,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      85,
+      76,
+      64,
+      45,
+      55,
+      90
+    ]
+  },
+  "hoothoot": {
+    "dex_id": 163,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      60,
+      30,
+      30,
+      36,
+      56,
+      50
+    ]
+  },
+  "noctowl": {
+    "dex_id": 164,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      100,
+      50,
+      50,
+      86,
+      96,
+      70
+    ]
+  },
+  "ledyba": {
+    "dex_id": 165,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      40,
+      20,
+      30,
+      40,
+      80,
+      55
+    ]
+  },
+  "ledian": {
+    "dex_id": 166,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      55,
+      35,
+      50,
+      55,
+      110,
+      85
+    ]
+  },
+  "spinarak": {
+    "dex_id": 167,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      40,
+      60,
+      40,
+      40,
+      40,
+      30
+    ]
+  },
+  "ariados": {
+    "dex_id": 168,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      70,
+      90,
+      70,
+      60,
+      70,
+      40
+    ]
+  },
+  "crobat": {
+    "dex_id": 169,
+    "type": [
+      "flying",
+      "poison"
+    ],
+    "stats": [
+      85,
+      90,
+      80,
+      70,
+      80,
+      130
+    ]
+  },
+  "chinchou": {
+    "dex_id": 170,
+    "type": [
+      "electric",
+      "water"
+    ],
+    "stats": [
+      75,
+      38,
+      38,
+      56,
+      56,
+      67
+    ]
+  },
+  "lanturn": {
+    "dex_id": 171,
+    "type": [
+      "electric",
+      "water"
+    ],
+    "stats": [
+      125,
+      58,
+      58,
+      76,
+      76,
+      67
+    ]
+  },
+  "pichu": {
+    "dex_id": 172,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      20,
+      40,
+      15,
+      35,
+      35,
+      60
+    ]
+  },
+  "cleffa": {
+    "dex_id": 173,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      50,
+      25,
+      28,
+      45,
+      55,
+      15
+    ]
+  },
+  "igglybuff": {
+    "dex_id": 174,
+    "type": [
+      "fairy",
+      "normal"
+    ],
+    "stats": [
+      90,
+      30,
+      15,
+      40,
+      20,
+      15
+    ]
+  },
+  "togepi": {
+    "dex_id": 175,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      35,
+      20,
+      65,
+      40,
+      65,
+      20
+    ]
+  },
+  "togetic": {
+    "dex_id": 176,
+    "type": [
+      "fairy",
+      "flying"
+    ],
+    "stats": [
+      55,
+      40,
+      85,
+      80,
+      105,
+      40
+    ]
+  },
+  "natu": {
+    "dex_id": 177,
+    "type": [
+      "flying",
+      "psychic"
+    ],
+    "stats": [
+      40,
+      50,
+      45,
+      70,
+      45,
+      70
+    ]
+  },
+  "xatu": {
+    "dex_id": 178,
+    "type": [
+      "flying",
+      "psychic"
+    ],
+    "stats": [
+      65,
+      75,
+      70,
+      95,
+      70,
+      95
+    ]
+  },
+  "mareep": {
+    "dex_id": 179,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      55,
+      40,
+      40,
+      65,
+      45,
+      35
+    ]
+  },
+  "flaaffy": {
+    "dex_id": 180,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      70,
+      55,
+      55,
+      80,
+      60,
+      45
+    ]
+  },
+  "ampharos": {
+    "dex_id": 181,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      90,
+      75,
+      85,
+      115,
+      90,
+      55
+    ]
+  },
+  "bellossom": {
+    "dex_id": 182,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      75,
+      80,
+      95,
+      90,
+      100,
+      50
+    ]
+  },
+  "marill": {
+    "dex_id": 183,
+    "type": [
+      "fairy",
+      "water"
+    ],
+    "stats": [
+      70,
+      20,
+      50,
+      20,
+      50,
+      40
+    ]
+  },
+  "azumarill": {
+    "dex_id": 184,
+    "type": [
+      "fairy",
+      "water"
+    ],
+    "stats": [
+      100,
+      50,
+      80,
+      60,
+      80,
+      50
+    ]
+  },
+  "sudowoodo": {
+    "dex_id": 185,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      70,
+      100,
+      115,
+      30,
+      65,
+      30
+    ]
+  },
+  "politoed": {
+    "dex_id": 186,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      90,
+      75,
+      75,
+      90,
+      100,
+      70
+    ]
+  },
+  "hoppip": {
+    "dex_id": 187,
+    "type": [
+      "flying",
+      "grass"
+    ],
+    "stats": [
+      35,
+      35,
+      40,
+      35,
+      55,
+      50
+    ]
+  },
+  "skiploom": {
+    "dex_id": 188,
+    "type": [
+      "flying",
+      "grass"
+    ],
+    "stats": [
+      55,
+      45,
+      50,
+      45,
+      65,
+      80
+    ]
+  },
+  "jumpluff": {
+    "dex_id": 189,
+    "type": [
+      "flying",
+      "grass"
+    ],
+    "stats": [
+      75,
+      55,
+      70,
+      55,
+      95,
+      110
+    ]
+  },
+  "aipom": {
+    "dex_id": 190,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      55,
+      70,
+      55,
+      40,
+      55,
+      85
+    ]
+  },
+  "sunkern": {
+    "dex_id": 191,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ]
+  },
+  "sunflora": {
+    "dex_id": 192,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      75,
+      75,
+      55,
+      105,
+      85,
+      30
+    ]
+  },
+  "yanma": {
+    "dex_id": 193,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      65,
+      65,
+      45,
+      75,
+      45,
+      95
+    ]
+  },
+  "wooper": {
+    "dex_id": 194,
+    "type": [
+      "ground",
+      "water"
+    ],
+    "stats": [
+      55,
+      45,
+      45,
+      25,
+      25,
+      15
+    ]
+  },
+  "quagsire": {
+    "dex_id": 195,
+    "type": [
+      "ground",
+      "water"
+    ],
+    "stats": [
+      95,
+      85,
+      85,
+      65,
+      65,
+      35
+    ]
+  },
+  "espeon": {
+    "dex_id": 196,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      65,
+      65,
+      60,
+      130,
+      95,
+      110
+    ]
+  },
+  "umbreon": {
+    "dex_id": 197,
+    "type": [
+      "dark"
+    ],
+    "stats": [
+      95,
+      65,
+      110,
+      60,
+      130,
+      65
+    ]
+  },
+  "murkrow": {
+    "dex_id": 198,
+    "type": [
+      "dark",
+      "flying"
+    ],
+    "stats": [
+      60,
+      85,
+      42,
+      85,
+      42,
+      91
+    ]
+  },
+  "slowking": {
+    "dex_id": 199,
+    "type": [
+      "psychic",
+      "water"
+    ],
+    "stats": [
+      95,
+      75,
+      80,
+      100,
+      110,
+      30
+    ]
+  },
+  "misdreavus": {
+    "dex_id": 200,
+    "type": [
+      "ghost"
+    ],
+    "stats": [
+      60,
+      60,
+      60,
+      85,
+      85,
+      85
+    ]
+  },
+  "unown": {
+    "dex_id": 201,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      48,
+      72,
+      48,
+      72,
+      48,
+      48
+    ]
+  },
+  "wobbuffet": {
+    "dex_id": 202,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      190,
+      33,
+      58,
+      33,
+      58,
+      33
+    ]
+  },
+  "girafarig": {
+    "dex_id": 203,
+    "type": [
+      "normal",
+      "psychic"
+    ],
+    "stats": [
+      70,
+      80,
+      65,
+      90,
+      65,
+      85
+    ]
+  },
+  "pineco": {
+    "dex_id": 204,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      50,
+      65,
+      90,
+      35,
+      35,
+      15
+    ]
+  },
+  "forretress": {
+    "dex_id": 205,
+    "type": [
+      "bug",
+      "steel"
+    ],
+    "stats": [
+      75,
+      90,
+      140,
+      60,
+      60,
+      40
+    ]
+  },
+  "dunsparce": {
+    "dex_id": 206,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      100,
+      70,
+      70,
+      65,
+      65,
+      45
+    ]
+  },
+  "gligar": {
+    "dex_id": 207,
+    "type": [
+      "flying",
+      "ground"
+    ],
+    "stats": [
+      65,
+      75,
+      105,
+      35,
+      65,
+      85
+    ]
+  },
+  "steelix": {
+    "dex_id": 208,
+    "type": [
+      "ground",
+      "steel"
+    ],
+    "stats": [
+      75,
+      85,
+      200,
+      55,
+      65,
+      30
+    ]
+  },
+  "snubbull": {
+    "dex_id": 209,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      60,
+      80,
+      50,
+      40,
+      40,
+      30
+    ]
+  },
+  "granbull": {
+    "dex_id": 210,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      90,
+      120,
+      75,
+      60,
+      60,
+      45
+    ]
+  },
+  "qwilfish": {
+    "dex_id": 211,
+    "type": [
+      "poison",
+      "water"
+    ],
+    "stats": [
+      65,
+      95,
+      85,
+      55,
+      55,
+      85
+    ]
+  },
+  "scizor": {
+    "dex_id": 212,
+    "type": [
+      "bug",
+      "steel"
+    ],
+    "stats": [
+      70,
+      130,
+      100,
+      55,
+      80,
+      65
+    ]
+  },
+  "shuckle": {
+    "dex_id": 213,
+    "type": [
+      "bug",
+      "rock"
+    ],
+    "stats": [
+      20,
+      10,
+      230,
+      10,
+      230,
+      5
+    ]
+  },
+  "heracross": {
+    "dex_id": 214,
+    "type": [
+      "bug",
+      "fighting"
+    ],
+    "stats": [
+      80,
+      125,
+      75,
+      40,
+      95,
+      85
+    ]
+  },
+  "sneasel": {
+    "dex_id": 215,
+    "type": [
+      "dark",
+      "ice"
+    ],
+    "stats": [
+      55,
+      95,
+      55,
+      35,
+      75,
+      115
+    ]
+  },
+  "teddiursa": {
+    "dex_id": 216,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      60,
+      80,
+      50,
+      50,
+      50,
+      40
+    ]
+  },
+  "ursaring": {
+    "dex_id": 217,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      90,
+      130,
+      75,
+      75,
+      75,
+      55
+    ]
+  },
+  "slugma": {
+    "dex_id": 218,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      40,
+      40,
+      40,
+      70,
+      40,
+      20
+    ]
+  },
+  "magcargo": {
+    "dex_id": 219,
+    "type": [
+      "fire",
+      "rock"
+    ],
+    "stats": [
+      60,
+      50,
+      120,
+      90,
+      80,
+      30
+    ]
+  },
+  "swinub": {
+    "dex_id": 220,
+    "type": [
+      "ground",
+      "ice"
+    ],
+    "stats": [
+      50,
+      50,
+      40,
+      30,
+      30,
+      50
+    ]
+  },
+  "piloswine": {
+    "dex_id": 221,
+    "type": [
+      "ground",
+      "ice"
+    ],
+    "stats": [
+      100,
+      100,
+      80,
+      60,
+      60,
+      50
+    ]
+  },
+  "corsola": {
+    "dex_id": 222,
+    "type": [
+      "rock",
+      "water"
+    ],
+    "stats": [
+      65,
+      55,
+      95,
+      65,
+      95,
+      35
+    ]
+  },
+  "remoraid": {
+    "dex_id": 223,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      35,
+      65,
+      35,
+      65,
+      35,
+      65
+    ]
+  },
+  "octillery": {
+    "dex_id": 224,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      75,
+      105,
+      75,
+      105,
+      75,
+      45
+    ]
+  },
+  "delibird": {
+    "dex_id": 225,
+    "type": [
+      "flying",
+      "ice"
+    ],
+    "stats": [
+      45,
+      55,
+      45,
+      65,
+      45,
+      75
+    ]
+  },
+  "mantine": {
+    "dex_id": 226,
+    "type": [
+      "flying",
+      "water"
+    ],
+    "stats": [
+      85,
+      40,
+      70,
+      80,
+      140,
+      70
+    ]
+  },
+  "skarmory": {
+    "dex_id": 227,
+    "type": [
+      "flying",
+      "steel"
+    ],
+    "stats": [
+      65,
+      80,
+      140,
+      40,
+      70,
+      70
+    ]
+  },
+  "houndour": {
+    "dex_id": 228,
+    "type": [
+      "dark",
+      "fire"
+    ],
+    "stats": [
+      45,
+      60,
+      30,
+      80,
+      50,
+      65
+    ]
+  },
+  "houndoom": {
+    "dex_id": 229,
+    "type": [
+      "dark",
+      "fire"
+    ],
+    "stats": [
+      75,
+      90,
+      50,
+      110,
+      80,
+      95
+    ]
+  },
+  "kingdra": {
+    "dex_id": 230,
+    "type": [
+      "dragon",
+      "water"
+    ],
+    "stats": [
+      75,
+      95,
+      95,
+      95,
+      95,
+      85
+    ]
+  },
+  "phanpy": {
+    "dex_id": 231,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      90,
+      60,
+      60,
+      40,
+      40,
+      40
+    ]
+  },
+  "donphan": {
+    "dex_id": 232,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      90,
+      120,
+      120,
+      60,
+      60,
+      50
+    ]
+  },
+  "porygon2": {
+    "dex_id": 233,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      85,
+      80,
+      90,
+      105,
+      95,
+      60
+    ]
+  },
+  "stantler": {
+    "dex_id": 234,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      73,
+      95,
+      62,
+      85,
+      65,
+      85
+    ]
+  },
+  "smeargle": {
+    "dex_id": 235,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      55,
+      20,
+      35,
+      20,
+      45,
+      75
+    ]
+  },
+  "tyrogue": {
+    "dex_id": 236,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      35,
+      35,
+      35,
+      35,
+      35,
+      35
+    ]
+  },
+  "hitmontop": {
+    "dex_id": 237,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      50,
+      95,
+      95,
+      35,
+      110,
+      70
+    ]
+  },
+  "smoochum": {
+    "dex_id": 238,
+    "type": [
+      "ice",
+      "psychic"
+    ],
+    "stats": [
+      45,
+      30,
+      15,
+      85,
+      65,
+      65
+    ]
+  },
+  "elekid": {
+    "dex_id": 239,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      45,
+      63,
+      37,
+      65,
+      55,
+      95
+    ]
+  },
+  "magby": {
+    "dex_id": 240,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      45,
+      75,
+      37,
+      70,
+      55,
+      83
+    ]
+  },
+  "miltank": {
+    "dex_id": 241,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      95,
+      80,
+      105,
+      40,
+      70,
+      100
+    ]
+  },
+  "blissey": {
+    "dex_id": 242,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      255,
+      10,
+      10,
+      75,
+      135,
+      55
+    ]
+  },
+  "raikou": {
+    "dex_id": 243,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      90,
+      85,
+      75,
+      115,
+      100,
+      115
+    ]
+  },
+  "entei": {
+    "dex_id": 244,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      115,
+      115,
+      85,
+      90,
+      75,
+      100
+    ]
+  },
+  "suicune": {
+    "dex_id": 245,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      100,
+      75,
+      115,
+      90,
+      115,
+      85
+    ]
+  },
+  "larvitar": {
+    "dex_id": 246,
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "stats": [
+      50,
+      64,
+      50,
+      45,
+      50,
+      41
+    ]
+  },
+  "pupitar": {
+    "dex_id": 247,
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "stats": [
+      70,
+      84,
+      70,
+      65,
+      70,
+      51
+    ]
+  },
+  "tyranitar": {
+    "dex_id": 248,
+    "type": [
+      "dark",
+      "rock"
+    ],
+    "stats": [
+      100,
+      134,
+      110,
+      95,
+      100,
+      61
+    ]
+  },
+  "lugia": {
+    "dex_id": 249,
+    "type": [
+      "flying",
+      "psychic"
+    ],
+    "stats": [
+      106,
+      90,
+      130,
+      90,
+      154,
+      110
+    ]
+  },
+  "ho-oh": {
+    "dex_id": 250,
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "stats": [
+      106,
+      130,
+      90,
+      110,
+      154,
+      90
+    ]
+  },
+  "celebi": {
+    "dex_id": 251,
+    "type": [
+      "grass",
+      "psychic"
+    ],
+    "stats": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "treecko": {
+    "dex_id": 252,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      40,
+      45,
+      35,
+      65,
+      55,
+      70
+    ]
+  },
+  "grovyle": {
+    "dex_id": 253,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      50,
+      65,
+      45,
+      85,
+      65,
+      95
+    ]
+  },
+  "sceptile": {
+    "dex_id": 254,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      70,
+      85,
+      65,
+      105,
+      85,
+      120
+    ]
+  },
+  "torchic": {
+    "dex_id": 255,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      45,
+      60,
+      40,
+      70,
+      50,
+      45
+    ]
+  },
+  "combusken": {
+    "dex_id": 256,
+    "type": [
+      "fighting",
+      "fire"
+    ],
+    "stats": [
+      60,
+      85,
+      60,
+      85,
+      60,
+      55
+    ]
+  },
+  "blaziken": {
+    "dex_id": 257,
+    "type": [
+      "fighting",
+      "fire"
+    ],
+    "stats": [
+      80,
+      120,
+      70,
+      110,
+      70,
+      80
+    ]
+  },
+  "mudkip": {
+    "dex_id": 258,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      50,
+      70,
+      50,
+      50,
+      50,
+      40
+    ]
+  },
+  "marshtomp": {
+    "dex_id": 259,
+    "type": [
+      "ground",
+      "water"
+    ],
+    "stats": [
+      70,
+      85,
+      70,
+      60,
+      70,
+      50
+    ]
+  },
+  "swampert": {
+    "dex_id": 260,
+    "type": [
+      "ground",
+      "water"
+    ],
+    "stats": [
+      100,
+      110,
+      90,
+      85,
+      90,
+      60
+    ]
+  },
+  "poochyena": {
+    "dex_id": 261,
+    "type": [
+      "dark"
+    ],
+    "stats": [
+      35,
+      55,
+      35,
+      30,
+      30,
+      35
+    ]
+  },
+  "mightyena": {
+    "dex_id": 262,
+    "type": [
+      "dark"
+    ],
+    "stats": [
+      70,
+      90,
+      70,
+      60,
+      60,
+      70
+    ]
+  },
+  "zigzagoon": {
+    "dex_id": 263,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      38,
+      30,
+      41,
+      30,
+      41,
+      60
+    ]
+  },
+  "linoone": {
+    "dex_id": 264,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      78,
+      70,
+      61,
+      50,
+      61,
+      100
+    ]
+  },
+  "wurmple": {
+    "dex_id": 265,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      45,
+      45,
+      35,
+      20,
+      30,
+      20
+    ]
+  },
+  "silcoon": {
+    "dex_id": 266,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      50,
+      35,
+      55,
+      25,
+      25,
+      15
+    ]
+  },
+  "beautifly": {
+    "dex_id": 267,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      60,
+      70,
+      50,
+      100,
+      50,
+      65
+    ]
+  },
+  "cascoon": {
+    "dex_id": 268,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      50,
+      35,
+      55,
+      25,
+      25,
+      15
+    ]
+  },
+  "dustox": {
+    "dex_id": 269,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      60,
+      50,
+      70,
+      50,
+      90,
+      65
+    ]
+  },
+  "lotad": {
+    "dex_id": 270,
+    "type": [
+      "grass",
+      "water"
+    ],
+    "stats": [
+      40,
+      30,
+      30,
+      40,
+      50,
+      30
+    ]
+  },
+  "lombre": {
+    "dex_id": 271,
+    "type": [
+      "grass",
+      "water"
+    ],
+    "stats": [
+      60,
+      50,
+      50,
+      60,
+      70,
+      50
+    ]
+  },
+  "ludicolo": {
+    "dex_id": 272,
+    "type": [
+      "grass",
+      "water"
+    ],
+    "stats": [
+      80,
+      70,
+      70,
+      90,
+      100,
+      70
+    ]
+  },
+  "seedot": {
+    "dex_id": 273,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      40,
+      40,
+      50,
+      30,
+      30,
+      30
+    ]
+  },
+  "nuzleaf": {
+    "dex_id": 274,
+    "type": [
+      "dark",
+      "grass"
+    ],
+    "stats": [
+      70,
+      70,
+      40,
+      60,
+      40,
+      60
+    ]
+  },
+  "shiftry": {
+    "dex_id": 275,
+    "type": [
+      "dark",
+      "grass"
+    ],
+    "stats": [
+      90,
+      100,
+      60,
+      90,
+      60,
+      80
+    ]
+  },
+  "taillow": {
+    "dex_id": 276,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      40,
+      55,
+      30,
+      30,
+      30,
+      85
+    ]
+  },
+  "swellow": {
+    "dex_id": 277,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      60,
+      85,
+      60,
+      75,
+      50,
+      125
+    ]
+  },
+  "wingull": {
+    "dex_id": 278,
+    "type": [
+      "flying",
+      "water"
+    ],
+    "stats": [
+      40,
+      30,
+      30,
+      55,
+      30,
+      85
+    ]
+  },
+  "pelipper": {
+    "dex_id": 279,
+    "type": [
+      "flying",
+      "water"
+    ],
+    "stats": [
+      60,
+      50,
+      100,
+      95,
+      70,
+      65
+    ]
+  },
+  "ralts": {
+    "dex_id": 280,
+    "type": [
+      "fairy",
+      "psychic"
+    ],
+    "stats": [
+      28,
+      25,
+      25,
+      45,
+      35,
+      40
+    ]
+  },
+  "kirlia": {
+    "dex_id": 281,
+    "type": [
+      "fairy",
+      "psychic"
+    ],
+    "stats": [
+      38,
+      35,
+      35,
+      65,
+      55,
+      50
+    ]
+  },
+  "gardevoir": {
+    "dex_id": 282,
+    "type": [
+      "fairy",
+      "psychic"
+    ],
+    "stats": [
+      68,
+      65,
+      65,
+      125,
+      115,
+      80
+    ]
+  },
+  "surskit": {
+    "dex_id": 283,
+    "type": [
+      "bug",
+      "water"
+    ],
+    "stats": [
+      40,
+      30,
+      32,
+      50,
+      52,
+      65
+    ]
+  },
+  "masquerain": {
+    "dex_id": 284,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      70,
+      60,
+      62,
+      100,
+      82,
+      80
+    ]
+  },
+  "shroomish": {
+    "dex_id": 285,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      60,
+      40,
+      60,
+      40,
+      60,
+      35
+    ]
+  },
+  "breloom": {
+    "dex_id": 286,
+    "type": [
+      "fighting",
+      "grass"
+    ],
+    "stats": [
+      60,
+      130,
+      80,
+      60,
+      60,
+      70
+    ]
+  },
+  "slakoth": {
+    "dex_id": 287,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      60,
+      60,
+      60,
+      35,
+      35,
+      30
+    ]
+  },
+  "vigoroth": {
+    "dex_id": 288,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      80,
+      80,
+      80,
+      55,
+      55,
+      90
+    ]
+  },
+  "slaking": {
+    "dex_id": 289,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      150,
+      160,
+      100,
+      95,
+      65,
+      100
+    ]
+  },
+  "nincada": {
+    "dex_id": 290,
+    "type": [
+      "bug",
+      "ground"
+    ],
+    "stats": [
+      31,
+      45,
+      90,
+      30,
+      30,
+      40
+    ]
+  },
+  "ninjask": {
+    "dex_id": 291,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      61,
+      90,
+      45,
+      50,
+      50,
+      160
+    ]
+  },
+  "shedinja": {
+    "dex_id": 292,
+    "type": [
+      "bug",
+      "ghost"
+    ],
+    "stats": [
+      1,
+      90,
+      45,
+      30,
+      30,
+      40
+    ]
+  },
+  "whismur": {
+    "dex_id": 293,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      64,
+      51,
+      23,
+      51,
+      23,
+      28
+    ]
+  },
+  "loudred": {
+    "dex_id": 294,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      84,
+      71,
+      43,
+      71,
+      43,
+      48
+    ]
+  },
+  "exploud": {
+    "dex_id": 295,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      104,
+      91,
+      63,
+      91,
+      73,
+      68
+    ]
+  },
+  "makuhita": {
+    "dex_id": 296,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      72,
+      60,
+      30,
+      20,
+      30,
+      25
+    ]
+  },
+  "hariyama": {
+    "dex_id": 297,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      144,
+      120,
+      60,
+      40,
+      60,
+      50
+    ]
+  },
+  "azurill": {
+    "dex_id": 298,
+    "type": [
+      "fairy",
+      "normal"
+    ],
+    "stats": [
+      50,
+      20,
+      40,
+      20,
+      40,
+      20
+    ]
+  },
+  "nosepass": {
+    "dex_id": 299,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      30,
+      45,
+      135,
+      45,
+      90,
+      30
+    ]
+  },
+  "skitty": {
+    "dex_id": 300,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      50,
+      45,
+      45,
+      35,
+      35,
+      50
+    ]
+  },
+  "delcatty": {
+    "dex_id": 301,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      70,
+      65,
+      65,
+      55,
+      55,
+      90
+    ]
+  },
+  "sableye": {
+    "dex_id": 302,
+    "type": [
+      "dark",
+      "ghost"
+    ],
+    "stats": [
+      50,
+      75,
+      75,
+      65,
+      65,
+      50
+    ]
+  },
+  "mawile": {
+    "dex_id": 303,
+    "type": [
+      "fairy",
+      "steel"
+    ],
+    "stats": [
+      50,
+      85,
+      85,
+      55,
+      55,
+      50
+    ]
+  },
+  "aron": {
+    "dex_id": 304,
+    "type": [
+      "rock",
+      "steel"
+    ],
+    "stats": [
+      50,
+      70,
+      100,
+      40,
+      40,
+      30
+    ]
+  },
+  "lairon": {
+    "dex_id": 305,
+    "type": [
+      "rock",
+      "steel"
+    ],
+    "stats": [
+      60,
+      90,
+      140,
+      50,
+      50,
+      40
+    ]
+  },
+  "aggron": {
+    "dex_id": 306,
+    "type": [
+      "rock",
+      "steel"
+    ],
+    "stats": [
+      70,
+      110,
+      180,
+      60,
+      60,
+      50
+    ]
+  },
+  "meditite": {
+    "dex_id": 307,
+    "type": [
+      "fighting",
+      "psychic"
+    ],
+    "stats": [
+      30,
+      40,
+      55,
+      40,
+      55,
+      60
+    ]
+  },
+  "medicham": {
+    "dex_id": 308,
+    "type": [
+      "fighting",
+      "psychic"
+    ],
+    "stats": [
+      60,
+      60,
+      75,
+      60,
+      75,
+      80
+    ]
+  },
+  "electrike": {
+    "dex_id": 309,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      40,
+      45,
+      40,
+      65,
+      40,
+      65
+    ]
+  },
+  "manectric": {
+    "dex_id": 310,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      70,
+      75,
+      60,
+      105,
+      60,
+      105
+    ]
+  },
+  "plusle": {
+    "dex_id": 311,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      60,
+      50,
+      40,
+      85,
+      75,
+      95
+    ]
+  },
+  "minun": {
+    "dex_id": 312,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      60,
+      40,
+      50,
+      75,
+      85,
+      95
+    ]
+  },
+  "volbeat": {
+    "dex_id": 313,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      65,
+      73,
+      75,
+      47,
+      85,
+      85
+    ]
+  },
+  "illumise": {
+    "dex_id": 314,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      65,
+      47,
+      75,
+      73,
+      85,
+      85
+    ]
+  },
+  "roselia": {
+    "dex_id": 315,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      50,
+      60,
+      45,
+      100,
+      80,
+      65
+    ]
+  },
+  "gulpin": {
+    "dex_id": 316,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      70,
+      43,
+      53,
+      43,
+      53,
+      40
+    ]
+  },
+  "swalot": {
+    "dex_id": 317,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      100,
+      73,
+      83,
+      73,
+      83,
+      55
+    ]
+  },
+  "carvanha": {
+    "dex_id": 318,
+    "type": [
+      "dark",
+      "water"
+    ],
+    "stats": [
+      45,
+      90,
+      20,
+      65,
+      20,
+      65
+    ]
+  },
+  "sharpedo": {
+    "dex_id": 319,
+    "type": [
+      "dark",
+      "water"
+    ],
+    "stats": [
+      70,
+      120,
+      40,
+      95,
+      40,
+      95
+    ]
+  },
+  "wailmer": {
+    "dex_id": 320,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      130,
+      70,
+      35,
+      70,
+      35,
+      60
+    ]
+  },
+  "wailord": {
+    "dex_id": 321,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      170,
+      90,
+      45,
+      90,
+      45,
+      60
+    ]
+  },
+  "numel": {
+    "dex_id": 322,
+    "type": [
+      "fire",
+      "ground"
+    ],
+    "stats": [
+      60,
+      60,
+      40,
+      65,
+      45,
+      35
+    ]
+  },
+  "camerupt": {
+    "dex_id": 323,
+    "type": [
+      "fire",
+      "ground"
+    ],
+    "stats": [
+      70,
+      100,
+      70,
+      105,
+      75,
+      40
+    ]
+  },
+  "torkoal": {
+    "dex_id": 324,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      70,
+      85,
+      140,
+      85,
+      70,
+      20
+    ]
+  },
+  "spoink": {
+    "dex_id": 325,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      60,
+      25,
+      35,
+      70,
+      80,
+      60
+    ]
+  },
+  "grumpig": {
+    "dex_id": 326,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      80,
+      45,
+      65,
+      90,
+      110,
+      80
+    ]
+  },
+  "spinda": {
+    "dex_id": 327,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ]
+  },
+  "trapinch": {
+    "dex_id": 328,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      45,
+      100,
+      45,
+      45,
+      45,
+      10
+    ]
+  },
+  "vibrava": {
+    "dex_id": 329,
+    "type": [
+      "dragon",
+      "ground"
+    ],
+    "stats": [
+      50,
+      70,
+      50,
+      50,
+      50,
+      70
+    ]
+  },
+  "flygon": {
+    "dex_id": 330,
+    "type": [
+      "dragon",
+      "ground"
+    ],
+    "stats": [
+      80,
+      100,
+      80,
+      80,
+      80,
+      100
+    ]
+  },
+  "cacnea": {
+    "dex_id": 331,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      50,
+      85,
+      40,
+      85,
+      40,
+      35
+    ]
+  },
+  "cacturne": {
+    "dex_id": 332,
+    "type": [
+      "dark",
+      "grass"
+    ],
+    "stats": [
+      70,
+      115,
+      60,
+      115,
+      60,
+      55
+    ]
+  },
+  "swablu": {
+    "dex_id": 333,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      45,
+      40,
+      60,
+      40,
+      75,
+      50
+    ]
+  },
+  "altaria": {
+    "dex_id": 334,
+    "type": [
+      "dragon",
+      "flying"
+    ],
+    "stats": [
+      75,
+      70,
+      90,
+      70,
+      105,
+      80
+    ]
+  },
+  "zangoose": {
+    "dex_id": 335,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      73,
+      115,
+      60,
+      60,
+      60,
+      90
+    ]
+  },
+  "seviper": {
+    "dex_id": 336,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      73,
+      100,
+      60,
+      100,
+      60,
+      65
+    ]
+  },
+  "lunatone": {
+    "dex_id": 337,
+    "type": [
+      "psychic",
+      "rock"
+    ],
+    "stats": [
+      90,
+      55,
+      65,
+      95,
+      85,
+      70
+    ]
+  },
+  "solrock": {
+    "dex_id": 338,
+    "type": [
+      "psychic",
+      "rock"
+    ],
+    "stats": [
+      90,
+      95,
+      85,
+      55,
+      65,
+      70
+    ]
+  },
+  "barboach": {
+    "dex_id": 339,
+    "type": [
+      "ground",
+      "water"
+    ],
+    "stats": [
+      50,
+      48,
+      43,
+      46,
+      41,
+      60
+    ]
+  },
+  "whiscash": {
+    "dex_id": 340,
+    "type": [
+      "ground",
+      "water"
+    ],
+    "stats": [
+      110,
+      78,
+      73,
+      76,
+      71,
+      60
+    ]
+  },
+  "corphish": {
+    "dex_id": 341,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      43,
+      80,
+      65,
+      50,
+      35,
+      35
+    ]
+  },
+  "crawdaunt": {
+    "dex_id": 342,
+    "type": [
+      "dark",
+      "water"
+    ],
+    "stats": [
+      63,
+      120,
+      85,
+      90,
+      55,
+      55
+    ]
+  },
+  "baltoy": {
+    "dex_id": 343,
+    "type": [
+      "ground",
+      "psychic"
+    ],
+    "stats": [
+      40,
+      40,
+      55,
+      40,
+      70,
+      55
+    ]
+  },
+  "claydol": {
+    "dex_id": 344,
+    "type": [
+      "ground",
+      "psychic"
+    ],
+    "stats": [
+      60,
+      70,
+      105,
+      70,
+      120,
+      75
+    ]
+  },
+  "lileep": {
+    "dex_id": 345,
+    "type": [
+      "grass",
+      "rock"
+    ],
+    "stats": [
+      66,
+      41,
+      77,
+      61,
+      87,
+      23
+    ]
+  },
+  "cradily": {
+    "dex_id": 346,
+    "type": [
+      "grass",
+      "rock"
+    ],
+    "stats": [
+      86,
+      81,
+      97,
+      81,
+      107,
+      43
+    ]
+  },
+  "anorith": {
+    "dex_id": 347,
+    "type": [
+      "bug",
+      "rock"
+    ],
+    "stats": [
+      45,
+      95,
+      50,
+      40,
+      50,
+      75
+    ]
+  },
+  "armaldo": {
+    "dex_id": 348,
+    "type": [
+      "bug",
+      "rock"
+    ],
+    "stats": [
+      75,
+      125,
+      100,
+      70,
+      80,
+      45
+    ]
+  },
+  "feebas": {
+    "dex_id": 349,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      20,
+      15,
+      20,
+      10,
+      55,
+      80
+    ]
+  },
+  "milotic": {
+    "dex_id": 350,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      95,
+      60,
+      79,
+      100,
+      125,
+      81
+    ]
+  },
+  "castform": {
+    "dex_id": 351,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+    ]
+  },
+  "kecleon": {
+    "dex_id": 352,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      60,
+      90,
+      70,
+      60,
+      120,
+      40
+    ]
+  },
+  "shuppet": {
+    "dex_id": 353,
+    "type": [
+      "ghost"
+    ],
+    "stats": [
+      44,
+      75,
+      35,
+      63,
+      33,
+      45
+    ]
+  },
+  "banette": {
+    "dex_id": 354,
+    "type": [
+      "ghost"
+    ],
+    "stats": [
+      64,
+      115,
+      65,
+      83,
+      63,
+      65
+    ]
+  },
+  "duskull": {
+    "dex_id": 355,
+    "type": [
+      "ghost"
+    ],
+    "stats": [
+      20,
+      40,
+      90,
+      30,
+      90,
+      25
+    ]
+  },
+  "dusclops": {
+    "dex_id": 356,
+    "type": [
+      "ghost"
+    ],
+    "stats": [
+      40,
+      70,
+      130,
+      60,
+      130,
+      25
+    ]
+  },
+  "tropius": {
+    "dex_id": 357,
+    "type": [
+      "flying",
+      "grass"
+    ],
+    "stats": [
+      99,
+      68,
+      83,
+      72,
+      87,
+      51
+    ]
+  },
+  "chimecho": {
+    "dex_id": 358,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      75,
+      50,
+      80,
+      95,
+      90,
+      65
+    ]
+  },
+  "absol": {
+    "dex_id": 359,
+    "type": [
+      "dark"
+    ],
+    "stats": [
+      65,
+      130,
+      60,
+      75,
+      60,
+      75
+    ]
+  },
+  "wynaut": {
+    "dex_id": 360,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      95,
+      23,
+      48,
+      23,
+      48,
+      23
+    ]
+  },
+  "snorunt": {
+    "dex_id": 361,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ]
+  },
+  "glalie": {
+    "dex_id": 362,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+    ]
+  },
+  "spheal": {
+    "dex_id": 363,
+    "type": [
+      "ice",
+      "water"
+    ],
+    "stats": [
+      70,
+      40,
+      50,
+      55,
+      50,
+      25
+    ]
+  },
+  "sealeo": {
+    "dex_id": 364,
+    "type": [
+      "ice",
+      "water"
+    ],
+    "stats": [
+      90,
+      60,
+      70,
+      75,
+      70,
+      45
+    ]
+  },
+  "walrein": {
+    "dex_id": 365,
+    "type": [
+      "ice",
+      "water"
+    ],
+    "stats": [
+      110,
+      80,
+      90,
+      95,
+      90,
+      65
+    ]
+  },
+  "clamperl": {
+    "dex_id": 366,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      35,
+      64,
+      85,
+      74,
+      55,
+      32
+    ]
+  },
+  "huntail": {
+    "dex_id": 367,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      55,
+      104,
+      105,
+      94,
+      75,
+      52
+    ]
+  },
+  "gorebyss": {
+    "dex_id": 368,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      55,
+      84,
+      105,
+      114,
+      75,
+      52
+    ]
+  },
+  "relicanth": {
+    "dex_id": 369,
+    "type": [
+      "rock",
+      "water"
+    ],
+    "stats": [
+      100,
+      90,
+      130,
+      45,
+      65,
+      55
+    ]
+  },
+  "luvdisc": {
+    "dex_id": 370,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      43,
+      30,
+      55,
+      40,
+      65,
+      97
+    ]
+  },
+  "bagon": {
+    "dex_id": 371,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      45,
+      75,
+      60,
+      40,
+      30,
+      50
+    ]
+  },
+  "shelgon": {
+    "dex_id": 372,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      65,
+      95,
+      100,
+      60,
+      50,
+      50
+    ]
+  },
+  "salamence": {
+    "dex_id": 373,
+    "type": [
+      "dragon",
+      "flying"
+    ],
+    "stats": [
+      95,
+      135,
+      80,
+      110,
+      80,
+      100
+    ]
+  },
+  "beldum": {
+    "dex_id": 374,
+    "type": [
+      "psychic",
+      "steel"
+    ],
+    "stats": [
+      40,
+      55,
+      80,
+      35,
+      60,
+      30
+    ]
+  },
+  "metang": {
+    "dex_id": 375,
+    "type": [
+      "psychic",
+      "steel"
+    ],
+    "stats": [
+      60,
+      75,
+      100,
+      55,
+      80,
+      50
+    ]
+  },
+  "metagross": {
+    "dex_id": 376,
+    "type": [
+      "psychic",
+      "steel"
+    ],
+    "stats": [
+      80,
+      135,
+      130,
+      95,
+      90,
+      70
+    ]
+  },
+  "regirock": {
+    "dex_id": 377,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      80,
+      100,
+      200,
+      50,
+      100,
+      50
+    ]
+  },
+  "regice": {
+    "dex_id": 378,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      80,
+      50,
+      100,
+      100,
+      200,
+      50
+    ]
+  },
+  "registeel": {
+    "dex_id": 379,
+    "type": [
+      "steel"
+    ],
+    "stats": [
+      80,
+      75,
+      150,
+      75,
+      150,
+      50
+    ]
+  },
+  "latias": {
+    "dex_id": 380,
+    "type": [
+      "dragon",
+      "psychic"
+    ],
+    "stats": [
+      80,
+      80,
+      90,
+      110,
+      130,
+      110
+    ]
+  },
+  "latios": {
+    "dex_id": 381,
+    "type": [
+      "dragon",
+      "psychic"
+    ],
+    "stats": [
+      80,
+      90,
+      80,
+      130,
+      110,
+      110
+    ]
+  },
+  "kyogre": {
+    "dex_id": 382,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      100,
+      100,
+      90,
+      150,
+      140,
+      90
+    ]
+  },
+  "groudon": {
+    "dex_id": 383,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      100,
+      150,
+      140,
+      100,
+      90,
+      90
+    ]
+  },
+  "rayquaza": {
+    "dex_id": 384,
+    "type": [
+      "dragon",
+      "flying"
+    ],
+    "stats": [
+      105,
+      150,
+      90,
+      150,
+      90,
+      95
+    ]
+  },
+  "jirachi": {
+    "dex_id": 385,
+    "type": [
+      "psychic",
+      "steel"
+    ],
+    "stats": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "deoxys": {
+    "dex_id": 386,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      50,
+      150,
+      50,
+      150,
+      50,
+      150
+    ]
+  },
+  "turtwig": {
+    "dex_id": 387,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      55,
+      68,
+      64,
+      45,
+      55,
+      31
+    ]
+  },
+  "grotle": {
+    "dex_id": 388,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      75,
+      89,
+      85,
+      55,
+      65,
+      36
+    ]
+  },
+  "torterra": {
+    "dex_id": 389,
+    "type": [
+      "grass",
+      "ground"
+    ],
+    "stats": [
+      95,
+      109,
+      105,
+      75,
+      85,
+      56
+    ]
+  },
+  "chimchar": {
+    "dex_id": 390,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      44,
+      58,
+      44,
+      58,
+      44,
+      61
+    ]
+  },
+  "monferno": {
+    "dex_id": 391,
+    "type": [
+      "fighting",
+      "fire"
+    ],
+    "stats": [
+      64,
+      78,
+      52,
+      78,
+      52,
+      81
+    ]
+  },
+  "infernape": {
+    "dex_id": 392,
+    "type": [
+      "fighting",
+      "fire"
+    ],
+    "stats": [
+      76,
+      104,
+      71,
+      104,
+      71,
+      108
+    ]
+  },
+  "piplup": {
+    "dex_id": 393,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      53,
+      51,
+      53,
+      61,
+      56,
+      40
+    ]
+  },
+  "prinplup": {
+    "dex_id": 394,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      64,
+      66,
+      68,
+      81,
+      76,
+      50
+    ]
+  },
+  "empoleon": {
+    "dex_id": 395,
+    "type": [
+      "steel",
+      "water"
+    ],
+    "stats": [
+      84,
+      86,
+      88,
+      111,
+      101,
+      60
+    ]
+  },
+  "starly": {
+    "dex_id": 396,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      40,
+      55,
+      30,
+      30,
+      30,
+      60
+    ]
+  },
+  "staravia": {
+    "dex_id": 397,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      55,
+      75,
+      50,
+      40,
+      40,
+      80
+    ]
+  },
+  "staraptor": {
+    "dex_id": 398,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      85,
+      120,
+      70,
+      50,
+      60,
+      100
+    ]
+  },
+  "bidoof": {
+    "dex_id": 399,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      59,
+      45,
+      40,
+      35,
+      40,
+      31
+    ]
+  },
+  "bibarel": {
+    "dex_id": 400,
+    "type": [
+      "normal",
+      "water"
+    ],
+    "stats": [
+      79,
+      85,
+      60,
+      55,
+      60,
+      71
+    ]
+  },
+  "kricketot": {
+    "dex_id": 401,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      37,
+      25,
+      41,
+      25,
+      41,
+      25
+    ]
+  },
+  "kricketune": {
+    "dex_id": 402,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      77,
+      85,
+      51,
+      55,
+      51,
+      65
+    ]
+  },
+  "shinx": {
+    "dex_id": 403,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      45,
+      65,
+      34,
+      40,
+      34,
+      45
+    ]
+  },
+  "luxio": {
+    "dex_id": 404,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      60,
+      85,
+      49,
+      60,
+      49,
+      60
+    ]
+  },
+  "luxray": {
+    "dex_id": 405,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      80,
+      120,
+      79,
+      95,
+      79,
+      70
+    ]
+  },
+  "budew": {
+    "dex_id": 406,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      40,
+      30,
+      35,
+      50,
+      70,
+      55
+    ]
+  },
+  "roserade": {
+    "dex_id": 407,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      60,
+      70,
+      65,
+      125,
+      105,
+      90
+    ]
+  },
+  "cranidos": {
+    "dex_id": 408,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      67,
+      125,
+      40,
+      30,
+      30,
+      58
+    ]
+  },
+  "rampardos": {
+    "dex_id": 409,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      97,
+      165,
+      60,
+      65,
+      50,
+      58
+    ]
+  },
+  "shieldon": {
+    "dex_id": 410,
+    "type": [
+      "rock",
+      "steel"
+    ],
+    "stats": [
+      30,
+      42,
+      118,
+      42,
+      88,
+      30
+    ]
+  },
+  "bastiodon": {
+    "dex_id": 411,
+    "type": [
+      "rock",
+      "steel"
+    ],
+    "stats": [
+      60,
+      52,
+      168,
+      47,
+      138,
+      30
+    ]
+  },
+  "burmy": {
+    "dex_id": 412,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      40,
+      29,
+      45,
+      29,
+      45,
+      36
+    ]
+  },
+  "wormadam": {
+    "dex_id": 413,
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "stats": [
+      60,
+      59,
+      85,
+      79,
+      105,
+      36
+    ]
+  },
+  "mothim": {
+    "dex_id": 414,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      70,
+      94,
+      50,
+      94,
+      50,
+      66
+    ]
+  },
+  "combee": {
+    "dex_id": 415,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      30,
+      30,
+      42,
+      30,
+      42,
+      70
+    ]
+  },
+  "vespiquen": {
+    "dex_id": 416,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      70,
+      80,
+      102,
+      80,
+      102,
+      40
+    ]
+  },
+  "pachirisu": {
+    "dex_id": 417,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      60,
+      45,
+      70,
+      45,
+      90,
+      95
+    ]
+  },
+  "buizel": {
+    "dex_id": 418,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      55,
+      65,
+      35,
+      60,
+      30,
+      85
+    ]
+  },
+  "floatzel": {
+    "dex_id": 419,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      85,
+      105,
+      55,
+      85,
+      50,
+      115
+    ]
+  },
+  "cherubi": {
+    "dex_id": 420,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      45,
+      35,
+      45,
+      62,
+      53,
+      35
+    ]
+  },
+  "cherrim": {
+    "dex_id": 421,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      70,
+      60,
+      70,
+      87,
+      78,
+      85
+    ]
+  },
+  "shellos": {
+    "dex_id": 422,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      76,
+      48,
+      48,
+      57,
+      62,
+      34
+    ]
+  },
+  "gastrodon": {
+    "dex_id": 423,
+    "type": [
+      "ground",
+      "water"
+    ],
+    "stats": [
+      111,
+      83,
+      68,
+      92,
+      82,
+      39
+    ]
+  },
+  "ambipom": {
+    "dex_id": 424,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      75,
+      100,
+      66,
+      60,
+      66,
+      115
+    ]
+  },
+  "drifloon": {
+    "dex_id": 425,
+    "type": [
+      "flying",
+      "ghost"
+    ],
+    "stats": [
+      90,
+      50,
+      34,
+      60,
+      44,
+      70
+    ]
+  },
+  "drifblim": {
+    "dex_id": 426,
+    "type": [
+      "flying",
+      "ghost"
+    ],
+    "stats": [
+      150,
+      80,
+      44,
+      90,
+      54,
+      80
+    ]
+  },
+  "buneary": {
+    "dex_id": 427,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      55,
+      66,
+      44,
+      44,
+      56,
+      85
+    ]
+  },
+  "lopunny": {
+    "dex_id": 428,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      65,
+      76,
+      84,
+      54,
+      96,
+      105
+    ]
+  },
+  "mismagius": {
+    "dex_id": 429,
+    "type": [
+      "ghost"
+    ],
+    "stats": [
+      60,
+      60,
+      60,
+      105,
+      105,
+      105
+    ]
+  },
+  "honchkrow": {
+    "dex_id": 430,
+    "type": [
+      "dark",
+      "flying"
+    ],
+    "stats": [
+      100,
+      125,
+      52,
+      105,
+      52,
+      71
+    ]
+  },
+  "glameow": {
+    "dex_id": 431,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      49,
+      55,
+      42,
+      42,
+      37,
+      85
+    ]
+  },
+  "purugly": {
+    "dex_id": 432,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      71,
+      82,
+      64,
+      64,
+      59,
+      112
+    ]
+  },
+  "chingling": {
+    "dex_id": 433,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      45,
+      30,
+      50,
+      65,
+      50,
+      45
+    ]
+  },
+  "stunky": {
+    "dex_id": 434,
+    "type": [
+      "dark",
+      "poison"
+    ],
+    "stats": [
+      63,
+      63,
+      47,
+      41,
+      41,
+      74
+    ]
+  },
+  "skuntank": {
+    "dex_id": 435,
+    "type": [
+      "dark",
+      "poison"
+    ],
+    "stats": [
+      103,
+      93,
+      67,
+      71,
+      61,
+      84
+    ]
+  },
+  "bronzor": {
+    "dex_id": 436,
+    "type": [
+      "psychic",
+      "steel"
+    ],
+    "stats": [
+      57,
+      24,
+      86,
+      24,
+      86,
+      23
+    ]
+  },
+  "bronzong": {
+    "dex_id": 437,
+    "type": [
+      "psychic",
+      "steel"
+    ],
+    "stats": [
+      67,
+      89,
+      116,
+      79,
+      116,
+      33
+    ]
+  },
+  "bonsly": {
+    "dex_id": 438,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      50,
+      80,
+      95,
+      10,
+      45,
+      10
+    ]
+  },
+  "mime jr.": {
+    "dex_id": 439,
+    "type": [
+      "fairy",
+      "psychic"
+    ],
+    "stats": [
+      20,
+      25,
+      45,
+      70,
+      90,
+      60
+    ]
+  },
+  "happiny": {
+    "dex_id": 440,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      100,
+      5,
+      5,
+      15,
+      65,
+      30
+    ]
+  },
+  "chatot": {
+    "dex_id": 441,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      76,
+      65,
+      45,
+      92,
+      42,
+      91
+    ]
+  },
+  "spiritomb": {
+    "dex_id": 442,
+    "type": [
+      "dark",
+      "ghost"
+    ],
+    "stats": [
+      50,
+      92,
+      108,
+      92,
+      108,
+      35
+    ]
+  },
+  "gible": {
+    "dex_id": 443,
+    "type": [
+      "dragon",
+      "ground"
+    ],
+    "stats": [
+      58,
+      70,
+      45,
+      40,
+      45,
+      42
+    ]
+  },
+  "gabite": {
+    "dex_id": 444,
+    "type": [
+      "dragon",
+      "ground"
+    ],
+    "stats": [
+      68,
+      90,
+      65,
+      50,
+      55,
+      82
+    ]
+  },
+  "garchomp": {
+    "dex_id": 445,
+    "type": [
+      "dragon",
+      "ground"
+    ],
+    "stats": [
+      108,
+      130,
+      95,
+      80,
+      85,
+      102
+    ]
+  },
+  "munchlax": {
+    "dex_id": 446,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      135,
+      85,
+      40,
+      40,
+      85,
+      5
+    ]
+  },
+  "riolu": {
+    "dex_id": 447,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      40,
+      70,
+      40,
+      35,
+      40,
+      60
+    ]
+  },
+  "lucario": {
+    "dex_id": 448,
+    "type": [
+      "fighting",
+      "steel"
+    ],
+    "stats": [
+      70,
+      110,
+      70,
+      115,
+      70,
+      90
+    ]
+  },
+  "hippopotas": {
+    "dex_id": 449,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      68,
+      72,
+      78,
+      38,
+      42,
+      32
+    ]
+  },
+  "hippowdon": {
+    "dex_id": 450,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      108,
+      112,
+      118,
+      68,
+      72,
+      47
+    ]
+  },
+  "skorupi": {
+    "dex_id": 451,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      40,
+      50,
+      90,
+      30,
+      55,
+      65
+    ]
+  },
+  "drapion": {
+    "dex_id": 452,
+    "type": [
+      "dark",
+      "poison"
+    ],
+    "stats": [
+      70,
+      90,
+      110,
+      60,
+      75,
+      95
+    ]
+  },
+  "croagunk": {
+    "dex_id": 453,
+    "type": [
+      "fighting",
+      "poison"
+    ],
+    "stats": [
+      48,
+      61,
+      40,
+      61,
+      40,
+      50
+    ]
+  },
+  "toxicroak": {
+    "dex_id": 454,
+    "type": [
+      "fighting",
+      "poison"
+    ],
+    "stats": [
+      83,
+      106,
+      65,
+      86,
+      65,
+      85
+    ]
+  },
+  "carnivine": {
+    "dex_id": 455,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      74,
+      100,
+      72,
+      90,
+      72,
+      46
+    ]
+  },
+  "finneon": {
+    "dex_id": 456,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      49,
+      49,
+      56,
+      49,
+      61,
+      66
+    ]
+  },
+  "lumineon": {
+    "dex_id": 457,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      69,
+      69,
+      76,
+      69,
+      86,
+      91
+    ]
+  },
+  "mantyke": {
+    "dex_id": 458,
+    "type": [
+      "flying",
+      "water"
+    ],
+    "stats": [
+      45,
+      20,
+      50,
+      60,
+      120,
+      50
+    ]
+  },
+  "snover": {
+    "dex_id": 459,
+    "type": [
+      "grass",
+      "ice"
+    ],
+    "stats": [
+      60,
+      62,
+      50,
+      62,
+      60,
+      40
+    ]
+  },
+  "abomasnow": {
+    "dex_id": 460,
+    "type": [
+      "grass",
+      "ice"
+    ],
+    "stats": [
+      90,
+      92,
+      75,
+      92,
+      85,
+      60
+    ]
+  },
+  "weavile": {
+    "dex_id": 461,
+    "type": [
+      "dark",
+      "ice"
+    ],
+    "stats": [
+      70,
+      120,
+      65,
+      45,
+      85,
+      125
+    ]
+  },
+  "magnezone": {
+    "dex_id": 462,
+    "type": [
+      "electric",
+      "steel"
+    ],
+    "stats": [
+      70,
+      70,
+      115,
+      130,
+      90,
+      60
+    ]
+  },
+  "lickilicky": {
+    "dex_id": 463,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      110,
+      85,
+      95,
+      80,
+      95,
+      50
+    ]
+  },
+  "rhyperior": {
+    "dex_id": 464,
+    "type": [
+      "ground",
+      "rock"
+    ],
+    "stats": [
+      115,
+      140,
+      130,
+      55,
+      55,
+      40
+    ]
+  },
+  "tangrowth": {
+    "dex_id": 465,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      100,
+      100,
+      125,
+      110,
+      50,
+      50
+    ]
+  },
+  "electivire": {
+    "dex_id": 466,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      75,
+      123,
+      67,
+      95,
+      85,
+      95
+    ]
+  },
+  "magmortar": {
+    "dex_id": 467,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      75,
+      95,
+      67,
+      125,
+      95,
+      83
+    ]
+  },
+  "togekiss": {
+    "dex_id": 468,
+    "type": [
+      "fairy",
+      "flying"
+    ],
+    "stats": [
+      85,
+      50,
+      95,
+      120,
+      115,
+      80
+    ]
+  },
+  "yanmega": {
+    "dex_id": 469,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      86,
+      76,
+      86,
+      116,
+      56,
+      95
+    ]
+  },
+  "leafeon": {
+    "dex_id": 470,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      65,
+      110,
+      130,
+      60,
+      65,
+      95
+    ]
+  },
+  "glaceon": {
+    "dex_id": 471,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      65,
+      60,
+      110,
+      130,
+      95,
+      65
+    ]
+  },
+  "gliscor": {
+    "dex_id": 472,
+    "type": [
+      "flying",
+      "ground"
+    ],
+    "stats": [
+      75,
+      95,
+      125,
+      45,
+      75,
+      95
+    ]
+  },
+  "mamoswine": {
+    "dex_id": 473,
+    "type": [
+      "ground",
+      "ice"
+    ],
+    "stats": [
+      110,
+      130,
+      80,
+      70,
+      60,
+      80
+    ]
+  },
+  "porygon-z": {
+    "dex_id": 474,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      85,
+      80,
+      70,
+      135,
+      75,
+      90
+    ]
+  },
+  "gallade": {
+    "dex_id": 475,
+    "type": [
+      "fighting",
+      "psychic"
+    ],
+    "stats": [
+      68,
+      125,
+      65,
+      65,
+      115,
+      80
+    ]
+  },
+  "probopass": {
+    "dex_id": 476,
+    "type": [
+      "rock",
+      "steel"
+    ],
+    "stats": [
+      60,
+      55,
+      145,
+      75,
+      150,
+      40
+    ]
+  },
+  "dusknoir": {
+    "dex_id": 477,
+    "type": [
+      "ghost"
+    ],
+    "stats": [
+      45,
+      100,
+      135,
+      65,
+      135,
+      45
+    ]
+  },
+  "froslass": {
+    "dex_id": 478,
+    "type": [
+      "ghost",
+      "ice"
+    ],
+    "stats": [
+      70,
+      80,
+      70,
+      80,
+      70,
+      110
+    ]
+  },
+  "rotom": {
+    "dex_id": 479,
+    "type": [
+      "electric",
+      "ghost"
+    ],
+    "stats": [
+      50,
+      50,
+      77,
+      95,
+      77,
+      91
+    ]
+  },
+  "uxie": {
+    "dex_id": 480,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      75,
+      75,
+      130,
+      75,
+      130,
+      95
+    ]
+  },
+  "mesprit": {
+    "dex_id": 481,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      80,
+      105,
+      105,
+      105,
+      105,
+      80
+    ]
+  },
+  "azelf": {
+    "dex_id": 482,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      75,
+      125,
+      70,
+      125,
+      70,
+      115
+    ]
+  },
+  "dialga": {
+    "dex_id": 483,
+    "type": [
+      "dragon",
+      "steel"
+    ],
+    "stats": [
+      100,
+      120,
+      120,
+      150,
+      100,
+      90
+    ]
+  },
+  "palkia": {
+    "dex_id": 484,
+    "type": [
+      "dragon",
+      "water"
+    ],
+    "stats": [
+      90,
+      120,
+      100,
+      150,
+      120,
+      100
+    ]
+  },
+  "heatran": {
+    "dex_id": 485,
+    "type": [
+      "fire",
+      "steel"
+    ],
+    "stats": [
+      91,
+      90,
+      106,
+      130,
+      106,
+      77
+    ]
+  },
+  "regigigas": {
+    "dex_id": 486,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      110,
+      160,
+      110,
+      80,
+      110,
+      100
+    ]
+  },
+  "giratina": {
+    "dex_id": 487,
+    "type": [
+      "dragon",
+      "ghost"
+    ],
+    "stats": [
+      150,
+      100,
+      120,
+      100,
+      120,
+      90
+    ]
+  },
+  "cresselia": {
+    "dex_id": 488,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      120,
+      70,
+      120,
+      75,
+      130,
+      85
+    ]
+  },
+  "phione": {
+    "dex_id": 489,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+    ]
+  },
+  "manaphy": {
+    "dex_id": 490,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "darkrai": {
+    "dex_id": 491,
+    "type": [
+      "dark"
+    ],
+    "stats": [
+      70,
+      90,
+      90,
+      135,
+      90,
+      125
+    ]
+  },
+  "shaymin": {
+    "dex_id": 492,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "arceus": {
+    "dex_id": 493,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      120,
+      120,
+      120,
+      120,
+      120,
+      120
+    ]
+  },
+  "victini": {
+    "dex_id": 494,
+    "type": [
+      "fire",
+      "psychic"
+    ],
+    "stats": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "snivy": {
+    "dex_id": 495,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      45,
+      45,
+      55,
+      45,
+      55,
+      63
+    ]
+  },
+  "servine": {
+    "dex_id": 496,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      60,
+      60,
+      75,
+      60,
+      75,
+      83
+    ]
+  },
+  "serperior": {
+    "dex_id": 497,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      75,
+      75,
+      95,
+      75,
+      95,
+      113
+    ]
+  },
+  "tepig": {
+    "dex_id": 498,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      65,
+      63,
+      45,
+      45,
+      45,
+      45
+    ]
+  },
+  "pignite": {
+    "dex_id": 499,
+    "type": [
+      "fighting",
+      "fire"
+    ],
+    "stats": [
+      90,
+      93,
+      55,
+      70,
+      55,
+      55
+    ]
+  },
+  "emboar": {
+    "dex_id": 500,
+    "type": [
+      "fighting",
+      "fire"
+    ],
+    "stats": [
+      110,
+      123,
+      65,
+      100,
+      65,
+      65
+    ]
+  },
+  "oshawott": {
+    "dex_id": 501,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      55,
+      55,
+      45,
+      63,
+      45,
+      45
+    ]
+  },
+  "dewott": {
+    "dex_id": 502,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      75,
+      75,
+      60,
+      83,
+      60,
+      60
+    ]
+  },
+  "samurott": {
+    "dex_id": 503,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      95,
+      100,
+      85,
+      108,
+      70,
+      70
+    ]
+  },
+  "patrat": {
+    "dex_id": 504,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      45,
+      55,
+      39,
+      35,
+      39,
+      42
+    ]
+  },
+  "watchog": {
+    "dex_id": 505,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      60,
+      85,
+      69,
+      60,
+      69,
+      77
+    ]
+  },
+  "lillipup": {
+    "dex_id": 506,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      45,
+      60,
+      45,
+      25,
+      45,
+      55
+    ]
+  },
+  "herdier": {
+    "dex_id": 507,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      65,
+      80,
+      65,
+      35,
+      65,
+      60
+    ]
+  },
+  "stoutland": {
+    "dex_id": 508,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      85,
+      110,
+      90,
+      45,
+      90,
+      80
+    ]
+  },
+  "purrloin": {
+    "dex_id": 509,
+    "type": [
+      "dark"
+    ],
+    "stats": [
+      41,
+      50,
+      37,
+      50,
+      37,
+      66
+    ]
+  },
+  "liepard": {
+    "dex_id": 510,
+    "type": [
+      "dark"
+    ],
+    "stats": [
+      64,
+      88,
+      50,
+      88,
+      50,
+      106
+    ]
+  },
+  "pansage": {
+    "dex_id": 511,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      50,
+      53,
+      48,
+      53,
+      48,
+      64
+    ]
+  },
+  "simisage": {
+    "dex_id": 512,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      75,
+      98,
+      63,
+      98,
+      63,
+      101
+    ]
+  },
+  "pansear": {
+    "dex_id": 513,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      50,
+      53,
+      48,
+      53,
+      48,
+      64
+    ]
+  },
+  "simisear": {
+    "dex_id": 514,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      75,
+      98,
+      63,
+      98,
+      63,
+      101
+    ]
+  },
+  "panpour": {
+    "dex_id": 515,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      50,
+      53,
+      48,
+      53,
+      48,
+      64
+    ]
+  },
+  "simipour": {
+    "dex_id": 516,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      75,
+      98,
+      63,
+      98,
+      63,
+      101
+    ]
+  },
+  "munna": {
+    "dex_id": 517,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      76,
+      25,
+      45,
+      67,
+      55,
+      24
+    ]
+  },
+  "musharna": {
+    "dex_id": 518,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      116,
+      55,
+      85,
+      107,
+      95,
+      29
+    ]
+  },
+  "pidove": {
+    "dex_id": 519,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      50,
+      55,
+      50,
+      36,
+      30,
+      43
+    ]
+  },
+  "tranquill": {
+    "dex_id": 520,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      62,
+      77,
+      62,
+      50,
+      42,
+      65
+    ]
+  },
+  "unfezant": {
+    "dex_id": 521,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      80,
+      115,
+      80,
+      65,
+      55,
+      93
+    ]
+  },
+  "blitzle": {
+    "dex_id": 522,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      45,
+      60,
+      32,
+      50,
+      32,
+      76
+    ]
+  },
+  "zebstrika": {
+    "dex_id": 523,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      75,
+      100,
+      63,
+      80,
+      63,
+      116
+    ]
+  },
+  "roggenrola": {
+    "dex_id": 524,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      55,
+      75,
+      85,
+      25,
+      25,
+      15
+    ]
+  },
+  "boldore": {
+    "dex_id": 525,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      70,
+      105,
+      105,
+      50,
+      40,
+      20
+    ]
+  },
+  "gigalith": {
+    "dex_id": 526,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      85,
+      135,
+      130,
+      60,
+      80,
+      25
+    ]
+  },
+  "woobat": {
+    "dex_id": 527,
+    "type": [
+      "flying",
+      "psychic"
+    ],
+    "stats": [
+      65,
+      45,
+      43,
+      55,
+      43,
+      72
+    ]
+  },
+  "swoobat": {
+    "dex_id": 528,
+    "type": [
+      "flying",
+      "psychic"
+    ],
+    "stats": [
+      67,
+      57,
+      55,
+      77,
+      55,
+      114
+    ]
+  },
+  "drilbur": {
+    "dex_id": 529,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      60,
+      85,
+      40,
+      30,
+      45,
+      68
+    ]
+  },
+  "excadrill": {
+    "dex_id": 530,
+    "type": [
+      "ground",
+      "steel"
+    ],
+    "stats": [
+      110,
+      135,
+      60,
+      50,
+      65,
+      88
+    ]
+  },
+  "audino": {
+    "dex_id": 531,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      103,
+      60,
+      86,
+      60,
+      86,
+      50
+    ]
+  },
+  "timburr": {
+    "dex_id": 532,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      75,
+      80,
+      55,
+      25,
+      35,
+      35
+    ]
+  },
+  "gurdurr": {
+    "dex_id": 533,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      85,
+      105,
+      85,
+      40,
+      50,
+      40
+    ]
+  },
+  "conkeldurr": {
+    "dex_id": 534,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      105,
+      140,
+      95,
+      55,
+      65,
+      45
+    ]
+  },
+  "tympole": {
+    "dex_id": 535,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      50,
+      50,
+      40,
+      50,
+      40,
+      64
+    ]
+  },
+  "palpitoad": {
+    "dex_id": 536,
+    "type": [
+      "ground",
+      "water"
+    ],
+    "stats": [
+      75,
+      65,
+      55,
+      65,
+      55,
+      69
+    ]
+  },
+  "seismitoad": {
+    "dex_id": 537,
+    "type": [
+      "ground",
+      "water"
+    ],
+    "stats": [
+      105,
+      95,
+      75,
+      85,
+      75,
+      74
+    ]
+  },
+  "throh": {
+    "dex_id": 538,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      120,
+      100,
+      85,
+      30,
+      85,
+      45
+    ]
+  },
+  "sawk": {
+    "dex_id": 539,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      75,
+      125,
+      75,
+      30,
+      75,
+      85
+    ]
+  },
+  "sewaddle": {
+    "dex_id": 540,
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "stats": [
+      45,
+      53,
+      70,
+      40,
+      60,
+      42
+    ]
+  },
+  "swadloon": {
+    "dex_id": 541,
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "stats": [
+      55,
+      63,
+      90,
+      50,
+      80,
+      42
+    ]
+  },
+  "leavanny": {
+    "dex_id": 542,
+    "type": [
+      "bug",
+      "grass"
+    ],
+    "stats": [
+      75,
+      103,
+      80,
+      70,
+      80,
+      92
+    ]
+  },
+  "venipede": {
+    "dex_id": 543,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      30,
+      45,
+      59,
+      30,
+      39,
+      57
+    ]
+  },
+  "whirlipede": {
+    "dex_id": 544,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      40,
+      55,
+      99,
+      40,
+      79,
+      47
+    ]
+  },
+  "scolipede": {
+    "dex_id": 545,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": [
+      60,
+      100,
+      89,
+      55,
+      69,
+      112
+    ]
+  },
+  "cottonee": {
+    "dex_id": 546,
+    "type": [
+      "fairy",
+      "grass"
+    ],
+    "stats": [
+      40,
+      27,
+      60,
+      37,
+      50,
+      66
+    ]
+  },
+  "whimsicott": {
+    "dex_id": 547,
+    "type": [
+      "fairy",
+      "grass"
+    ],
+    "stats": [
+      60,
+      67,
+      85,
+      77,
+      75,
+      116
+    ]
+  },
+  "petilil": {
+    "dex_id": 548,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      45,
+      35,
+      50,
+      70,
+      50,
+      30
+    ]
+  },
+  "lilligant": {
+    "dex_id": 549,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      70,
+      60,
+      75,
+      110,
+      75,
+      90
+    ]
+  },
+  "basculin": {
+    "dex_id": 550,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      70,
+      92,
+      65,
+      80,
+      55,
+      98
+    ]
+  },
+  "sandile": {
+    "dex_id": 551,
+    "type": [
+      "dark",
+      "ground"
+    ],
+    "stats": [
+      50,
+      72,
+      35,
+      35,
+      35,
+      65
+    ]
+  },
+  "krokorok": {
+    "dex_id": 552,
+    "type": [
+      "dark",
+      "ground"
+    ],
+    "stats": [
+      60,
+      82,
+      45,
+      45,
+      45,
+      74
+    ]
+  },
+  "krookodile": {
+    "dex_id": 553,
+    "type": [
+      "dark",
+      "ground"
+    ],
+    "stats": [
+      95,
+      117,
+      80,
+      65,
+      70,
+      92
+    ]
+  },
+  "darumaka": {
+    "dex_id": 554,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      70,
+      90,
+      45,
+      15,
+      45,
+      50
+    ]
+  },
+  "darmanitan": {
+    "dex_id": 555,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      105,
+      140,
+      55,
+      30,
+      55,
+      95
+    ]
+  },
+  "maractus": {
+    "dex_id": 556,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      75,
+      86,
+      67,
+      106,
+      67,
+      60
+    ]
+  },
+  "dwebble": {
+    "dex_id": 557,
+    "type": [
+      "bug",
+      "rock"
+    ],
+    "stats": [
+      50,
+      65,
+      85,
+      35,
+      35,
+      55
+    ]
+  },
+  "crustle": {
+    "dex_id": 558,
+    "type": [
+      "bug",
+      "rock"
+    ],
+    "stats": [
+      70,
+      105,
+      125,
+      65,
+      75,
+      45
+    ]
+  },
+  "scraggy": {
+    "dex_id": 559,
+    "type": [
+      "dark",
+      "fighting"
+    ],
+    "stats": [
+      50,
+      75,
+      70,
+      35,
+      70,
+      48
+    ]
+  },
+  "scrafty": {
+    "dex_id": 560,
+    "type": [
+      "dark",
+      "fighting"
+    ],
+    "stats": [
+      65,
+      90,
+      115,
+      45,
+      115,
+      58
+    ]
+  },
+  "sigilyph": {
+    "dex_id": 561,
+    "type": [
+      "flying",
+      "psychic"
+    ],
+    "stats": [
+      72,
+      58,
+      80,
+      103,
+      80,
+      97
+    ]
+  },
+  "yamask": {
+    "dex_id": 562,
+    "type": [
+      "ghost"
+    ],
+    "stats": [
+      38,
+      30,
+      85,
+      55,
+      65,
+      30
+    ]
+  },
+  "cofagrigus": {
+    "dex_id": 563,
+    "type": [
+      "ghost"
+    ],
+    "stats": [
+      58,
+      50,
+      145,
+      95,
+      105,
+      30
+    ]
+  },
+  "tirtouga": {
+    "dex_id": 564,
+    "type": [
+      "rock",
+      "water"
+    ],
+    "stats": [
+      54,
+      78,
+      103,
+      53,
+      45,
+      22
+    ]
+  },
+  "carracosta": {
+    "dex_id": 565,
+    "type": [
+      "rock",
+      "water"
+    ],
+    "stats": [
+      74,
+      108,
+      133,
+      83,
+      65,
+      32
+    ]
+  },
+  "archen": {
+    "dex_id": 566,
+    "type": [
+      "flying",
+      "rock"
+    ],
+    "stats": [
+      55,
+      112,
+      45,
+      74,
+      45,
+      70
+    ]
+  },
+  "archeops": {
+    "dex_id": 567,
+    "type": [
+      "flying",
+      "rock"
+    ],
+    "stats": [
+      75,
+      140,
+      65,
+      112,
+      65,
+      110
+    ]
+  },
+  "trubbish": {
+    "dex_id": 568,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      50,
+      50,
+      62,
+      40,
+      62,
+      65
+    ]
+  },
+  "garbodor": {
+    "dex_id": 569,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      80,
+      95,
+      82,
+      60,
+      82,
+      75
+    ]
+  },
+  "zorua": {
+    "dex_id": 570,
+    "type": [
+      "dark"
+    ],
+    "stats": [
+      40,
+      65,
+      40,
+      80,
+      40,
+      65
+    ]
+  },
+  "zoroark": {
+    "dex_id": 571,
+    "type": [
+      "dark"
+    ],
+    "stats": [
+      60,
+      105,
+      60,
+      120,
+      60,
+      105
+    ]
+  },
+  "minccino": {
+    "dex_id": 572,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      55,
+      50,
+      40,
+      40,
+      40,
+      75
+    ]
+  },
+  "cinccino": {
+    "dex_id": 573,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      75,
+      95,
+      60,
+      65,
+      60,
+      115
+    ]
+  },
+  "gothita": {
+    "dex_id": 574,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      45,
+      30,
+      50,
+      55,
+      65,
+      45
+    ]
+  },
+  "gothorita": {
+    "dex_id": 575,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      60,
+      45,
+      70,
+      75,
+      85,
+      55
+    ]
+  },
+  "gothitelle": {
+    "dex_id": 576,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      70,
+      55,
+      95,
+      95,
+      110,
+      65
+    ]
+  },
+  "solosis": {
+    "dex_id": 577,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      45,
+      30,
+      40,
+      105,
+      50,
+      20
+    ]
+  },
+  "duosion": {
+    "dex_id": 578,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      65,
+      40,
+      50,
+      125,
+      60,
+      30
+    ]
+  },
+  "reuniclus": {
+    "dex_id": 579,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      110,
+      65,
+      75,
+      125,
+      85,
+      30
+    ]
+  },
+  "ducklett": {
+    "dex_id": 580,
+    "type": [
+      "flying",
+      "water"
+    ],
+    "stats": [
+      62,
+      44,
+      50,
+      44,
+      50,
+      55
+    ]
+  },
+  "swanna": {
+    "dex_id": 581,
+    "type": [
+      "flying",
+      "water"
+    ],
+    "stats": [
+      75,
+      87,
+      63,
+      87,
+      63,
+      98
+    ]
+  },
+  "vanillite": {
+    "dex_id": 582,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      36,
+      50,
+      50,
+      65,
+      60,
+      44
+    ]
+  },
+  "vanillish": {
+    "dex_id": 583,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      51,
+      65,
+      65,
+      80,
+      75,
+      59
+    ]
+  },
+  "vanilluxe": {
+    "dex_id": 584,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      71,
+      95,
+      85,
+      110,
+      95,
+      79
+    ]
+  },
+  "deerling": {
+    "dex_id": 585,
+    "type": [
+      "grass",
+      "normal"
+    ],
+    "stats": [
+      60,
+      60,
+      50,
+      40,
+      50,
+      75
+    ]
+  },
+  "sawsbuck": {
+    "dex_id": 586,
+    "type": [
+      "grass",
+      "normal"
+    ],
+    "stats": [
+      80,
+      100,
+      70,
+      60,
+      70,
+      95
+    ]
+  },
+  "emolga": {
+    "dex_id": 587,
+    "type": [
+      "electric",
+      "flying"
+    ],
+    "stats": [
+      55,
+      75,
+      60,
+      75,
+      60,
+      103
+    ]
+  },
+  "karrablast": {
+    "dex_id": 588,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      50,
+      75,
+      45,
+      40,
+      45,
+      60
+    ]
+  },
+  "escavalier": {
+    "dex_id": 589,
+    "type": [
+      "bug",
+      "steel"
+    ],
+    "stats": [
+      70,
+      135,
+      105,
+      60,
+      105,
+      20
+    ]
+  },
+  "foongus": {
+    "dex_id": 590,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      69,
+      55,
+      45,
+      55,
+      55,
+      15
+    ]
+  },
+  "amoonguss": {
+    "dex_id": 591,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": [
+      114,
+      85,
+      70,
+      85,
+      80,
+      30
+    ]
+  },
+  "frillish": {
+    "dex_id": 592,
+    "type": [
+      "ghost",
+      "water"
+    ],
+    "stats": [
+      55,
+      40,
+      50,
+      65,
+      85,
+      40
+    ]
+  },
+  "jellicent": {
+    "dex_id": 593,
+    "type": [
+      "ghost",
+      "water"
+    ],
+    "stats": [
+      100,
+      60,
+      70,
+      85,
+      105,
+      60
+    ]
+  },
+  "alomomola": {
+    "dex_id": 594,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      165,
+      75,
+      80,
+      40,
+      45,
+      65
+    ]
+  },
+  "joltik": {
+    "dex_id": 595,
+    "type": [
+      "bug",
+      "electric"
+    ],
+    "stats": [
+      50,
+      47,
+      50,
+      57,
+      50,
+      65
+    ]
+  },
+  "galvantula": {
+    "dex_id": 596,
+    "type": [
+      "bug",
+      "electric"
+    ],
+    "stats": [
+      70,
+      77,
+      60,
+      97,
+      60,
+      108
+    ]
+  },
+  "ferroseed": {
+    "dex_id": 597,
+    "type": [
+      "grass",
+      "steel"
+    ],
+    "stats": [
+      44,
+      50,
+      91,
+      24,
+      86,
+      10
+    ]
+  },
+  "ferrothorn": {
+    "dex_id": 598,
+    "type": [
+      "grass",
+      "steel"
+    ],
+    "stats": [
+      74,
+      94,
+      131,
+      54,
+      116,
+      20
+    ]
+  },
+  "klink": {
+    "dex_id": 599,
+    "type": [
+      "steel"
+    ],
+    "stats": [
+      40,
+      55,
+      70,
+      45,
+      60,
+      30
+    ]
+  },
+  "klang": {
+    "dex_id": 600,
+    "type": [
+      "steel"
+    ],
+    "stats": [
+      60,
+      80,
+      95,
+      70,
+      85,
+      50
+    ]
+  },
+  "klinklang": {
+    "dex_id": 601,
+    "type": [
+      "steel"
+    ],
+    "stats": [
+      60,
+      100,
+      115,
+      70,
+      85,
+      90
+    ]
+  },
+  "tynamo": {
+    "dex_id": 602,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      35,
+      55,
+      40,
+      45,
+      40,
+      60
+    ]
+  },
+  "eelektrik": {
+    "dex_id": 603,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      65,
+      85,
+      70,
+      75,
+      70,
+      40
+    ]
+  },
+  "eelektross": {
+    "dex_id": 604,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      85,
+      115,
+      80,
+      105,
+      80,
+      50
+    ]
+  },
+  "elgyem": {
+    "dex_id": 605,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      55,
+      55,
+      55,
+      85,
+      55,
+      30
+    ]
+  },
+  "beheeyem": {
+    "dex_id": 606,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      75,
+      75,
+      75,
+      125,
+      95,
+      40
+    ]
+  },
+  "litwick": {
+    "dex_id": 607,
+    "type": [
+      "fire",
+      "ghost"
+    ],
+    "stats": [
+      50,
+      30,
+      55,
+      65,
+      55,
+      20
+    ]
+  },
+  "lampent": {
+    "dex_id": 608,
+    "type": [
+      "fire",
+      "ghost"
+    ],
+    "stats": [
+      60,
+      40,
+      60,
+      95,
+      60,
+      55
+    ]
+  },
+  "chandelure": {
+    "dex_id": 609,
+    "type": [
+      "fire",
+      "ghost"
+    ],
+    "stats": [
+      60,
+      55,
+      90,
+      145,
+      90,
+      80
+    ]
+  },
+  "axew": {
+    "dex_id": 610,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      46,
+      87,
+      60,
+      30,
+      40,
+      57
+    ]
+  },
+  "fraxure": {
+    "dex_id": 611,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      66,
+      117,
+      70,
+      40,
+      50,
+      67
+    ]
+  },
+  "haxorus": {
+    "dex_id": 612,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      76,
+      147,
+      90,
+      60,
+      70,
+      97
+    ]
+  },
+  "cubchoo": {
+    "dex_id": 613,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      55,
+      70,
+      40,
+      60,
+      40,
+      40
+    ]
+  },
+  "beartic": {
+    "dex_id": 614,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      95,
+      130,
+      80,
+      70,
+      80,
+      50
+    ]
+  },
+  "cryogonal": {
+    "dex_id": 615,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      80,
+      50,
+      50,
+      95,
+      135,
+      105
+    ]
+  },
+  "shelmet": {
+    "dex_id": 616,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      50,
+      40,
+      85,
+      40,
+      65,
+      25
+    ]
+  },
+  "accelgor": {
+    "dex_id": 617,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      80,
+      70,
+      40,
+      100,
+      60,
+      145
+    ]
+  },
+  "stunfisk": {
+    "dex_id": 618,
+    "type": [
+      "electric",
+      "ground"
+    ],
+    "stats": [
+      109,
+      66,
+      84,
+      81,
+      99,
+      32
+    ]
+  },
+  "mienfoo": {
+    "dex_id": 619,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      45,
+      85,
+      50,
+      55,
+      50,
+      65
+    ]
+  },
+  "mienshao": {
+    "dex_id": 620,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      65,
+      125,
+      60,
+      95,
+      60,
+      105
+    ]
+  },
+  "druddigon": {
+    "dex_id": 621,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      77,
+      120,
+      90,
+      60,
+      90,
+      48
+    ]
+  },
+  "golett": {
+    "dex_id": 622,
+    "type": [
+      "ghost",
+      "ground"
+    ],
+    "stats": [
+      59,
+      74,
+      50,
+      35,
+      50,
+      35
+    ]
+  },
+  "golurk": {
+    "dex_id": 623,
+    "type": [
+      "ghost",
+      "ground"
+    ],
+    "stats": [
+      89,
+      124,
+      80,
+      55,
+      80,
+      55
+    ]
+  },
+  "pawniard": {
+    "dex_id": 624,
+    "type": [
+      "dark",
+      "steel"
+    ],
+    "stats": [
+      45,
+      85,
+      70,
+      40,
+      40,
+      60
+    ]
+  },
+  "bisharp": {
+    "dex_id": 625,
+    "type": [
+      "dark",
+      "steel"
+    ],
+    "stats": [
+      65,
+      125,
+      100,
+      60,
+      70,
+      70
+    ]
+  },
+  "bouffalant": {
+    "dex_id": 626,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      95,
+      110,
+      95,
+      40,
+      95,
+      55
+    ]
+  },
+  "rufflet": {
+    "dex_id": 627,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      70,
+      83,
+      50,
+      37,
+      50,
+      60
+    ]
+  },
+  "braviary": {
+    "dex_id": 628,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      100,
+      123,
+      75,
+      57,
+      75,
+      80
+    ]
+  },
+  "vullaby": {
+    "dex_id": 629,
+    "type": [
+      "dark",
+      "flying"
+    ],
+    "stats": [
+      70,
+      55,
+      75,
+      45,
+      65,
+      60
+    ]
+  },
+  "mandibuzz": {
+    "dex_id": 630,
+    "type": [
+      "dark",
+      "flying"
+    ],
+    "stats": [
+      110,
+      65,
+      105,
+      55,
+      95,
+      80
+    ]
+  },
+  "heatmor": {
+    "dex_id": 631,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      85,
+      97,
+      66,
+      105,
+      66,
+      65
+    ]
+  },
+  "durant": {
+    "dex_id": 632,
+    "type": [
+      "bug",
+      "steel"
+    ],
+    "stats": [
+      58,
+      109,
+      112,
+      48,
+      48,
+      109
+    ]
+  },
+  "deino": {
+    "dex_id": 633,
+    "type": [
+      "dark",
+      "dragon"
+    ],
+    "stats": [
+      52,
+      65,
+      50,
+      45,
+      50,
+      38
+    ]
+  },
+  "zweilous": {
+    "dex_id": 634,
+    "type": [
+      "dark",
+      "dragon"
+    ],
+    "stats": [
+      72,
+      85,
+      70,
+      65,
+      70,
+      58
+    ]
+  },
+  "hydreigon": {
+    "dex_id": 635,
+    "type": [
+      "dark",
+      "dragon"
+    ],
+    "stats": [
+      92,
+      105,
+      90,
+      125,
+      90,
+      98
+    ]
+  },
+  "larvesta": {
+    "dex_id": 636,
+    "type": [
+      "bug",
+      "fire"
+    ],
+    "stats": [
+      55,
+      85,
+      55,
+      50,
+      55,
+      60
+    ]
+  },
+  "volcarona": {
+    "dex_id": 637,
+    "type": [
+      "bug",
+      "fire"
+    ],
+    "stats": [
+      85,
+      60,
+      65,
+      135,
+      105,
+      100
+    ]
+  },
+  "cobalion": {
+    "dex_id": 638,
+    "type": [
+      "fighting",
+      "steel"
+    ],
+    "stats": [
+      91,
+      90,
+      129,
+      90,
+      72,
+      108
+    ]
+  },
+  "terrakion": {
+    "dex_id": 639,
+    "type": [
+      "fighting",
+      "rock"
+    ],
+    "stats": [
+      91,
+      129,
+      90,
+      72,
+      90,
+      108
+    ]
+  },
+  "virizion": {
+    "dex_id": 640,
+    "type": [
+      "fighting",
+      "grass"
+    ],
+    "stats": [
+      91,
+      90,
+      72,
+      90,
+      129,
+      108
+    ]
+  },
+  "tornadus": {
+    "dex_id": 641,
+    "type": [
+      "flying"
+    ],
+    "stats": [
+      79,
+      115,
+      70,
+      125,
+      80,
+      111
+    ]
+  },
+  "thundurus": {
+    "dex_id": 642,
+    "type": [
+      "electric",
+      "flying"
+    ],
+    "stats": [
+      79,
+      115,
+      70,
+      125,
+      80,
+      111
+    ]
+  },
+  "reshiram": {
+    "dex_id": 643,
+    "type": [
+      "dragon",
+      "fire"
+    ],
+    "stats": [
+      100,
+      120,
+      100,
+      150,
+      120,
+      90
+    ]
+  },
+  "zekrom ": {
+    "dex_id": 644,
+    "type": [
+      "dragon",
+      "electric"
+    ],
+    "stats": [
+      100,
+      150,
+      120,
+      120,
+      100,
+      90
+    ]
+  },
+  "landorus": {
+    "dex_id": 645,
+    "type": [
+      "flying",
+      "ground"
+    ],
+    "stats": [
+      89,
+      125,
+      90,
+      115,
+      80,
+      101
+    ]
+  },
+  "kyurem": {
+    "dex_id": 646,
+    "type": [
+      "dragon",
+      "ice"
+    ],
+    "stats": [
+      125,
+      130,
+      90,
+      130,
+      90,
+      95
+    ]
+  },
+  "keldeo": {
+    "dex_id": 647,
+    "type": [
+      "fighting",
+      "water"
+    ],
+    "stats": [
+      91,
+      72,
+      90,
+      129,
+      90,
+      108
+    ]
+  },
+  "meloetta": {
+    "dex_id": 648,
+    "type": [
+      "normal",
+      "psychic"
+    ],
+    "stats": [
+      100,
+      77,
+      77,
+      128,
+      128,
+      90
+    ]
+  },
+  "genesect": {
+    "dex_id": 649,
+    "type": [
+      "bug",
+      "steel"
+    ],
+    "stats": [
+      71,
+      120,
+      95,
+      120,
+      95,
+      99
+    ]
+  },
+  "chespin": {
+    "dex_id": 650,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      56,
+      61,
+      65,
+      48,
+      45,
+      38
+    ]
+  },
+  "quilladin": {
+    "dex_id": 651,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      61,
+      78,
+      95,
+      56,
+      58,
+      57
+    ]
+  },
+  "chesnaught": {
+    "dex_id": 652,
+    "type": [
+      "fighting",
+      "grass"
+    ],
+    "stats": [
+      88,
+      107,
+      122,
+      74,
+      75,
+      64
+    ]
+  },
+  "fennekin": {
+    "dex_id": 653,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      40,
+      45,
+      40,
+      62,
+      60,
+      60
+    ]
+  },
+  "braixen": {
+    "dex_id": 654,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      59,
+      59,
+      58,
+      90,
+      70,
+      73
+    ]
+  },
+  "delphox": {
+    "dex_id": 655,
+    "type": [
+      "fire",
+      "psychic"
+    ],
+    "stats": [
+      75,
+      69,
+      72,
+      114,
+      100,
+      104
+    ]
+  },
+  "froakie": {
+    "dex_id": 656,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      41,
+      56,
+      40,
+      62,
+      44,
+      71
+    ]
+  },
+  "frogadier": {
+    "dex_id": 657,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      54,
+      63,
+      52,
+      83,
+      56,
+      97
+    ]
+  },
+  "greninja": {
+    "dex_id": 658,
+    "type": [
+      "dark",
+      "water"
+    ],
+    "stats": [
+      72,
+      95,
+      67,
+      103,
+      71,
+      122
+    ]
+  },
+  "bunnelby": {
+    "dex_id": 659,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      38,
+      36,
+      38,
+      32,
+      36,
+      57
+    ]
+  },
+  "diggersby": {
+    "dex_id": 660,
+    "type": [
+      "ground",
+      "normal"
+    ],
+    "stats": [
+      85,
+      56,
+      77,
+      50,
+      77,
+      78
+    ]
+  },
+  "fletchling": {
+    "dex_id": 661,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      45,
+      50,
+      43,
+      40,
+      38,
+      62
+    ]
+  },
+  "fletchinder": {
+    "dex_id": 662,
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "stats": [
+      62,
+      73,
+      55,
+      56,
+      52,
+      84
+    ]
+  },
+  "talonflame": {
+    "dex_id": 663,
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "stats": [
+      78,
+      81,
+      71,
+      74,
+      69,
+      126
+    ]
+  },
+  "scatterbug": {
+    "dex_id": 664,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      38,
+      35,
+      40,
+      27,
+      25,
+      35
+    ]
+  },
+  "spewpa": {
+    "dex_id": 665,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      45,
+      22,
+      60,
+      27,
+      30,
+      29
+    ]
+  },
+  "vivillon": {
+    "dex_id": 666,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": [
+      80,
+      52,
+      50,
+      90,
+      50,
+      89
+    ]
+  },
+  "litleo": {
+    "dex_id": 667,
+    "type": [
+      "fire",
+      "normal"
+    ],
+    "stats": [
+      62,
+      50,
+      58,
+      73,
+      54,
+      72
+    ]
+  },
+  "pyroar": {
+    "dex_id": 668,
+    "type": [
+      "fire",
+      "normal"
+    ],
+    "stats": [
+      86,
+      68,
+      72,
+      109,
+      66,
+      106
+    ]
+  },
+  "flab\u00e9b\u00e9": {
+    "dex_id": 669,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      44,
+      38,
+      39,
+      61,
+      79,
+      42
+    ]
+  },
+  "floette": {
+    "dex_id": 670,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      54,
+      45,
+      47,
+      75,
+      98,
+      52
+    ]
+  },
+  "florges": {
+    "dex_id": 671,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      78,
+      65,
+      68,
+      112,
+      154,
+      75
+    ]
+  },
+  "skiddo": {
+    "dex_id": 672,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      66,
+      65,
+      48,
+      62,
+      57,
+      52
+    ]
+  },
+  "gogoat": {
+    "dex_id": 673,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      123,
+      100,
+      62,
+      97,
+      81,
+      68
+    ]
+  },
+  "pancham": {
+    "dex_id": 674,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      67,
+      82,
+      62,
+      46,
+      48,
+      43
+    ]
+  },
+  "pangoro": {
+    "dex_id": 675,
+    "type": [
+      "dark",
+      "fighting"
+    ],
+    "stats": [
+      95,
+      124,
+      78,
+      69,
+      71,
+      58
+    ]
+  },
+  "furfrou": {
+    "dex_id": 676,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      75,
+      80,
+      60,
+      65,
+      90,
+      102
+    ]
+  },
+  "espurr": {
+    "dex_id": 677,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      62,
+      48,
+      54,
+      63,
+      60,
+      68
+    ]
+  },
+  "meowstic": {
+    "dex_id": 678,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      74,
+      48,
+      76,
+      83,
+      81,
+      104
+    ]
+  },
+  "honedge": {
+    "dex_id": 679,
+    "type": [
+      "ghost",
+      "steel"
+    ],
+    "stats": [
+      45,
+      80,
+      100,
+      35,
+      37,
+      28
+    ]
+  },
+  "doublade": {
+    "dex_id": 680,
+    "type": [
+      "ghost",
+      "steel"
+    ],
+    "stats": [
+      59,
+      110,
+      150,
+      45,
+      49,
+      35
+    ]
+  },
+  "aegislash": {
+    "dex_id": 681,
+    "type": [
+      "ghost",
+      "steel"
+    ],
+    "stats": [
+      60,
+      50,
+      150,
+      50,
+      150,
+      60
+    ]
+  },
+  "spritzee": {
+    "dex_id": 682,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      78,
+      52,
+      60,
+      63,
+      65,
+      23
+    ]
+  },
+  "aromatisse": {
+    "dex_id": 683,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      101,
+      72,
+      72,
+      99,
+      89,
+      29
+    ]
+  },
+  "swirlix": {
+    "dex_id": 684,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      62,
+      48,
+      66,
+      59,
+      57,
+      49
+    ]
+  },
+  "slurpuff": {
+    "dex_id": 685,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      82,
+      80,
+      86,
+      85,
+      75,
+      72
+    ]
+  },
+  "inkay": {
+    "dex_id": 686,
+    "type": [
+      "dark",
+      "psychic"
+    ],
+    "stats": [
+      53,
+      54,
+      53,
+      37,
+      46,
+      45
+    ]
+  },
+  "malamar": {
+    "dex_id": 687,
+    "type": [
+      "dark",
+      "psychic"
+    ],
+    "stats": [
+      86,
+      92,
+      88,
+      68,
+      75,
+      73
+    ]
+  },
+  "binacle": {
+    "dex_id": 688,
+    "type": [
+      "rock",
+      "water"
+    ],
+    "stats": [
+      42,
+      52,
+      67,
+      39,
+      56,
+      50
+    ]
+  },
+  "barbaracle": {
+    "dex_id": 689,
+    "type": [
+      "rock",
+      "water"
+    ],
+    "stats": [
+      72,
+      105,
+      115,
+      54,
+      86,
+      68
+    ]
+  },
+  "skrelp": {
+    "dex_id": 690,
+    "type": [
+      "poison",
+      "water"
+    ],
+    "stats": [
+      50,
+      60,
+      60,
+      60,
+      60,
+      30
+    ]
+  },
+  "dragalge": {
+    "dex_id": 691,
+    "type": [
+      "dragon",
+      "poison"
+    ],
+    "stats": [
+      65,
+      75,
+      90,
+      97,
+      123,
+      44
+    ]
+  },
+  "clauncher": {
+    "dex_id": 692,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      50,
+      53,
+      62,
+      58,
+      63,
+      44
+    ]
+  },
+  "clawitzer": {
+    "dex_id": 693,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      71,
+      73,
+      88,
+      120,
+      89,
+      59
+    ]
+  },
+  "helioptile": {
+    "dex_id": 694,
+    "type": [
+      "electric",
+      "normal"
+    ],
+    "stats": [
+      44,
+      38,
+      33,
+      61,
+      43,
+      70
+    ]
+  },
+  "heliolisk": {
+    "dex_id": 695,
+    "type": [
+      "electric",
+      "normal"
+    ],
+    "stats": [
+      62,
+      55,
+      52,
+      109,
+      94,
+      109
+    ]
+  },
+  "tyrunt": {
+    "dex_id": 696,
+    "type": [
+      "dragon",
+      "rock"
+    ],
+    "stats": [
+      58,
+      89,
+      77,
+      45,
+      45,
+      48
+    ]
+  },
+  "tyrantrum": {
+    "dex_id": 697,
+    "type": [
+      "dragon",
+      "rock"
+    ],
+    "stats": [
+      82,
+      121,
+      119,
+      69,
+      59,
+      71
+    ]
+  },
+  "amaura": {
+    "dex_id": 698,
+    "type": [
+      "ice",
+      "rock"
+    ],
+    "stats": [
+      77,
+      59,
+      50,
+      67,
+      63,
+      46
+    ]
+  },
+  "aurorus": {
+    "dex_id": 699,
+    "type": [
+      "ice",
+      "rock"
+    ],
+    "stats": [
+      123,
+      77,
+      72,
+      99,
+      92,
+      58
+    ]
+  },
+  "sylveon": {
+    "dex_id": 700,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      95,
+      65,
+      65,
+      110,
+      130,
+      60
+    ]
+  },
+  "hawlucha": {
+    "dex_id": 701,
+    "type": [
+      "fighting",
+      "flying"
+    ],
+    "stats": [
+      78,
+      92,
+      75,
+      74,
+      63,
+      118
+    ]
+  },
+  "dedenne": {
+    "dex_id": 702,
+    "type": [
+      "electric",
+      "fairy"
+    ],
+    "stats": [
+      67,
+      58,
+      57,
+      81,
+      67,
+      101
+    ]
+  },
+  "carbink": {
+    "dex_id": 703,
+    "type": [
+      "fairy",
+      "rock"
+    ],
+    "stats": [
+      50,
+      50,
+      150,
+      50,
+      150,
+      50
+    ]
+  },
+  "goomy": {
+    "dex_id": 704,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      45,
+      50,
+      35,
+      55,
+      75,
+      40
+    ]
+  },
+  "sliggoo": {
+    "dex_id": 705,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      68,
+      75,
+      53,
+      83,
+      113,
+      60
+    ]
+  },
+  "goodra": {
+    "dex_id": 706,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      90,
+      100,
+      70,
+      110,
+      150,
+      80
+    ]
+  },
+  "klefki": {
+    "dex_id": 707,
+    "type": [
+      "fairy",
+      "steel"
+    ],
+    "stats": [
+      57,
+      80,
+      91,
+      80,
+      87,
+      75
+    ]
+  },
+  "phantump": {
+    "dex_id": 708,
+    "type": [
+      "ghost",
+      "grass"
+    ],
+    "stats": [
+      43,
+      70,
+      48,
+      50,
+      60,
+      38
+    ]
+  },
+  "trevenant": {
+    "dex_id": 709,
+    "type": [
+      "ghost",
+      "grass"
+    ],
+    "stats": [
+      85,
+      110,
+      76,
+      65,
+      82,
+      56
+    ]
+  },
+  "pumpkaboo": {
+    "dex_id": 710,
+    "type": [
+      "ghost",
+      "grass"
+    ],
+    "stats": [
+      59,
+      66,
+      70,
+      44,
+      55,
+      41
+    ]
+  },
+  "gourgeist": {
+    "dex_id": 711,
+    "type": [
+      "ghost",
+      "grass"
+    ],
+    "stats": [
+      85,
+      100,
+      122,
+      58,
+      75,
+      54
+    ]
+  },
+  "bergmite": {
+    "dex_id": 712,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      55,
+      69,
+      85,
+      32,
+      35,
+      28
+    ]
+  },
+  "avalugg": {
+    "dex_id": 713,
+    "type": [
+      "ice"
+    ],
+    "stats": [
+      95,
+      117,
+      184,
+      44,
+      46,
+      28
+    ]
+  },
+  "noibat": {
+    "dex_id": 714,
+    "type": [
+      "dragon",
+      "flying"
+    ],
+    "stats": [
+      40,
+      30,
+      35,
+      45,
+      40,
+      55
+    ]
+  },
+  "noivern": {
+    "dex_id": 715,
+    "type": [
+      "dragon",
+      "flying"
+    ],
+    "stats": [
+      85,
+      70,
+      80,
+      97,
+      80,
+      123
+    ]
+  },
+  "xerneas": {
+    "dex_id": 716,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      126,
+      131,
+      95,
+      131,
+      98,
+      99
+    ]
+  },
+  "yveltal": {
+    "dex_id": 717,
+    "type": [
+      "dark",
+      "flying"
+    ],
+    "stats": [
+      126,
+      131,
+      95,
+      131,
+      98,
+      99
+    ]
+  },
+  "zygarde": {
+    "dex_id": 718,
+    "type": [
+      "dragon",
+      "ground"
+    ],
+    "stats": [
+      108,
+      100,
+      121,
+      81,
+      95,
+      95
+    ]
+  },
+  "diancie": {
+    "dex_id": 719,
+    "type": [
+      "fairy",
+      "rock"
+    ],
+    "stats": [
+      50,
+      100,
+      150,
+      100,
+      150,
+      50
+    ]
+  },
+  "hoopa": {
+    "dex_id": 720,
+    "type": [
+      "ghost",
+      "psychic"
+    ],
+    "stats": [
+      80,
+      110,
+      60,
+      150,
+      130,
+      70
+    ]
+  },
+  "volcanion": {
+    "dex_id": 721,
+    "type": [
+      "fire",
+      "water"
+    ],
+    "stats": [
+      80,
+      110,
+      120,
+      130,
+      90,
+      70
+    ]
+  },
+  "rowlet": {
+    "dex_id": 722,
+    "type": [
+      "flying",
+      "grass"
+    ],
+    "stats": [
+      68,
+      55,
+      55,
+      50,
+      50,
+      42
+    ]
+  },
+  "dartrix": {
+    "dex_id": 723,
+    "type": [
+      "flying",
+      "grass"
+    ],
+    "stats": [
+      78,
+      75,
+      75,
+      70,
+      70,
+      52
+    ]
+  },
+  "decidueye": {
+    "dex_id": 724,
+    "type": [
+      "ghost",
+      "grass"
+    ],
+    "stats": [
+      78,
+      107,
+      75,
+      100,
+      100,
+      70
+    ]
+  },
+  "litten": {
+    "dex_id": 725,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      45,
+      65,
+      40,
+      60,
+      40,
+      70
+    ]
+  },
+  "torracat": {
+    "dex_id": 726,
+    "type": [
+      "fire"
+    ],
+    "stats": [
+      65,
+      85,
+      50,
+      80,
+      50,
+      90
+    ]
+  },
+  "incineroar": {
+    "dex_id": 727,
+    "type": [
+      "dark",
+      "fire"
+    ],
+    "stats": [
+      95,
+      115,
+      90,
+      80,
+      90,
+      60
+    ]
+  },
+  "popplio": {
+    "dex_id": 728,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      50,
+      54,
+      54,
+      66,
+      56,
+      40
+    ]
+  },
+  "brionne": {
+    "dex_id": 729,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      60,
+      69,
+      69,
+      91,
+      81,
+      50
+    ]
+  },
+  "primarina": {
+    "dex_id": 730,
+    "type": [
+      "fairy",
+      "water"
+    ],
+    "stats": [
+      80,
+      74,
+      74,
+      126,
+      116,
+      60
+    ]
+  },
+  "pikipek": {
+    "dex_id": 731,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      35,
+      75,
+      30,
+      30,
+      30,
+      65
+    ]
+  },
+  "trumbeak": {
+    "dex_id": 732,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      55,
+      85,
+      50,
+      40,
+      50,
+      75
+    ]
+  },
+  "toucannon": {
+    "dex_id": 733,
+    "type": [
+      "flying",
+      "normal"
+    ],
+    "stats": [
+      80,
+      120,
+      75,
+      75,
+      75,
+      60
+    ]
+  },
+  "yungoos": {
+    "dex_id": 734,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      48,
+      70,
+      30,
+      30,
+      30,
+      45
+    ]
+  },
+  "gumshoos": {
+    "dex_id": 735,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      88,
+      110,
+      60,
+      55,
+      60,
+      45
+    ]
+  },
+  "grubbin": {
+    "dex_id": 736,
+    "type": [
+      "bug"
+    ],
+    "stats": [
+      47,
+      62,
+      45,
+      55,
+      45,
+      46
+    ]
+  },
+  "charjabug": {
+    "dex_id": 737,
+    "type": [
+      "bug",
+      "electric"
+    ],
+    "stats": [
+      57,
+      82,
+      95,
+      55,
+      75,
+      36
+    ]
+  },
+  "vikavolt": {
+    "dex_id": 738,
+    "type": [
+      "bug",
+      "electric"
+    ],
+    "stats": [
+      77,
+      70,
+      90,
+      145,
+      75,
+      43
+    ]
+  },
+  "crabrawler": {
+    "dex_id": 739,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      47,
+      82,
+      57,
+      42,
+      47,
+      63
+    ]
+  },
+  "crabominable": {
+    "dex_id": 740,
+    "type": [
+      "fighting",
+      "ice"
+    ],
+    "stats": [
+      97,
+      132,
+      77,
+      62,
+      67,
+      43
+    ]
+  },
+  "oricorio": {
+    "dex_id": 741,
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "stats": [
+      75,
+      70,
+      70,
+      98,
+      70,
+      93
+    ]
+  },
+  "cutiefly": {
+    "dex_id": 742,
+    "type": [
+      "bug",
+      "fairy"
+    ],
+    "stats": [
+      40,
+      45,
+      40,
+      55,
+      40,
+      84
+    ]
+  },
+  "ribombee": {
+    "dex_id": 743,
+    "type": [
+      "bug",
+      "fairy"
+    ],
+    "stats": [
+      60,
+      55,
+      60,
+      95,
+      70,
+      124
+    ]
+  },
+  "rockruff": {
+    "dex_id": 744,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      45,
+      65,
+      40,
+      30,
+      40,
+      60
+    ]
+  },
+  "lycanroc": {
+    "dex_id": 745,
+    "type": [
+      "rock"
+    ],
+    "stats": [
+      75,
+      115,
+      65,
+      55,
+      65,
+      112
+    ]
+  },
+  "wishiwashi": {
+    "dex_id": 746,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      45,
+      20,
+      20,
+      25,
+      25,
+      40
+    ]
+  },
+  "mareanie": {
+    "dex_id": 747,
+    "type": [
+      "poison",
+      "water"
+    ],
+    "stats": [
+      50,
+      53,
+      62,
+      43,
+      52,
+      45
+    ]
+  },
+  "toxapex": {
+    "dex_id": 748,
+    "type": [
+      "poison",
+      "water"
+    ],
+    "stats": [
+      50,
+      63,
+      152,
+      53,
+      142,
+      35
+    ]
+  },
+  "mudbray": {
+    "dex_id": 749,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      70,
+      100,
+      70,
+      45,
+      55,
+      45
+    ]
+  },
+  "mudsdale": {
+    "dex_id": 750,
+    "type": [
+      "ground"
+    ],
+    "stats": [
+      100,
+      125,
+      100,
+      55,
+      85,
+      35
+    ]
+  },
+  "dewpider": {
+    "dex_id": 751,
+    "type": [
+      "bug",
+      "water"
+    ],
+    "stats": [
+      38,
+      40,
+      52,
+      40,
+      72,
+      27
+    ]
+  },
+  "araquanid": {
+    "dex_id": 752,
+    "type": [
+      "bug",
+      "water"
+    ],
+    "stats": [
+      68,
+      70,
+      92,
+      50,
+      132,
+      42
+    ]
+  },
+  "fomantis": {
+    "dex_id": 753,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      40,
+      55,
+      35,
+      50,
+      35,
+      35
+    ]
+  },
+  "lurantis": {
+    "dex_id": 754,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      70,
+      105,
+      90,
+      80,
+      90,
+      45
+    ]
+  },
+  "morelull": {
+    "dex_id": 755,
+    "type": [
+      "fairy",
+      "grass"
+    ],
+    "stats": [
+      40,
+      35,
+      55,
+      65,
+      75,
+      15
+    ]
+  },
+  "shiinotic": {
+    "dex_id": 756,
+    "type": [
+      "fairy",
+      "grass"
+    ],
+    "stats": [
+      60,
+      45,
+      80,
+      90,
+      100,
+      30
+    ]
+  },
+  "salandit": {
+    "dex_id": 757,
+    "type": [
+      "fire",
+      "poison"
+    ],
+    "stats": [
+      48,
+      44,
+      40,
+      71,
+      40,
+      77
+    ]
+  },
+  "salazzle": {
+    "dex_id": 758,
+    "type": [
+      "fire",
+      "poison"
+    ],
+    "stats": [
+      68,
+      64,
+      60,
+      111,
+      60,
+      117
+    ]
+  },
+  "stufful": {
+    "dex_id": 759,
+    "type": [
+      "fighting",
+      "normal"
+    ],
+    "stats": [
+      70,
+      75,
+      50,
+      45,
+      50,
+      50
+    ]
+  },
+  "bewear": {
+    "dex_id": 760,
+    "type": [
+      "fighting",
+      "normal"
+    ],
+    "stats": [
+      120,
+      125,
+      80,
+      55,
+      60,
+      60
+    ]
+  },
+  "bounsweet": {
+    "dex_id": 761,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      42,
+      30,
+      38,
+      30,
+      38,
+      32
+    ]
+  },
+  "steenee": {
+    "dex_id": 762,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      52,
+      40,
+      48,
+      40,
+      48,
+      62
+    ]
+  },
+  "tsareena": {
+    "dex_id": 763,
+    "type": [
+      "grass"
+    ],
+    "stats": [
+      72,
+      120,
+      98,
+      50,
+      98,
+      72
+    ]
+  },
+  "comfey": {
+    "dex_id": 764,
+    "type": [
+      "fairy"
+    ],
+    "stats": [
+      51,
+      52,
+      90,
+      82,
+      110,
+      100
+    ]
+  },
+  "oranguru": {
+    "dex_id": 765,
+    "type": [
+      "normal",
+      "psychic"
+    ],
+    "stats": [
+      90,
+      60,
+      80,
+      90,
+      110,
+      60
+    ]
+  },
+  "passimian": {
+    "dex_id": 766,
+    "type": [
+      "fighting"
+    ],
+    "stats": [
+      100,
+      120,
+      90,
+      40,
+      60,
+      80
+    ]
+  },
+  "wimpod": {
+    "dex_id": 767,
+    "type": [
+      "bug",
+      "water"
+    ],
+    "stats": [
+      25,
+      35,
+      40,
+      20,
+      30,
+      80
+    ]
+  },
+  "golisopod": {
+    "dex_id": 768,
+    "type": [
+      "bug",
+      "water"
+    ],
+    "stats": [
+      75,
+      125,
+      140,
+      60,
+      90,
+      40
+    ]
+  },
+  "sandygast": {
+    "dex_id": 769,
+    "type": [
+      "ghost",
+      "ground"
+    ],
+    "stats": [
+      55,
+      55,
+      80,
+      70,
+      45,
+      15
+    ]
+  },
+  "palossand": {
+    "dex_id": 770,
+    "type": [
+      "ghost",
+      "ground"
+    ],
+    "stats": [
+      85,
+      75,
+      110,
+      100,
+      75,
+      35
+    ]
+  },
+  "pyukumuku": {
+    "dex_id": 771,
+    "type": [
+      "water"
+    ],
+    "stats": [
+      55,
+      60,
+      130,
+      30,
+      130,
+      5
+    ]
+  },
+  "type: null": {
+    "dex_id": 772,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      95,
+      95,
+      95,
+      95,
+      95,
+      59
+    ]
+  },
+  "silvally": {
+    "dex_id": 773,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      95,
+      95,
+      95,
+      95,
+      95,
+      95
+    ]
+  },
+  "minior": {
+    "dex_id": 774,
+    "type": [
+      "flying",
+      "rock"
+    ],
+    "stats": [
+      60,
+      60,
+      100,
+      60,
+      100,
+      60
+    ]
+  },
+  "komala": {
+    "dex_id": 775,
+    "type": [
+      "normal"
+    ],
+    "stats": [
+      65,
+      115,
+      65,
+      75,
+      95,
+      65
+    ]
+  },
+  "turtonator": {
+    "dex_id": 776,
+    "type": [
+      "dragon",
+      "fire"
+    ],
+    "stats": [
+      60,
+      78,
+      135,
+      91,
+      85,
+      36
+    ]
+  },
+  "togedemaru": {
+    "dex_id": 777,
+    "type": [
+      "electric",
+      "steel"
+    ],
+    "stats": [
+      65,
+      98,
+      63,
+      40,
+      73,
+      96
+    ]
+  },
+  "mimikyu": {
+    "dex_id": 778,
+    "type": [
+      "fairy",
+      "ghost"
+    ],
+    "stats": [
+      55,
+      90,
+      80,
+      50,
+      105,
+      96
+    ]
+  },
+  "bruxish": {
+    "dex_id": 779,
+    "type": [
+      "psychic",
+      "water"
+    ],
+    "stats": [
+      68,
+      105,
+      70,
+      70,
+      70,
+      92
+    ]
+  },
+  "drampa": {
+    "dex_id": 780,
+    "type": [
+      "dragon",
+      "normal"
+    ],
+    "stats": [
+      78,
+      60,
+      85,
+      135,
+      91,
+      36
+    ]
+  },
+  "dhelmise": {
+    "dex_id": 781,
+    "type": [
+      "ghost",
+      "grass"
+    ],
+    "stats": [
+      70,
+      131,
+      100,
+      86,
+      90,
+      40
+    ]
+  },
+  "jangmo-o": {
+    "dex_id": 782,
+    "type": [
+      "dragon"
+    ],
+    "stats": [
+      45,
+      55,
+      65,
+      45,
+      45,
+      45
+    ]
+  },
+  "hakamo-o": {
+    "dex_id": 783,
+    "type": [
+      "dragon",
+      "fighting"
+    ],
+    "stats": [
+      55,
+      75,
+      90,
+      65,
+      70,
+      65
+    ]
+  },
+  "kommo-o": {
+    "dex_id": 784,
+    "type": [
+      "dragon",
+      "fighting"
+    ],
+    "stats": [
+      75,
+      110,
+      125,
+      100,
+      105,
+      85
+    ]
+  },
+  "tapu koko": {
+    "dex_id": 785,
+    "type": [
+      "electric",
+      "fairy"
+    ],
+    "stats": [
+      70,
+      115,
+      85,
+      95,
+      75,
+      130
+    ]
+  },
+  "tapu lele": {
+    "dex_id": 786,
+    "type": [
+      "fairy",
+      "psychic"
+    ],
+    "stats": [
+      70,
+      85,
+      75,
+      130,
+      115,
+      95
+    ]
+  },
+  "tapu bulu": {
+    "dex_id": 787,
+    "type": [
+      "fairy",
+      "grass"
+    ],
+    "stats": [
+      70,
+      130,
+      115,
+      85,
+      95,
+      75
+    ]
+  },
+  "tapu fini": {
+    "dex_id": 788,
+    "type": [
+      "fairy",
+      "water"
+    ],
+    "stats": [
+      70,
+      75,
+      115,
+      95,
+      130,
+      85
+    ]
+  },
+  "cosmog": {
+    "dex_id": 789,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      43,
+      29,
+      31,
+      29,
+      31,
+      37
+    ]
+  },
+  "cosmoem": {
+    "dex_id": 790,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      43,
+      29,
+      131,
+      29,
+      131,
+      37
+    ]
+  },
+  "solgaleo": {
+    "dex_id": 791,
+    "type": [
+      "psychic",
+      "steel"
+    ],
+    "stats": [
+      137,
+      137,
+      107,
+      113,
+      89,
+      97
+    ]
+  },
+  "lunala": {
+    "dex_id": 792,
+    "type": [
+      "ghost",
+      "psychic"
+    ],
+    "stats": [
+      137,
+      113,
+      89,
+      137,
+      107,
+      97
+    ]
+  },
+  "nihilego": {
+    "dex_id": 793,
+    "type": [
+      "poison",
+      "rock"
+    ],
+    "stats": [
+      109,
+      53,
+      47,
+      127,
+      131,
+      103
+    ]
+  },
+  "buzzwole": {
+    "dex_id": 794,
+    "type": [
+      "bug",
+      "fighting"
+    ],
+    "stats": [
+      107,
+      139,
+      139,
+      53,
+      53,
+      79
+    ]
+  },
+  "pheromosa": {
+    "dex_id": 795,
+    "type": [
+      "bug",
+      "fighting"
+    ],
+    "stats": [
+      71,
+      137,
+      37,
+      137,
+      37,
+      151
+    ]
+  },
+  "xurkitree": {
+    "dex_id": 796,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      83,
+      89,
+      71,
+      173,
+      71,
+      83
+    ]
+  },
+  "celesteela": {
+    "dex_id": 797,
+    "type": [
+      "flying",
+      "steel"
+    ],
+    "stats": [
+      97,
+      101,
+      103,
+      107,
+      101,
+      61
+    ]
+  },
+  "kartana": {
+    "dex_id": 798,
+    "type": [
+      "grass",
+      "steel"
+    ],
+    "stats": [
+      59,
+      181,
+      131,
+      59,
+      31,
+      109
+    ]
+  },
+  "guzzlord": {
+    "dex_id": 799,
+    "type": [
+      "dark",
+      "dragon"
+    ],
+    "stats": [
+      223,
+      101,
+      53,
+      97,
+      53,
+      43
+    ]
+  },
+  "necrozma": {
+    "dex_id": 800,
+    "type": [
+      "psychic"
+    ],
+    "stats": [
+      97,
+      107,
+      101,
+      127,
+      89,
+      79
+    ]
+  },
+  "magearna": {
+    "dex_id": 801,
+    "type": [
+      "fairy",
+      "steel"
+    ],
+    "stats": [
+      80,
+      95,
+      115,
+      130,
+      115,
+      65
+    ]
+  },
+  "marshadow": {
+    "dex_id": 802,
+    "type": [
+      "fighting",
+      "ghost"
+    ],
+    "stats": [
+      90,
+      125,
+      80,
+      90,
+      90,
+      125
+    ]
+  },
+  "poipole": {
+    "dex_id": 803,
+    "type": [
+      "poison"
+    ],
+    "stats": [
+      67,
+      73,
+      67,
+      73,
+      67,
+      73
+    ]
+  },
+  "naganadel": {
+    "dex_id": 804,
+    "type": [
+      "dragon",
+      "poison"
+    ],
+    "stats": [
+      73,
+      73,
+      73,
+      127,
+      73,
+      121
+    ]
+  },
+  "stakataka": {
+    "dex_id": 805,
+    "type": [
+      "rock",
+      "steel"
+    ],
+    "stats": [
+      61,
+      131,
+      211,
+      53,
+      101,
+      13
+    ]
+  },
+  "blacephalon": {
+    "dex_id": 806,
+    "type": [
+      "fire",
+      "ghost"
+    ],
+    "stats": [
+      53,
+      127,
+      53,
+      151,
+      79,
+      107
+    ]
+  },
+  "zeraora": {
+    "dex_id": 807,
+    "type": [
+      "electric"
+    ],
+    "stats": [
+      88,
+      112,
+      75,
+      102,
+      80,
+      143
+    ]
+  },
+  "meltan": {
+    "dex_id": 808,
+    "type": [
+      "steel"
+    ],
+    "stats": [
+      46,
+      65,
+      65,
+      55,
+      35,
+      34
+    ]
+  },
+  "melmetal": {
+    "dex_id": 809,
+    "type": [
+      "steel"
+    ],
+    "stats": [
+      135,
+      143,
+      143,
+      80,
+      65,
+      34
+    ]
+  }
+}

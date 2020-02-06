@@ -1,0 +1,8 @@
+### Repository-specific stuff ###
+dumps/
+data/
+old_data/
+
+### Python-specific stuff
+__pycache__/
+
