@@ -73,6 +73,7 @@ df=pd.DataFrame(Dict)
 # Create initial variables for the Pokemon dict
 stats = [0, 0, 0, 0, 0, 0]
 pokedex = {}
+speed_dict = {}
 j = 0
 prev_id = 0
 
@@ -135,6 +136,9 @@ for i in range(len(df)):
             pokedex[name]['type'] = type
             pokedex[name]['stats'] = stats
             pokedex[name]['alt_form'] = alt_form
+            pokedex[name]['speed_rank'] = -1
+            if not alt_form:
+                speed_dict[name] = stats[5]
 
             # This is necessary for some reason otherwise every Pokemon will
             # have Eternatus's stats
@@ -143,6 +147,33 @@ for i in range(len(df)):
         # I know this one is entirely unnecessary, but I like having it here
         else:
             continue
+
+speed_dict = {k : v for k, v in sorted(speed_dict.items(), \
+              key=lambda item : item[1])}
+
+# Find how many Pokemon each Pokemon outspeeds
+prev_speed = 5
+mons = []
+j = 0
+count = 0
+for i, mon in enumerate(speed_dict):
+    cur_speed = speed_dict[mon]
+
+    # Add the current mon to a list of other mons with the same speed
+    if cur_speed == prev_speed:
+        mons.append(mon)
+
+    else:
+        # Make all mons with the same score have the same rank
+        for repeat_mon in mons:
+            pokedex[repeat_mon]['speed_rank'] = j
+        mons = []
+        j = i
+
+        # Add the current mon to the dictionary, otherwise it will get
+        # skipped
+        pokedex[mon]['speed_rank'] = j
+    prev_speed = cur_speed
 
 # Write the data to a JSON
 with open(osp.join(os.pardir, 'data', 'pokedex.json'), 'w') as f_out:
