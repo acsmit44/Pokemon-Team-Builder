@@ -28,9 +28,10 @@ def parse_arguments():
     parser.add_argument('--build_team_flag', action='store_true', \
                         help='flag to make main build a team')
     parser.add_argument('--mons', nargs='+', type=str.lower, \
-                        help='one or more pokemon to use for the algorithm. ' +\
-                        'use one for find_partner and one or more for' +\
-                        'build_team.')
+                        help='one or more pokemon to use for the algorithm.' + \
+                        ' Use one for find_partner and one or more for' + \
+                        'build_team. Put pokemon multiple words in its name' + \
+                        'in quotes.')
     args = parser.parse_args()
     return args
 
