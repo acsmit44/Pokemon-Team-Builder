@@ -1,7 +1,5 @@
 ### Repository-specific stuff ###
 dumps/
-super_old_data/
-old_data/
 
 ### Python-specific stuff
 __pycache__/

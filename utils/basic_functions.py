@@ -13,16 +13,6 @@ import json
 import numpy as np
 
 
-def get_stats(mon):
-    '''
-    Takes a pokemon as input data and returns its stats as a numpy array.
-    '''
-    stats = [mon['stats']['HP'], mon['stats']['Atk']), \
-             mon['stats']['Def']), mon['stats']['SpA']), \
-             mon['stats']['SpD']), mon['stats']['Spe'])]
-    return np.asarray(stats, dtype=np.float32)
-
-
 def get_weighted_stats(stats):
     '''
     Takes a stats dictionary as input and returns the weighteda ttack and

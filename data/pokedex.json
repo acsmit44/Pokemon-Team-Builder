@@ -14,7 +14,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "ivysaur": {
     "dex_id": 2,
@@ -31,7 +31,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "venusaur": {
     "dex_id": 3,
@@ -48,24 +48,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
-  },
-  "venusaur mega venusaur": {
-    "dex_id": 3,
-    "type": [
-      "grass",
-      "poison"
-    ],
-    "stats": [
-      80,
-      100,
-      123,
-      122,
-      120,
-      80
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 636
   },
   "charmander": {
     "dex_id": 4,
@@ -81,7 +64,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "charmeleon": {
     "dex_id": 5,
@@ -97,7 +80,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "charizard": {
     "dex_id": 6,
@@ -114,41 +97,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
-  },
-  "charizard mega charizard x": {
-    "dex_id": 6,
-    "type": [
-      "dragon",
-      "fire"
-    ],
-    "stats": [
-      78,
-      130,
-      111,
-      130,
-      85,
-      100
-    ],
-    "alt_form": true,
-    "speed_rank": -1
-  },
-  "charizard mega charizard y": {
-    "dex_id": 6,
-    "type": [
-      "fire",
-      "flying"
-    ],
-    "stats": [
-      78,
-      104,
-      78,
-      159,
-      115,
-      100
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 831
   },
   "squirtle": {
     "dex_id": 7,
@@ -164,7 +113,7 @@
       43
     ],
     "alt_form": false,
-    "speed_rank": 205
+    "speed_rank": 217
   },
   "wartortle": {
     "dex_id": 8,
@@ -180,7 +129,7 @@
       58
     ],
     "alt_form": false,
-    "speed_rank": 367
+    "speed_rank": 389
   },
   "blastoise": {
     "dex_id": 9,
@@ -196,23 +145,7 @@
       78
     ],
     "alt_form": false,
-    "speed_rank": 592
-  },
-  "blastoise mega blastoise": {
-    "dex_id": 9,
-    "type": [
-      "water"
-    ],
-    "stats": [
-      79,
-      103,
-      120,
-      135,
-      115,
-      78
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 630
   },
   "caterpie": {
     "dex_id": 10,
@@ -228,7 +161,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "metapod": {
     "dex_id": 11,
@@ -244,7 +177,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "butterfree": {
     "dex_id": 12,
@@ -261,7 +194,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "weedle": {
     "dex_id": 13,
@@ -278,7 +211,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "kakuna": {
     "dex_id": 14,
@@ -295,7 +228,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "beedrill": {
     "dex_id": 15,
@@ -312,24 +245,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
-  },
-  "beedrill mega beedrill": {
-    "dex_id": 15,
-    "type": [
-      "bug",
-      "poison"
-    ],
-    "stats": [
-      65,
-      150,
-      40,
-      15,
-      80,
-      145
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 599
   },
   "pidgey": {
     "dex_id": 16,
@@ -346,7 +262,7 @@
       56
     ],
     "alt_form": false,
-    "speed_rank": 358
+    "speed_rank": 379
   },
   "pidgeotto": {
     "dex_id": 17,
@@ -363,7 +279,7 @@
       71
     ],
     "alt_form": false,
-    "speed_rank": 548
+    "speed_rank": 580
   },
   "pidgeot": {
     "dex_id": 18,
@@ -380,24 +296,7 @@
       101
     ],
     "alt_form": false,
-    "speed_rank": 793
-  },
-  "pidgeot mega pidgeot": {
-    "dex_id": 18,
-    "type": [
-      "flying",
-      "normal"
-    ],
-    "stats": [
-      83,
-      80,
-      80,
-      135,
-      80,
-      121
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 857
   },
   "rattata": {
     "dex_id": 19,
@@ -413,7 +312,7 @@
       72
     ],
     "alt_form": false,
-    "speed_rank": 554
+    "speed_rank": 586
   },
   "rattata alolan rattata": {
     "dex_id": 19,
@@ -430,7 +329,7 @@
       72
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 586
   },
   "raticate": {
     "dex_id": 20,
@@ -446,7 +345,7 @@
       97
     ],
     "alt_form": false,
-    "speed_rank": 755
+    "speed_rank": 814
   },
   "raticate alolan raticate": {
     "dex_id": 20,
@@ -463,7 +362,7 @@
       77
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 623
   },
   "spearow": {
     "dex_id": 21,
@@ -480,7 +379,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "fearow": {
     "dex_id": 22,
@@ -497,7 +396,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "ekans": {
     "dex_id": 23,
@@ -513,7 +412,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "arbok": {
     "dex_id": 24,
@@ -529,7 +428,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "pikachu": {
     "dex_id": 25,
@@ -545,7 +444,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "pikachu partner pikachu": {
     "dex_id": 25,
@@ -561,7 +460,7 @@
       120
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 933
   },
   "raichu": {
     "dex_id": 26,
@@ -577,7 +476,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
+    "speed_rank": 897
   },
   "raichu alolan raichu": {
     "dex_id": 26,
@@ -594,7 +493,7 @@
       110
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 897
   },
   "sandshrew": {
     "dex_id": 27,
@@ -610,7 +509,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "sandshrew alolan sandshrew": {
     "dex_id": 27,
@@ -627,7 +526,7 @@
       40
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 165
   },
   "sandslash": {
     "dex_id": 28,
@@ -643,7 +542,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "sandslash alolan sandslash": {
     "dex_id": 28,
@@ -660,7 +559,7 @@
       65
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 469
   },
   "nidoran\u2640": {
     "dex_id": 29,
@@ -676,7 +575,7 @@
       41
     ],
     "alt_form": false,
-    "speed_rank": 194
+    "speed_rank": 205
   },
   "nidorina": {
     "dex_id": 30,
@@ -692,7 +591,7 @@
       56
     ],
     "alt_form": false,
-    "speed_rank": 358
+    "speed_rank": 379
   },
   "nidoqueen": {
     "dex_id": 31,
@@ -709,7 +608,7 @@
       76
     ],
     "alt_form": false,
-    "speed_rank": 585
+    "speed_rank": 620
   },
   "nidoran\u2642": {
     "dex_id": 32,
@@ -725,7 +624,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "nidorino": {
     "dex_id": 33,
@@ -741,7 +640,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "nidoking": {
     "dex_id": 34,
@@ -758,7 +657,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "clefairy": {
     "dex_id": 35,
@@ -774,7 +673,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "clefable": {
     "dex_id": 36,
@@ -790,7 +689,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "vulpix": {
     "dex_id": 37,
@@ -806,7 +705,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "vulpix alolan vulpix": {
     "dex_id": 37,
@@ -822,7 +721,7 @@
       65
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 469
   },
   "ninetales": {
     "dex_id": 38,
@@ -838,7 +737,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "ninetales alolan ninetales": {
     "dex_id": 38,
@@ -855,7 +754,7 @@
       109
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 893
   },
   "jigglypuff": {
     "dex_id": 39,
@@ -889,7 +788,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "zubat": {
     "dex_id": 41,
@@ -906,7 +805,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "golbat": {
     "dex_id": 42,
@@ -923,7 +822,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "oddish": {
     "dex_id": 43,
@@ -940,7 +839,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "gloom": {
     "dex_id": 44,
@@ -957,7 +856,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "vileplume": {
     "dex_id": 45,
@@ -974,7 +873,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "paras": {
     "dex_id": 46,
@@ -991,7 +890,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "parasect": {
     "dex_id": 47,
@@ -1008,7 +907,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "venonat": {
     "dex_id": 48,
@@ -1025,7 +924,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "venomoth": {
     "dex_id": 49,
@@ -1042,7 +941,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "diglett": {
     "dex_id": 50,
@@ -1058,7 +957,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "diglett alolan diglett": {
     "dex_id": 50,
@@ -1075,7 +974,7 @@
       90
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 727
   },
   "dugtrio": {
     "dex_id": 51,
@@ -1091,7 +990,7 @@
       120
     ],
     "alt_form": false,
-    "speed_rank": 859
+    "speed_rank": 933
   },
   "dugtrio alolan dugtrio": {
     "dex_id": 51,
@@ -1108,7 +1007,7 @@
       110
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 897
   },
   "meowth": {
     "dex_id": 52,
@@ -1124,7 +1023,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "meowth alolan meowth": {
     "dex_id": 52,
@@ -1140,7 +1039,7 @@
       90
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 727
   },
   "meowth galarian meowth": {
     "dex_id": 52,
@@ -1156,7 +1055,7 @@
       40
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 165
   },
   "persian": {
     "dex_id": 53,
@@ -1172,7 +1071,7 @@
       115
     ],
     "alt_form": false,
-    "speed_rank": 846
+    "speed_rank": 918
   },
   "persian alolan persian": {
     "dex_id": 53,
@@ -1188,7 +1087,7 @@
       115
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 918
   },
   "psyduck": {
     "dex_id": 54,
@@ -1204,7 +1103,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "golduck": {
     "dex_id": 55,
@@ -1220,7 +1119,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "mankey": {
     "dex_id": 56,
@@ -1236,7 +1135,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "primeape": {
     "dex_id": 57,
@@ -1252,7 +1151,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "growlithe": {
     "dex_id": 58,
@@ -1268,7 +1167,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "arcanine": {
     "dex_id": 59,
@@ -1284,7 +1183,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "poliwag": {
     "dex_id": 60,
@@ -1300,7 +1199,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "poliwhirl": {
     "dex_id": 61,
@@ -1316,7 +1215,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "poliwrath": {
     "dex_id": 62,
@@ -1333,7 +1232,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "abra": {
     "dex_id": 63,
@@ -1349,7 +1248,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "kadabra": {
     "dex_id": 64,
@@ -1365,7 +1264,7 @@
       105
     ],
     "alt_form": false,
-    "speed_rank": 806
+    "speed_rank": 872
   },
   "alakazam": {
     "dex_id": 65,
@@ -1381,23 +1280,7 @@
       120
     ],
     "alt_form": false,
-    "speed_rank": 859
-  },
-  "alakazam mega alakazam": {
-    "dex_id": 65,
-    "type": [
-      "psychic"
-    ],
-    "stats": [
-      55,
-      50,
-      65,
-      175,
-      105,
-      150
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 933
   },
   "machop": {
     "dex_id": 66,
@@ -1413,7 +1296,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "machoke": {
     "dex_id": 67,
@@ -1429,7 +1312,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "machamp": {
     "dex_id": 68,
@@ -1445,7 +1328,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "bellsprout": {
     "dex_id": 69,
@@ -1462,7 +1345,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "weepinbell": {
     "dex_id": 70,
@@ -1479,7 +1362,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "victreebel": {
     "dex_id": 71,
@@ -1496,7 +1379,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "tentacool": {
     "dex_id": 72,
@@ -1513,7 +1396,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "tentacruel": {
     "dex_id": 73,
@@ -1530,7 +1413,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "geodude": {
     "dex_id": 74,
@@ -1564,7 +1447,7 @@
       20
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 20
   },
   "graveler": {
     "dex_id": 75,
@@ -1581,7 +1464,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "graveler alolan graveler": {
     "dex_id": 75,
@@ -1598,7 +1481,7 @@
       35
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 123
   },
   "golem": {
     "dex_id": 76,
@@ -1615,7 +1498,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "golem alolan golem": {
     "dex_id": 76,
@@ -1632,7 +1515,7 @@
       45
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 229
   },
   "ponyta": {
     "dex_id": 77,
@@ -1648,7 +1531,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "ponyta galarian ponyta": {
     "dex_id": 77,
@@ -1664,7 +1547,7 @@
       90
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 727
   },
   "rapidash": {
     "dex_id": 78,
@@ -1680,7 +1563,7 @@
       105
     ],
     "alt_form": false,
-    "speed_rank": 806
+    "speed_rank": 872
   },
   "rapidash galarian rapidash": {
     "dex_id": 78,
@@ -1697,7 +1580,7 @@
       105
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 872
   },
   "slowpoke": {
     "dex_id": 79,
@@ -1731,24 +1614,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
-  },
-  "slowbro mega slowbro": {
-    "dex_id": 80,
-    "type": [
-      "psychic",
-      "water"
-    ],
-    "stats": [
-      95,
-      75,
-      180,
-      130,
-      80,
-      30
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 65
   },
   "magnemite": {
     "dex_id": 81,
@@ -1765,7 +1631,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "magneton": {
     "dex_id": 82,
@@ -1782,7 +1648,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "farfetch'd": {
     "dex_id": 83,
@@ -1799,7 +1665,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "farfetch'd galarian farfetch'd": {
     "dex_id": 83,
@@ -1815,7 +1681,7 @@
       55
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 346
   },
   "doduo": {
     "dex_id": 84,
@@ -1832,7 +1698,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "dodrio": {
     "dex_id": 85,
@@ -1849,7 +1715,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
+    "speed_rank": 897
   },
   "seel": {
     "dex_id": 86,
@@ -1865,7 +1731,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "dewgong": {
     "dex_id": 87,
@@ -1882,7 +1748,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "grimer": {
     "dex_id": 88,
@@ -1898,7 +1764,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "grimer alolan grimer": {
     "dex_id": 88,
@@ -1915,7 +1781,7 @@
       25
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 43
   },
   "muk": {
     "dex_id": 89,
@@ -1931,7 +1797,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "muk alolan muk": {
     "dex_id": 89,
@@ -1948,7 +1814,7 @@
       50
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 284
   },
   "shellder": {
     "dex_id": 90,
@@ -1964,7 +1830,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "cloyster": {
     "dex_id": 91,
@@ -1981,7 +1847,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "gastly": {
     "dex_id": 92,
@@ -1998,7 +1864,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "haunter": {
     "dex_id": 93,
@@ -2015,7 +1881,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "gengar": {
     "dex_id": 94,
@@ -2032,24 +1898,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
-  },
-  "gengar mega gengar": {
-    "dex_id": 94,
-    "type": [
-      "ghost",
-      "poison"
-    ],
-    "stats": [
-      60,
-      65,
-      80,
-      170,
-      95,
-      130
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 897
   },
   "onix": {
     "dex_id": 95,
@@ -2066,7 +1915,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "drowzee": {
     "dex_id": 96,
@@ -2082,7 +1931,7 @@
       42
     ],
     "alt_form": false,
-    "speed_rank": 196
+    "speed_rank": 208
   },
   "hypno": {
     "dex_id": 97,
@@ -2098,7 +1947,7 @@
       67
     ],
     "alt_form": false,
-    "speed_rank": 492
+    "speed_rank": 520
   },
   "krabby": {
     "dex_id": 98,
@@ -2114,7 +1963,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "kingler": {
     "dex_id": 99,
@@ -2130,7 +1979,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "voltorb": {
     "dex_id": 100,
@@ -2146,7 +1995,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "electrode": {
     "dex_id": 101,
@@ -2162,7 +2011,7 @@
       150
     ],
     "alt_form": false,
-    "speed_rank": 886
+    "speed_rank": 972
   },
   "exeggcute": {
     "dex_id": 102,
@@ -2179,7 +2028,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "exeggutor": {
     "dex_id": 103,
@@ -2196,7 +2045,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "exeggutor alolan exeggutor": {
     "dex_id": 103,
@@ -2213,7 +2062,7 @@
       45
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 229
   },
   "cubone": {
     "dex_id": 104,
@@ -2229,7 +2078,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "marowak": {
     "dex_id": 105,
@@ -2245,7 +2094,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "marowak alolan marowak": {
     "dex_id": 105,
@@ -2262,7 +2111,7 @@
       45
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 229
   },
   "hitmonlee": {
     "dex_id": 106,
@@ -2278,7 +2127,7 @@
       87
     ],
     "alt_form": false,
-    "speed_rank": 677
+    "speed_rank": 723
   },
   "hitmonchan": {
     "dex_id": 107,
@@ -2294,7 +2143,7 @@
       76
     ],
     "alt_form": false,
-    "speed_rank": 585
+    "speed_rank": 620
   },
   "lickitung": {
     "dex_id": 108,
@@ -2310,7 +2159,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "koffing": {
     "dex_id": 109,
@@ -2326,7 +2175,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "weezing": {
     "dex_id": 110,
@@ -2342,7 +2191,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "weezing galarian weezing": {
     "dex_id": 110,
@@ -2359,7 +2208,7 @@
       60
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 400
   },
   "rhyhorn": {
     "dex_id": 111,
@@ -2376,7 +2225,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "rhydon": {
     "dex_id": 112,
@@ -2393,7 +2242,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "chansey": {
     "dex_id": 113,
@@ -2409,7 +2258,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "tangela": {
     "dex_id": 114,
@@ -2425,7 +2274,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "kangaskhan": {
     "dex_id": 115,
@@ -2441,23 +2290,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
-  },
-  "kangaskhan mega kangaskhan": {
-    "dex_id": 115,
-    "type": [
-      "normal"
-    ],
-    "stats": [
-      105,
-      125,
-      100,
-      60,
-      100,
-      100
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 727
   },
   "horsea": {
     "dex_id": 116,
@@ -2473,7 +2306,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "seadra": {
     "dex_id": 117,
@@ -2489,7 +2322,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "goldeen": {
     "dex_id": 118,
@@ -2505,7 +2338,7 @@
       63
     ],
     "alt_form": false,
-    "speed_rank": 434
+    "speed_rank": 460
   },
   "seaking": {
     "dex_id": 119,
@@ -2521,7 +2354,7 @@
       68
     ],
     "alt_form": false,
-    "speed_rank": 497
+    "speed_rank": 525
   },
   "staryu": {
     "dex_id": 120,
@@ -2537,7 +2370,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "starmie": {
     "dex_id": 121,
@@ -2554,7 +2387,7 @@
       115
     ],
     "alt_form": false,
-    "speed_rank": 846
+    "speed_rank": 918
   },
   "mr. mime": {
     "dex_id": 122,
@@ -2571,7 +2404,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "mr. mime galarian mr. mime": {
     "dex_id": 122,
@@ -2588,7 +2421,7 @@
       100
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 831
   },
   "scyther": {
     "dex_id": 123,
@@ -2605,7 +2438,7 @@
       105
     ],
     "alt_form": false,
-    "speed_rank": 806
+    "speed_rank": 872
   },
   "jynx": {
     "dex_id": 124,
@@ -2622,7 +2455,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "electabuzz": {
     "dex_id": 125,
@@ -2638,7 +2471,7 @@
       105
     ],
     "alt_form": false,
-    "speed_rank": 806
+    "speed_rank": 872
   },
   "magmar": {
     "dex_id": 126,
@@ -2654,7 +2487,7 @@
       93
     ],
     "alt_form": false,
-    "speed_rank": 720
+    "speed_rank": 774
   },
   "pinsir": {
     "dex_id": 127,
@@ -2670,24 +2503,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
-  },
-  "pinsir mega pinsir": {
-    "dex_id": 127,
-    "type": [
-      "bug",
-      "flying"
-    ],
-    "stats": [
-      65,
-      155,
-      120,
-      65,
-      90,
-      105
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 684
   },
   "tauros": {
     "dex_id": 128,
@@ -2703,7 +2519,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
+    "speed_rank": 897
   },
   "magikarp": {
     "dex_id": 129,
@@ -2719,7 +2535,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "gyarados": {
     "dex_id": 130,
@@ -2736,24 +2552,7 @@
       81
     ],
     "alt_form": false,
-    "speed_rank": 632
-  },
-  "gyarados mega gyarados": {
-    "dex_id": 130,
-    "type": [
-      "dark",
-      "water"
-    ],
-    "stats": [
-      95,
-      155,
-      109,
-      70,
-      130,
-      81
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 670
   },
   "lapras": {
     "dex_id": 131,
@@ -2770,7 +2569,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "ditto": {
     "dex_id": 132,
@@ -2786,7 +2585,7 @@
       48
     ],
     "alt_form": false,
-    "speed_rank": 259
+    "speed_rank": 275
   },
   "eevee": {
     "dex_id": 133,
@@ -2802,7 +2601,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "eevee partner eevee": {
     "dex_id": 133,
@@ -2818,7 +2617,7 @@
       75
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 599
   },
   "vaporeon": {
     "dex_id": 134,
@@ -2834,7 +2633,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "jolteon": {
     "dex_id": 135,
@@ -2850,7 +2649,7 @@
       130
     ],
     "alt_form": false,
-    "speed_rank": 875
+    "speed_rank": 955
   },
   "flareon": {
     "dex_id": 136,
@@ -2866,7 +2665,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "porygon": {
     "dex_id": 137,
@@ -2882,7 +2681,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "omanyte": {
     "dex_id": 138,
@@ -2899,7 +2698,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "omastar": {
     "dex_id": 139,
@@ -2916,7 +2715,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "kabuto": {
     "dex_id": 140,
@@ -2933,7 +2732,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "kabutops": {
     "dex_id": 141,
@@ -2950,7 +2749,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "aerodactyl": {
     "dex_id": 142,
@@ -2967,24 +2766,7 @@
       130
     ],
     "alt_form": false,
-    "speed_rank": 875
-  },
-  "aerodactyl mega aerodactyl": {
-    "dex_id": 142,
-    "type": [
-      "flying",
-      "rock"
-    ],
-    "stats": [
-      80,
-      135,
-      85,
-      70,
-      95,
-      150
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 955
   },
   "snorlax": {
     "dex_id": 143,
@@ -3000,7 +2782,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "articuno": {
     "dex_id": 144,
@@ -3017,7 +2799,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "zapdos": {
     "dex_id": 145,
@@ -3034,7 +2816,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "moltres": {
     "dex_id": 146,
@@ -3051,7 +2833,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "dratini": {
     "dex_id": 147,
@@ -3067,7 +2849,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "dragonair": {
     "dex_id": 148,
@@ -3083,7 +2865,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "dragonite": {
     "dex_id": 149,
@@ -3100,7 +2882,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "mewtwo": {
     "dex_id": 150,
@@ -3116,40 +2898,7 @@
       130
     ],
     "alt_form": false,
-    "speed_rank": 875
-  },
-  "mewtwo mega mewtwo x": {
-    "dex_id": 150,
-    "type": [
-      "fighting",
-      "psychic"
-    ],
-    "stats": [
-      106,
-      190,
-      100,
-      154,
-      100,
-      130
-    ],
-    "alt_form": true,
-    "speed_rank": -1
-  },
-  "mewtwo mega mewtwo y": {
-    "dex_id": 150,
-    "type": [
-      "psychic"
-    ],
-    "stats": [
-      106,
-      150,
-      70,
-      194,
-      120,
-      140
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 955
   },
   "mew": {
     "dex_id": 151,
@@ -3165,7 +2914,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "chikorita": {
     "dex_id": 152,
@@ -3181,7 +2930,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "bayleef": {
     "dex_id": 153,
@@ -3197,23 +2946,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
-  },
-  "meganium": {
-    "dex_id": 154,
-    "type": [
-      "grass"
-    ],
-    "stats": [
-      80,
-      82,
-      100,
-      83,
-      100,
-      80
-    ],
-    "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 400
   },
   "cyndaquil": {
     "dex_id": 155,
@@ -3229,7 +2962,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "quilava": {
     "dex_id": 156,
@@ -3245,7 +2978,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "typhlosion": {
     "dex_id": 157,
@@ -3261,7 +2994,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "totodile": {
     "dex_id": 158,
@@ -3277,7 +3010,7 @@
       43
     ],
     "alt_form": false,
-    "speed_rank": 205
+    "speed_rank": 217
   },
   "croconaw": {
     "dex_id": 159,
@@ -3293,7 +3026,7 @@
       58
     ],
     "alt_form": false,
-    "speed_rank": 367
+    "speed_rank": 389
   },
   "feraligatr": {
     "dex_id": 160,
@@ -3309,7 +3042,7 @@
       78
     ],
     "alt_form": false,
-    "speed_rank": 592
+    "speed_rank": 630
   },
   "sentret": {
     "dex_id": 161,
@@ -3341,7 +3074,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "hoothoot": {
     "dex_id": 163,
@@ -3358,7 +3091,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "noctowl": {
     "dex_id": 164,
@@ -3375,7 +3108,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "ledyba": {
     "dex_id": 165,
@@ -3392,7 +3125,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "ledian": {
     "dex_id": 166,
@@ -3409,7 +3142,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "spinarak": {
     "dex_id": 167,
@@ -3426,7 +3159,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "ariados": {
     "dex_id": 168,
@@ -3443,7 +3176,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "crobat": {
     "dex_id": 169,
@@ -3460,7 +3193,7 @@
       130
     ],
     "alt_form": false,
-    "speed_rank": 875
+    "speed_rank": 955
   },
   "chinchou": {
     "dex_id": 170,
@@ -3477,7 +3210,7 @@
       67
     ],
     "alt_form": false,
-    "speed_rank": 492
+    "speed_rank": 520
   },
   "lanturn": {
     "dex_id": 171,
@@ -3494,7 +3227,7 @@
       67
     ],
     "alt_form": false,
-    "speed_rank": 492
+    "speed_rank": 520
   },
   "pichu": {
     "dex_id": 172,
@@ -3510,7 +3243,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "cleffa": {
     "dex_id": 173,
@@ -3576,7 +3309,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "natu": {
     "dex_id": 177,
@@ -3593,7 +3326,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "xatu": {
     "dex_id": 178,
@@ -3610,7 +3343,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "mareep": {
     "dex_id": 179,
@@ -3626,7 +3359,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "flaaffy": {
     "dex_id": 180,
@@ -3642,7 +3375,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "ampharos": {
     "dex_id": 181,
@@ -3658,24 +3391,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
-  },
-  "ampharos mega ampharos": {
-    "dex_id": 181,
-    "type": [
-      "dragon",
-      "electric"
-    ],
-    "stats": [
-      90,
-      95,
-      105,
-      165,
-      110,
-      45
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 346
   },
   "bellossom": {
     "dex_id": 182,
@@ -3691,7 +3407,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "marill": {
     "dex_id": 183,
@@ -3708,7 +3424,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "azumarill": {
     "dex_id": 184,
@@ -3725,7 +3441,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "sudowoodo": {
     "dex_id": 185,
@@ -3741,7 +3457,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "politoed": {
     "dex_id": 186,
@@ -3757,7 +3473,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "hoppip": {
     "dex_id": 187,
@@ -3774,7 +3490,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "skiploom": {
     "dex_id": 188,
@@ -3791,7 +3507,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "jumpluff": {
     "dex_id": 189,
@@ -3808,7 +3524,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
+    "speed_rank": 897
   },
   "aipom": {
     "dex_id": 190,
@@ -3824,7 +3540,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "sunkern": {
     "dex_id": 191,
@@ -3840,7 +3556,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "sunflora": {
     "dex_id": 192,
@@ -3856,7 +3572,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "yanma": {
     "dex_id": 193,
@@ -3873,7 +3589,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "wooper": {
     "dex_id": 194,
@@ -3907,7 +3623,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "espeon": {
     "dex_id": 196,
@@ -3923,7 +3639,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
+    "speed_rank": 897
   },
   "umbreon": {
     "dex_id": 197,
@@ -3939,7 +3655,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "murkrow": {
     "dex_id": 198,
@@ -3956,7 +3672,7 @@
       91
     ],
     "alt_form": false,
-    "speed_rank": 713
+    "speed_rank": 766
   },
   "slowking": {
     "dex_id": 199,
@@ -3973,7 +3689,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "misdreavus": {
     "dex_id": 200,
@@ -3989,7 +3705,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "unown": {
     "dex_id": 201,
@@ -4005,7 +3721,7 @@
       48
     ],
     "alt_form": false,
-    "speed_rank": 259
+    "speed_rank": 275
   },
   "wobbuffet": {
     "dex_id": 202,
@@ -4021,7 +3737,7 @@
       33
     ],
     "alt_form": false,
-    "speed_rank": 111
+    "speed_rank": 117
   },
   "girafarig": {
     "dex_id": 203,
@@ -4038,7 +3754,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "pineco": {
     "dex_id": 204,
@@ -4071,7 +3787,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "dunsparce": {
     "dex_id": 206,
@@ -4087,7 +3803,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "gligar": {
     "dex_id": 207,
@@ -4104,7 +3820,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "steelix": {
     "dex_id": 208,
@@ -4121,24 +3837,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
-  },
-  "steelix mega steelix": {
-    "dex_id": 208,
-    "type": [
-      "ground",
-      "steel"
-    ],
-    "stats": [
-      75,
-      125,
-      230,
-      55,
-      95,
-      30
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 65
   },
   "snubbull": {
     "dex_id": 209,
@@ -4154,7 +3853,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "granbull": {
     "dex_id": 210,
@@ -4170,7 +3869,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "qwilfish": {
     "dex_id": 211,
@@ -4187,7 +3886,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "scizor": {
     "dex_id": 212,
@@ -4204,24 +3903,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
-  },
-  "scizor mega scizor": {
-    "dex_id": 212,
-    "type": [
-      "bug",
-      "steel"
-    ],
-    "stats": [
-      70,
-      150,
-      140,
-      65,
-      100,
-      75
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 469
   },
   "shuckle": {
     "dex_id": 213,
@@ -4255,24 +3937,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
-  },
-  "heracross mega heracross": {
-    "dex_id": 214,
-    "type": [
-      "bug",
-      "fighting"
-    ],
-    "stats": [
-      80,
-      185,
-      115,
-      40,
-      105,
-      75
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 684
   },
   "sneasel": {
     "dex_id": 215,
@@ -4289,7 +3954,7 @@
       115
     ],
     "alt_form": false,
-    "speed_rank": 846
+    "speed_rank": 918
   },
   "teddiursa": {
     "dex_id": 216,
@@ -4305,7 +3970,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "ursaring": {
     "dex_id": 217,
@@ -4321,7 +3986,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "slugma": {
     "dex_id": 218,
@@ -4354,7 +4019,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "swinub": {
     "dex_id": 220,
@@ -4371,7 +4036,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "piloswine": {
     "dex_id": 221,
@@ -4388,7 +4053,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "corsola": {
     "dex_id": 222,
@@ -4405,7 +4070,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "corsola galarian corsola": {
     "dex_id": 222,
@@ -4421,7 +4086,7 @@
       30
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 65
   },
   "remoraid": {
     "dex_id": 223,
@@ -4437,7 +4102,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "octillery": {
     "dex_id": 224,
@@ -4453,7 +4118,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "delibird": {
     "dex_id": 225,
@@ -4470,7 +4135,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "mantine": {
     "dex_id": 226,
@@ -4487,7 +4152,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "skarmory": {
     "dex_id": 227,
@@ -4504,7 +4169,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "houndour": {
     "dex_id": 228,
@@ -4521,7 +4186,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "houndoom": {
     "dex_id": 229,
@@ -4538,24 +4203,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
-  },
-  "houndoom mega houndoom": {
-    "dex_id": 229,
-    "type": [
-      "dark",
-      "fire"
-    ],
-    "stats": [
-      75,
-      90,
-      90,
-      140,
-      90,
-      115
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 781
   },
   "kingdra": {
     "dex_id": 230,
@@ -4572,7 +4220,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "phanpy": {
     "dex_id": 231,
@@ -4588,7 +4236,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "donphan": {
     "dex_id": 232,
@@ -4604,7 +4252,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "porygon2": {
     "dex_id": 233,
@@ -4620,7 +4268,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "stantler": {
     "dex_id": 234,
@@ -4636,7 +4284,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "smeargle": {
     "dex_id": 235,
@@ -4652,7 +4300,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "tyrogue": {
     "dex_id": 236,
@@ -4668,7 +4316,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "hitmontop": {
     "dex_id": 237,
@@ -4684,7 +4332,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "smoochum": {
     "dex_id": 238,
@@ -4701,7 +4349,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "elekid": {
     "dex_id": 239,
@@ -4717,7 +4365,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "magby": {
     "dex_id": 240,
@@ -4733,7 +4381,7 @@
       83
     ],
     "alt_form": false,
-    "speed_rank": 637
+    "speed_rank": 676
   },
   "miltank": {
     "dex_id": 241,
@@ -4749,7 +4397,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "blissey": {
     "dex_id": 242,
@@ -4765,7 +4413,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "raikou": {
     "dex_id": 243,
@@ -4781,7 +4429,7 @@
       115
     ],
     "alt_form": false,
-    "speed_rank": 846
+    "speed_rank": 918
   },
   "entei": {
     "dex_id": 244,
@@ -4797,7 +4445,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "suicune": {
     "dex_id": 245,
@@ -4813,7 +4461,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "larvitar": {
     "dex_id": 246,
@@ -4830,7 +4478,7 @@
       41
     ],
     "alt_form": false,
-    "speed_rank": 194
+    "speed_rank": 205
   },
   "pupitar": {
     "dex_id": 247,
@@ -4847,7 +4495,7 @@
       51
     ],
     "alt_form": false,
-    "speed_rank": 319
+    "speed_rank": 337
   },
   "tyranitar": {
     "dex_id": 248,
@@ -4864,24 +4512,7 @@
       61
     ],
     "alt_form": false,
-    "speed_rank": 429
-  },
-  "tyranitar mega tyranitar": {
-    "dex_id": 248,
-    "type": [
-      "dark",
-      "rock"
-    ],
-    "stats": [
-      100,
-      164,
-      150,
-      95,
-      120,
-      71
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 455
   },
   "lugia": {
     "dex_id": 249,
@@ -4898,7 +4529,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
+    "speed_rank": 897
   },
   "ho-oh": {
     "dex_id": 250,
@@ -4915,7 +4546,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "celebi": {
     "dex_id": 251,
@@ -4932,7 +4563,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "treecko": {
     "dex_id": 252,
@@ -4948,7 +4579,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "grovyle": {
     "dex_id": 253,
@@ -4964,7 +4595,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "sceptile": {
     "dex_id": 254,
@@ -4980,24 +4611,7 @@
       120
     ],
     "alt_form": false,
-    "speed_rank": 859
-  },
-  "sceptile mega sceptile": {
-    "dex_id": 254,
-    "type": [
-      "dragon",
-      "grass"
-    ],
-    "stats": [
-      70,
-      110,
-      75,
-      145,
-      85,
-      145
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 933
   },
   "torchic": {
     "dex_id": 255,
@@ -5013,7 +4627,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "combusken": {
     "dex_id": 256,
@@ -5030,7 +4644,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "blaziken": {
     "dex_id": 257,
@@ -5047,24 +4661,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
-  },
-  "blaziken mega blaziken": {
-    "dex_id": 257,
-    "type": [
-      "fighting",
-      "fire"
-    ],
-    "stats": [
-      80,
-      160,
-      80,
-      130,
-      80,
-      100
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 636
   },
   "mudkip": {
     "dex_id": 258,
@@ -5080,7 +4677,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "marshtomp": {
     "dex_id": 259,
@@ -5097,7 +4694,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "swampert": {
     "dex_id": 260,
@@ -5114,24 +4711,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
-  },
-  "swampert mega swampert": {
-    "dex_id": 260,
-    "type": [
-      "ground",
-      "water"
-    ],
-    "stats": [
-      100,
-      150,
-      110,
-      95,
-      110,
-      70
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 400
   },
   "poochyena": {
     "dex_id": 261,
@@ -5147,7 +4727,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "mightyena": {
     "dex_id": 262,
@@ -5163,7 +4743,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "zigzagoon": {
     "dex_id": 263,
@@ -5179,7 +4759,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "zigzagoon galarian zigzagoon": {
     "dex_id": 263,
@@ -5196,7 +4776,7 @@
       60
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 400
   },
   "linoone": {
     "dex_id": 264,
@@ -5212,7 +4792,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "linoone galarian linoone": {
     "dex_id": 264,
@@ -5229,7 +4809,7 @@
       100
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 831
   },
   "wurmple": {
     "dex_id": 265,
@@ -5278,7 +4858,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "cascoon": {
     "dex_id": 268,
@@ -5311,7 +4891,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "lotad": {
     "dex_id": 270,
@@ -5328,7 +4908,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "lombre": {
     "dex_id": 271,
@@ -5345,7 +4925,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "ludicolo": {
     "dex_id": 272,
@@ -5362,7 +4942,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "seedot": {
     "dex_id": 273,
@@ -5378,7 +4958,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "nuzleaf": {
     "dex_id": 274,
@@ -5395,7 +4975,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "shiftry": {
     "dex_id": 275,
@@ -5412,7 +4992,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "taillow": {
     "dex_id": 276,
@@ -5429,7 +5009,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "swellow": {
     "dex_id": 277,
@@ -5446,7 +5026,7 @@
       125
     ],
     "alt_form": false,
-    "speed_rank": 869
+    "speed_rank": 946
   },
   "wingull": {
     "dex_id": 278,
@@ -5463,7 +5043,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "pelipper": {
     "dex_id": 279,
@@ -5480,7 +5060,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "ralts": {
     "dex_id": 280,
@@ -5497,7 +5077,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "kirlia": {
     "dex_id": 281,
@@ -5514,7 +5094,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "gardevoir": {
     "dex_id": 282,
@@ -5531,24 +5111,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
-  },
-  "gardevoir mega gardevoir": {
-    "dex_id": 282,
-    "type": [
-      "fairy",
-      "psychic"
-    ],
-    "stats": [
-      68,
-      85,
-      65,
-      165,
-      135,
-      100
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 636
   },
   "surskit": {
     "dex_id": 283,
@@ -5565,7 +5128,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "masquerain": {
     "dex_id": 284,
@@ -5582,7 +5145,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "shroomish": {
     "dex_id": 285,
@@ -5598,7 +5161,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "breloom": {
     "dex_id": 286,
@@ -5615,7 +5178,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "slakoth": {
     "dex_id": 287,
@@ -5631,7 +5194,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "vigoroth": {
     "dex_id": 288,
@@ -5647,7 +5210,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "slaking": {
     "dex_id": 289,
@@ -5663,7 +5226,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "nincada": {
     "dex_id": 290,
@@ -5680,7 +5243,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "ninjask": {
     "dex_id": 291,
@@ -5697,7 +5260,7 @@
       160
     ],
     "alt_form": false,
-    "speed_rank": 889
+    "speed_rank": 976
   },
   "shedinja": {
     "dex_id": 292,
@@ -5714,7 +5277,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "whismur": {
     "dex_id": 293,
@@ -5730,7 +5293,7 @@
       28
     ],
     "alt_form": false,
-    "speed_rank": 55
+    "speed_rank": 57
   },
   "loudred": {
     "dex_id": 294,
@@ -5746,7 +5309,7 @@
       48
     ],
     "alt_form": false,
-    "speed_rank": 259
+    "speed_rank": 275
   },
   "exploud": {
     "dex_id": 295,
@@ -5762,7 +5325,7 @@
       68
     ],
     "alt_form": false,
-    "speed_rank": 497
+    "speed_rank": 525
   },
   "makuhita": {
     "dex_id": 296,
@@ -5778,7 +5341,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "hariyama": {
     "dex_id": 297,
@@ -5794,7 +5357,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "azurill": {
     "dex_id": 298,
@@ -5827,7 +5390,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "skitty": {
     "dex_id": 300,
@@ -5843,7 +5406,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "delcatty": {
     "dex_id": 301,
@@ -5859,7 +5422,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "sableye": {
     "dex_id": 302,
@@ -5876,24 +5439,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
-  },
-  "sableye mega sableye": {
-    "dex_id": 302,
-    "type": [
-      "dark",
-      "ghost"
-    ],
-    "stats": [
-      50,
-      85,
-      125,
-      85,
-      115,
-      20
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 284
   },
   "mawile": {
     "dex_id": 303,
@@ -5910,24 +5456,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
-  },
-  "mawile mega mawile": {
-    "dex_id": 303,
-    "type": [
-      "fairy",
-      "steel"
-    ],
-    "stats": [
-      50,
-      105,
-      125,
-      55,
-      95,
-      50
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 284
   },
   "aron": {
     "dex_id": 304,
@@ -5944,7 +5473,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "lairon": {
     "dex_id": 305,
@@ -5961,7 +5490,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "aggron": {
     "dex_id": 306,
@@ -5978,23 +5507,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
-  },
-  "aggron mega aggron": {
-    "dex_id": 306,
-    "type": [
-      "steel"
-    ],
-    "stats": [
-      70,
-      140,
-      230,
-      60,
-      80,
-      50
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 284
   },
   "meditite": {
     "dex_id": 307,
@@ -6011,7 +5524,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "medicham": {
     "dex_id": 308,
@@ -6028,24 +5541,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
-  },
-  "medicham mega medicham": {
-    "dex_id": 308,
-    "type": [
-      "fighting",
-      "psychic"
-    ],
-    "stats": [
-      60,
-      100,
-      85,
-      80,
-      85,
-      100
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 636
   },
   "electrike": {
     "dex_id": 309,
@@ -6061,7 +5557,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "manectric": {
     "dex_id": 310,
@@ -6077,23 +5573,7 @@
       105
     ],
     "alt_form": false,
-    "speed_rank": 806
-  },
-  "manectric mega manectric": {
-    "dex_id": 310,
-    "type": [
-      "electric"
-    ],
-    "stats": [
-      70,
-      75,
-      80,
-      135,
-      80,
-      135
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 872
   },
   "plusle": {
     "dex_id": 311,
@@ -6109,7 +5589,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "minun": {
     "dex_id": 312,
@@ -6125,7 +5605,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "volbeat": {
     "dex_id": 313,
@@ -6141,7 +5621,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "illumise": {
     "dex_id": 314,
@@ -6157,7 +5637,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "roselia": {
     "dex_id": 315,
@@ -6174,7 +5654,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "gulpin": {
     "dex_id": 316,
@@ -6190,7 +5670,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "swalot": {
     "dex_id": 317,
@@ -6206,7 +5686,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "carvanha": {
     "dex_id": 318,
@@ -6223,7 +5703,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "sharpedo": {
     "dex_id": 319,
@@ -6240,24 +5720,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
-  },
-  "sharpedo mega sharpedo": {
-    "dex_id": 319,
-    "type": [
-      "dark",
-      "water"
-    ],
-    "stats": [
-      70,
-      140,
-      70,
-      110,
-      65,
-      105
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 781
   },
   "wailmer": {
     "dex_id": 320,
@@ -6273,7 +5736,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "wailord": {
     "dex_id": 321,
@@ -6289,7 +5752,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "numel": {
     "dex_id": 322,
@@ -6306,7 +5769,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "camerupt": {
     "dex_id": 323,
@@ -6323,24 +5786,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
-  },
-  "camerupt mega camerupt": {
-    "dex_id": 323,
-    "type": [
-      "fire",
-      "ground"
-    ],
-    "stats": [
-      70,
-      120,
-      100,
-      145,
-      105,
-      20
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 165
   },
   "torkoal": {
     "dex_id": 324,
@@ -6372,7 +5818,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "grumpig": {
     "dex_id": 326,
@@ -6388,7 +5834,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "spinda": {
     "dex_id": 327,
@@ -6404,7 +5850,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "trapinch": {
     "dex_id": 328,
@@ -6437,7 +5883,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "flygon": {
     "dex_id": 330,
@@ -6454,7 +5900,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "cacnea": {
     "dex_id": 331,
@@ -6470,7 +5916,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "cacturne": {
     "dex_id": 332,
@@ -6487,7 +5933,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "swablu": {
     "dex_id": 333,
@@ -6504,7 +5950,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "altaria": {
     "dex_id": 334,
@@ -6521,24 +5967,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
-  },
-  "altaria mega altaria": {
-    "dex_id": 334,
-    "type": [
-      "dragon",
-      "fairy"
-    ],
-    "stats": [
-      75,
-      110,
-      110,
-      110,
-      105,
-      80
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 636
   },
   "zangoose": {
     "dex_id": 335,
@@ -6554,7 +5983,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "seviper": {
     "dex_id": 336,
@@ -6570,7 +5999,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "lunatone": {
     "dex_id": 337,
@@ -6587,7 +6016,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "solrock": {
     "dex_id": 338,
@@ -6604,7 +6033,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "barboach": {
     "dex_id": 339,
@@ -6621,7 +6050,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "whiscash": {
     "dex_id": 340,
@@ -6638,7 +6067,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "corphish": {
     "dex_id": 341,
@@ -6654,7 +6083,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "crawdaunt": {
     "dex_id": 342,
@@ -6671,7 +6100,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "baltoy": {
     "dex_id": 343,
@@ -6688,7 +6117,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "claydol": {
     "dex_id": 344,
@@ -6705,7 +6134,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "lileep": {
     "dex_id": 345,
@@ -6722,7 +6151,7 @@
       23
     ],
     "alt_form": false,
-    "speed_rank": 37
+    "speed_rank": 38
   },
   "cradily": {
     "dex_id": 346,
@@ -6739,7 +6168,7 @@
       43
     ],
     "alt_form": false,
-    "speed_rank": 205
+    "speed_rank": 217
   },
   "anorith": {
     "dex_id": 347,
@@ -6756,7 +6185,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "armaldo": {
     "dex_id": 348,
@@ -6773,7 +6202,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "feebas": {
     "dex_id": 349,
@@ -6789,7 +6218,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "milotic": {
     "dex_id": 350,
@@ -6805,7 +6234,7 @@
       81
     ],
     "alt_form": false,
-    "speed_rank": 632
+    "speed_rank": 670
   },
   "castform": {
     "dex_id": 351,
@@ -6821,7 +6250,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "castform sunny form": {
     "dex_id": 351,
@@ -6837,7 +6266,7 @@
       70
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 534
   },
   "castform rainy form": {
     "dex_id": 351,
@@ -6853,7 +6282,7 @@
       70
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 534
   },
   "castform snowy form": {
     "dex_id": 351,
@@ -6869,7 +6298,7 @@
       70
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 534
   },
   "kecleon": {
     "dex_id": 352,
@@ -6885,7 +6314,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "shuppet": {
     "dex_id": 353,
@@ -6901,7 +6330,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "banette": {
     "dex_id": 354,
@@ -6917,23 +6346,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
-  },
-  "banette mega banette": {
-    "dex_id": 354,
-    "type": [
-      "ghost"
-    ],
-    "stats": [
-      64,
-      165,
-      75,
-      93,
-      83,
-      75
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 469
   },
   "duskull": {
     "dex_id": 355,
@@ -6949,7 +6362,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "dusclops": {
     "dex_id": 356,
@@ -6965,7 +6378,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "tropius": {
     "dex_id": 357,
@@ -6982,7 +6395,7 @@
       51
     ],
     "alt_form": false,
-    "speed_rank": 319
+    "speed_rank": 337
   },
   "chimecho": {
     "dex_id": 358,
@@ -6998,7 +6411,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "absol": {
     "dex_id": 359,
@@ -7014,23 +6427,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
-  },
-  "absol mega absol": {
-    "dex_id": 359,
-    "type": [
-      "dark"
-    ],
-    "stats": [
-      65,
-      150,
-      60,
-      115,
-      60,
-      115
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 599
   },
   "wynaut": {
     "dex_id": 360,
@@ -7046,7 +6443,7 @@
       23
     ],
     "alt_form": false,
-    "speed_rank": 37
+    "speed_rank": 38
   },
   "snorunt": {
     "dex_id": 361,
@@ -7062,7 +6459,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "glalie": {
     "dex_id": 362,
@@ -7078,23 +6475,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
-  },
-  "glalie mega glalie": {
-    "dex_id": 362,
-    "type": [
-      "ice"
-    ],
-    "stats": [
-      80,
-      120,
-      80,
-      120,
-      80,
-      100
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 636
   },
   "spheal": {
     "dex_id": 363,
@@ -7111,7 +6492,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "sealeo": {
     "dex_id": 364,
@@ -7128,7 +6509,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "walrein": {
     "dex_id": 365,
@@ -7145,7 +6526,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "clamperl": {
     "dex_id": 366,
@@ -7161,7 +6542,7 @@
       32
     ],
     "alt_form": false,
-    "speed_rank": 105
+    "speed_rank": 110
   },
   "huntail": {
     "dex_id": 367,
@@ -7177,7 +6558,7 @@
       52
     ],
     "alt_form": false,
-    "speed_rank": 322
+    "speed_rank": 340
   },
   "gorebyss": {
     "dex_id": 368,
@@ -7193,7 +6574,7 @@
       52
     ],
     "alt_form": false,
-    "speed_rank": 322
+    "speed_rank": 340
   },
   "relicanth": {
     "dex_id": 369,
@@ -7210,7 +6591,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "luvdisc": {
     "dex_id": 370,
@@ -7226,7 +6607,7 @@
       97
     ],
     "alt_form": false,
-    "speed_rank": 755
+    "speed_rank": 814
   },
   "bagon": {
     "dex_id": 371,
@@ -7242,7 +6623,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "shelgon": {
     "dex_id": 372,
@@ -7258,7 +6639,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "salamence": {
     "dex_id": 373,
@@ -7275,24 +6656,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
-  },
-  "salamence mega salamence": {
-    "dex_id": 373,
-    "type": [
-      "dragon",
-      "flying"
-    ],
-    "stats": [
-      95,
-      145,
-      130,
-      120,
-      90,
-      120
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 831
   },
   "beldum": {
     "dex_id": 374,
@@ -7309,7 +6673,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "metang": {
     "dex_id": 375,
@@ -7326,7 +6690,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "metagross": {
     "dex_id": 376,
@@ -7343,24 +6707,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
-  },
-  "metagross mega metagross": {
-    "dex_id": 376,
-    "type": [
-      "psychic",
-      "steel"
-    ],
-    "stats": [
-      80,
-      145,
-      150,
-      105,
-      110,
-      110
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 534
   },
   "regirock": {
     "dex_id": 377,
@@ -7376,7 +6723,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "regice": {
     "dex_id": 378,
@@ -7392,7 +6739,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "registeel": {
     "dex_id": 379,
@@ -7408,7 +6755,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "latias": {
     "dex_id": 380,
@@ -7425,24 +6772,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
-  },
-  "latias mega latias": {
-    "dex_id": 380,
-    "type": [
-      "dragon",
-      "psychic"
-    ],
-    "stats": [
-      80,
-      100,
-      120,
-      140,
-      150,
-      110
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 897
   },
   "latios": {
     "dex_id": 381,
@@ -7459,24 +6789,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
-  },
-  "latios mega latios": {
-    "dex_id": 381,
-    "type": [
-      "dragon",
-      "psychic"
-    ],
-    "stats": [
-      80,
-      130,
-      100,
-      160,
-      120,
-      110
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 897
   },
   "kyogre": {
     "dex_id": 382,
@@ -7492,7 +6805,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "kyogre primal kyogre": {
     "dex_id": 382,
@@ -7508,7 +6821,7 @@
       90
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 727
   },
   "groudon": {
     "dex_id": 383,
@@ -7524,7 +6837,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "groudon primal groudon": {
     "dex_id": 383,
@@ -7541,7 +6854,7 @@
       90
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 727
   },
   "rayquaza": {
     "dex_id": 384,
@@ -7558,24 +6871,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
-  },
-  "rayquaza mega rayquaza": {
-    "dex_id": 384,
-    "type": [
-      "dragon",
-      "flying"
-    ],
-    "stats": [
-      105,
-      180,
-      100,
-      180,
-      100,
-      115
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 781
   },
   "jirachi": {
     "dex_id": 385,
@@ -7592,7 +6888,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "deoxys normal forme": {
     "dex_id": 386,
@@ -7608,7 +6904,7 @@
       150
     ],
     "alt_form": false,
-    "speed_rank": 886
+    "speed_rank": 972
   },
   "deoxys attack forme": {
     "dex_id": 386,
@@ -7624,7 +6920,7 @@
       150
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 972
   },
   "deoxys defense forme": {
     "dex_id": 386,
@@ -7640,7 +6936,7 @@
       90
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 727
   },
   "deoxys speed forme": {
     "dex_id": 386,
@@ -7656,7 +6952,7 @@
       180
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 977
   },
   "turtwig": {
     "dex_id": 387,
@@ -7672,7 +6968,7 @@
       31
     ],
     "alt_form": false,
-    "speed_rank": 103
+    "speed_rank": 108
   },
   "grotle": {
     "dex_id": 388,
@@ -7688,7 +6984,7 @@
       36
     ],
     "alt_form": false,
-    "speed_rank": 143
+    "speed_rank": 150
   },
   "torterra": {
     "dex_id": 389,
@@ -7705,7 +7001,7 @@
       56
     ],
     "alt_form": false,
-    "speed_rank": 358
+    "speed_rank": 379
   },
   "chimchar": {
     "dex_id": 390,
@@ -7721,7 +7017,7 @@
       61
     ],
     "alt_form": false,
-    "speed_rank": 429
+    "speed_rank": 455
   },
   "monferno": {
     "dex_id": 391,
@@ -7738,7 +7034,7 @@
       81
     ],
     "alt_form": false,
-    "speed_rank": 632
+    "speed_rank": 670
   },
   "infernape": {
     "dex_id": 392,
@@ -7755,7 +7051,7 @@
       108
     ],
     "alt_form": false,
-    "speed_rank": 819
+    "speed_rank": 886
   },
   "piplup": {
     "dex_id": 393,
@@ -7771,7 +7067,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "prinplup": {
     "dex_id": 394,
@@ -7787,7 +7083,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "empoleon": {
     "dex_id": 395,
@@ -7804,7 +7100,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "starly": {
     "dex_id": 396,
@@ -7821,7 +7117,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "staravia": {
     "dex_id": 397,
@@ -7838,7 +7134,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "staraptor": {
     "dex_id": 398,
@@ -7855,7 +7151,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "bidoof": {
     "dex_id": 399,
@@ -7871,7 +7167,7 @@
       31
     ],
     "alt_form": false,
-    "speed_rank": 103
+    "speed_rank": 108
   },
   "bibarel": {
     "dex_id": 400,
@@ -7888,7 +7184,7 @@
       71
     ],
     "alt_form": false,
-    "speed_rank": 548
+    "speed_rank": 580
   },
   "kricketot": {
     "dex_id": 401,
@@ -7904,7 +7200,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "kricketune": {
     "dex_id": 402,
@@ -7920,7 +7216,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "shinx": {
     "dex_id": 403,
@@ -7936,7 +7232,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "luxio": {
     "dex_id": 404,
@@ -7952,7 +7248,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "luxray": {
     "dex_id": 405,
@@ -7968,7 +7264,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "budew": {
     "dex_id": 406,
@@ -7985,7 +7281,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "roserade": {
     "dex_id": 407,
@@ -8002,7 +7298,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "cranidos": {
     "dex_id": 408,
@@ -8018,7 +7314,7 @@
       58
     ],
     "alt_form": false,
-    "speed_rank": 367
+    "speed_rank": 389
   },
   "rampardos": {
     "dex_id": 409,
@@ -8034,7 +7330,7 @@
       58
     ],
     "alt_form": false,
-    "speed_rank": 367
+    "speed_rank": 389
   },
   "shieldon": {
     "dex_id": 410,
@@ -8051,7 +7347,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "bastiodon": {
     "dex_id": 411,
@@ -8068,7 +7364,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "burmy": {
     "dex_id": 412,
@@ -8084,7 +7380,7 @@
       36
     ],
     "alt_form": false,
-    "speed_rank": 143
+    "speed_rank": 150
   },
   "wormadam plant cloak": {
     "dex_id": 413,
@@ -8101,7 +7397,7 @@
       36
     ],
     "alt_form": false,
-    "speed_rank": 143
+    "speed_rank": 150
   },
   "wormadam sandy cloak": {
     "dex_id": 413,
@@ -8118,7 +7414,7 @@
       36
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 150
   },
   "wormadam trash cloak": {
     "dex_id": 413,
@@ -8135,7 +7431,7 @@
       36
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 150
   },
   "mothim": {
     "dex_id": 414,
@@ -8152,7 +7448,7 @@
       66
     ],
     "alt_form": false,
-    "speed_rank": 487
+    "speed_rank": 515
   },
   "combee": {
     "dex_id": 415,
@@ -8169,7 +7465,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "vespiquen": {
     "dex_id": 416,
@@ -8186,7 +7482,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "pachirisu": {
     "dex_id": 417,
@@ -8202,7 +7498,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "buizel": {
     "dex_id": 418,
@@ -8218,7 +7514,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "floatzel": {
     "dex_id": 419,
@@ -8234,7 +7530,7 @@
       115
     ],
     "alt_form": false,
-    "speed_rank": 846
+    "speed_rank": 918
   },
   "cherubi": {
     "dex_id": 420,
@@ -8250,7 +7546,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "cherrim": {
     "dex_id": 421,
@@ -8266,7 +7562,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "shellos": {
     "dex_id": 422,
@@ -8282,7 +7578,7 @@
       34
     ],
     "alt_form": false,
-    "speed_rank": 113
+    "speed_rank": 119
   },
   "gastrodon": {
     "dex_id": 423,
@@ -8299,7 +7595,7 @@
       39
     ],
     "alt_form": false,
-    "speed_rank": 154
+    "speed_rank": 163
   },
   "ambipom": {
     "dex_id": 424,
@@ -8315,7 +7611,7 @@
       115
     ],
     "alt_form": false,
-    "speed_rank": 846
+    "speed_rank": 918
   },
   "drifloon": {
     "dex_id": 425,
@@ -8332,7 +7628,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "drifblim": {
     "dex_id": 426,
@@ -8349,7 +7645,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "buneary": {
     "dex_id": 427,
@@ -8365,7 +7661,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "lopunny": {
     "dex_id": 428,
@@ -8381,24 +7677,7 @@
       105
     ],
     "alt_form": false,
-    "speed_rank": 806
-  },
-  "lopunny mega lopunny": {
-    "dex_id": 428,
-    "type": [
-      "fighting",
-      "normal"
-    ],
-    "stats": [
-      65,
-      136,
-      94,
-      54,
-      96,
-      135
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 872
   },
   "mismagius": {
     "dex_id": 429,
@@ -8414,7 +7693,7 @@
       105
     ],
     "alt_form": false,
-    "speed_rank": 806
+    "speed_rank": 872
   },
   "honchkrow": {
     "dex_id": 430,
@@ -8431,7 +7710,7 @@
       71
     ],
     "alt_form": false,
-    "speed_rank": 548
+    "speed_rank": 580
   },
   "glameow": {
     "dex_id": 431,
@@ -8447,7 +7726,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "purugly": {
     "dex_id": 432,
@@ -8463,7 +7742,7 @@
       112
     ],
     "alt_form": false,
-    "speed_rank": 841
+    "speed_rank": 913
   },
   "chingling": {
     "dex_id": 433,
@@ -8479,7 +7758,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "stunky": {
     "dex_id": 434,
@@ -8496,7 +7775,7 @@
       74
     ],
     "alt_form": false,
-    "speed_rank": 562
+    "speed_rank": 595
   },
   "skuntank": {
     "dex_id": 435,
@@ -8513,7 +7792,7 @@
       84
     ],
     "alt_form": false,
-    "speed_rank": 641
+    "speed_rank": 680
   },
   "bronzor": {
     "dex_id": 436,
@@ -8530,7 +7809,7 @@
       23
     ],
     "alt_form": false,
-    "speed_rank": 37
+    "speed_rank": 38
   },
   "bronzong": {
     "dex_id": 437,
@@ -8547,7 +7826,7 @@
       33
     ],
     "alt_form": false,
-    "speed_rank": 111
+    "speed_rank": 117
   },
   "bonsly": {
     "dex_id": 438,
@@ -8580,7 +7859,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "happiny": {
     "dex_id": 440,
@@ -8596,7 +7875,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "chatot": {
     "dex_id": 441,
@@ -8613,7 +7892,7 @@
       91
     ],
     "alt_form": false,
-    "speed_rank": 713
+    "speed_rank": 766
   },
   "spiritomb": {
     "dex_id": 442,
@@ -8630,7 +7909,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "gible": {
     "dex_id": 443,
@@ -8647,7 +7926,7 @@
       42
     ],
     "alt_form": false,
-    "speed_rank": 196
+    "speed_rank": 208
   },
   "gabite": {
     "dex_id": 444,
@@ -8664,7 +7943,7 @@
       82
     ],
     "alt_form": false,
-    "speed_rank": 635
+    "speed_rank": 673
   },
   "garchomp": {
     "dex_id": 445,
@@ -8681,24 +7960,7 @@
       102
     ],
     "alt_form": false,
-    "speed_rank": 799
-  },
-  "garchomp mega garchomp": {
-    "dex_id": 445,
-    "type": [
-      "dragon",
-      "ground"
-    ],
-    "stats": [
-      108,
-      170,
-      115,
-      120,
-      95,
-      92
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 864
   },
   "munchlax": {
     "dex_id": 446,
@@ -8730,7 +7992,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "lucario": {
     "dex_id": 448,
@@ -8747,24 +8009,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
-  },
-  "lucario mega lucario": {
-    "dex_id": 448,
-    "type": [
-      "fighting",
-      "steel"
-    ],
-    "stats": [
-      70,
-      145,
-      88,
-      140,
-      70,
-      112
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 727
   },
   "hippopotas": {
     "dex_id": 449,
@@ -8780,7 +8025,7 @@
       32
     ],
     "alt_form": false,
-    "speed_rank": 105
+    "speed_rank": 110
   },
   "hippowdon": {
     "dex_id": 450,
@@ -8796,7 +8041,7 @@
       47
     ],
     "alt_form": false,
-    "speed_rank": 257
+    "speed_rank": 273
   },
   "skorupi": {
     "dex_id": 451,
@@ -8813,7 +8058,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "drapion": {
     "dex_id": 452,
@@ -8830,7 +8075,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "croagunk": {
     "dex_id": 453,
@@ -8847,7 +8092,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "toxicroak": {
     "dex_id": 454,
@@ -8864,7 +8109,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "carnivine": {
     "dex_id": 455,
@@ -8880,7 +8125,7 @@
       46
     ],
     "alt_form": false,
-    "speed_rank": 253
+    "speed_rank": 268
   },
   "finneon": {
     "dex_id": 456,
@@ -8896,7 +8141,7 @@
       66
     ],
     "alt_form": false,
-    "speed_rank": 487
+    "speed_rank": 515
   },
   "lumineon": {
     "dex_id": 457,
@@ -8912,7 +8157,7 @@
       91
     ],
     "alt_form": false,
-    "speed_rank": 713
+    "speed_rank": 766
   },
   "mantyke": {
     "dex_id": 458,
@@ -8929,7 +8174,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "snover": {
     "dex_id": 459,
@@ -8946,7 +8191,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "abomasnow": {
     "dex_id": 460,
@@ -8963,24 +8208,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
-  },
-  "abomasnow mega abomasnow": {
-    "dex_id": 460,
-    "type": [
-      "grass",
-      "ice"
-    ],
-    "stats": [
-      90,
-      132,
-      105,
-      132,
-      105,
-      30
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 400
   },
   "weavile": {
     "dex_id": 461,
@@ -8997,7 +8225,7 @@
       125
     ],
     "alt_form": false,
-    "speed_rank": 869
+    "speed_rank": 946
   },
   "magnezone": {
     "dex_id": 462,
@@ -9014,7 +8242,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "lickilicky": {
     "dex_id": 463,
@@ -9030,7 +8258,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "rhyperior": {
     "dex_id": 464,
@@ -9047,7 +8275,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "tangrowth": {
     "dex_id": 465,
@@ -9063,7 +8291,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "electivire": {
     "dex_id": 466,
@@ -9079,7 +8307,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "magmortar": {
     "dex_id": 467,
@@ -9095,7 +8323,7 @@
       83
     ],
     "alt_form": false,
-    "speed_rank": 637
+    "speed_rank": 676
   },
   "togekiss": {
     "dex_id": 468,
@@ -9112,24 +8340,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
-  },
-  "yanmega": {
-    "dex_id": 469,
-    "type": [
-      "bug",
-      "flying"
-    ],
-    "stats": [
-      86,
-      76,
-      86,
-      116,
-      56,
-      95
-    ],
-    "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 636
   },
   "leafeon": {
     "dex_id": 470,
@@ -9145,7 +8356,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "glaceon": {
     "dex_id": 471,
@@ -9161,7 +8372,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "gliscor": {
     "dex_id": 472,
@@ -9178,7 +8389,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "mamoswine": {
     "dex_id": 473,
@@ -9195,7 +8406,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "porygon-z": {
     "dex_id": 474,
@@ -9211,7 +8422,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "gallade": {
     "dex_id": 475,
@@ -9228,24 +8439,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
-  },
-  "gallade mega gallade": {
-    "dex_id": 475,
-    "type": [
-      "fighting",
-      "psychic"
-    ],
-    "stats": [
-      68,
-      165,
-      95,
-      65,
-      115,
-      110
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 636
   },
   "probopass": {
     "dex_id": 476,
@@ -9262,7 +8456,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "dusknoir": {
     "dex_id": 477,
@@ -9278,7 +8472,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "froslass": {
     "dex_id": 478,
@@ -9295,7 +8489,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
+    "speed_rank": 897
   },
   "rotom": {
     "dex_id": 479,
@@ -9312,7 +8506,7 @@
       91
     ],
     "alt_form": false,
-    "speed_rank": 713
+    "speed_rank": 766
   },
   "rotom heat rotom": {
     "dex_id": 479,
@@ -9329,7 +8523,7 @@
       86
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 718
   },
   "rotom wash rotom": {
     "dex_id": 479,
@@ -9346,7 +8540,7 @@
       86
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 718
   },
   "rotom frost rotom": {
     "dex_id": 479,
@@ -9363,7 +8557,7 @@
       86
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 718
   },
   "rotom fan rotom": {
     "dex_id": 479,
@@ -9380,7 +8574,7 @@
       86
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 718
   },
   "rotom mow rotom": {
     "dex_id": 479,
@@ -9397,7 +8591,7 @@
       86
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 718
   },
   "uxie": {
     "dex_id": 480,
@@ -9413,7 +8607,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "mesprit": {
     "dex_id": 481,
@@ -9429,7 +8623,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "azelf": {
     "dex_id": 482,
@@ -9445,7 +8639,7 @@
       115
     ],
     "alt_form": false,
-    "speed_rank": 846
+    "speed_rank": 918
   },
   "dialga": {
     "dex_id": 483,
@@ -9462,7 +8656,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "palkia": {
     "dex_id": 484,
@@ -9479,7 +8673,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "heatran": {
     "dex_id": 485,
@@ -9496,7 +8690,7 @@
       77
     ],
     "alt_form": false,
-    "speed_rank": 588
+    "speed_rank": 623
   },
   "regigigas": {
     "dex_id": 486,
@@ -9512,7 +8706,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "giratina altered forme": {
     "dex_id": 487,
@@ -9529,7 +8723,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "giratina origin forme": {
     "dex_id": 487,
@@ -9546,7 +8740,7 @@
       90
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 727
   },
   "cresselia": {
     "dex_id": 488,
@@ -9562,7 +8756,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "phione": {
     "dex_id": 489,
@@ -9578,7 +8772,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "manaphy": {
     "dex_id": 490,
@@ -9594,7 +8788,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "darkrai": {
     "dex_id": 491,
@@ -9610,7 +8804,7 @@
       125
     ],
     "alt_form": false,
-    "speed_rank": 869
+    "speed_rank": 946
   },
   "shaymin land forme": {
     "dex_id": 492,
@@ -9626,7 +8820,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "shaymin sky forme": {
     "dex_id": 492,
@@ -9643,7 +8837,7 @@
       127
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 951
   },
   "arceus": {
     "dex_id": 493,
@@ -9659,7 +8853,7 @@
       120
     ],
     "alt_form": false,
-    "speed_rank": 859
+    "speed_rank": 933
   },
   "victini": {
     "dex_id": 494,
@@ -9676,7 +8870,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "snivy": {
     "dex_id": 495,
@@ -9692,7 +8886,7 @@
       63
     ],
     "alt_form": false,
-    "speed_rank": 434
+    "speed_rank": 460
   },
   "servine": {
     "dex_id": 496,
@@ -9708,7 +8902,7 @@
       83
     ],
     "alt_form": false,
-    "speed_rank": 637
+    "speed_rank": 676
   },
   "serperior": {
     "dex_id": 497,
@@ -9724,7 +8918,7 @@
       113
     ],
     "alt_form": false,
-    "speed_rank": 844
+    "speed_rank": 916
   },
   "tepig": {
     "dex_id": 498,
@@ -9740,7 +8934,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "pignite": {
     "dex_id": 499,
@@ -9757,7 +8951,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "emboar": {
     "dex_id": 500,
@@ -9774,7 +8968,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "oshawott": {
     "dex_id": 501,
@@ -9790,7 +8984,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "dewott": {
     "dex_id": 502,
@@ -9806,7 +9000,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "samurott": {
     "dex_id": 503,
@@ -9822,7 +9016,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "patrat": {
     "dex_id": 504,
@@ -9838,7 +9032,7 @@
       42
     ],
     "alt_form": false,
-    "speed_rank": 196
+    "speed_rank": 208
   },
   "watchog": {
     "dex_id": 505,
@@ -9854,7 +9048,7 @@
       77
     ],
     "alt_form": false,
-    "speed_rank": 588
+    "speed_rank": 623
   },
   "lillipup": {
     "dex_id": 506,
@@ -9870,7 +9064,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "herdier": {
     "dex_id": 507,
@@ -9886,7 +9080,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "stoutland": {
     "dex_id": 508,
@@ -9902,7 +9096,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "purrloin": {
     "dex_id": 509,
@@ -9918,7 +9112,7 @@
       66
     ],
     "alt_form": false,
-    "speed_rank": 487
+    "speed_rank": 515
   },
   "liepard": {
     "dex_id": 510,
@@ -9934,7 +9128,7 @@
       106
     ],
     "alt_form": false,
-    "speed_rank": 816
+    "speed_rank": 883
   },
   "pansage": {
     "dex_id": 511,
@@ -9950,7 +9144,7 @@
       64
     ],
     "alt_form": false,
-    "speed_rank": 437
+    "speed_rank": 463
   },
   "simisage": {
     "dex_id": 512,
@@ -9966,7 +9160,7 @@
       101
     ],
     "alt_form": false,
-    "speed_rank": 793
+    "speed_rank": 857
   },
   "pansear": {
     "dex_id": 513,
@@ -9982,7 +9176,7 @@
       64
     ],
     "alt_form": false,
-    "speed_rank": 437
+    "speed_rank": 463
   },
   "simisear": {
     "dex_id": 514,
@@ -9998,7 +9192,7 @@
       101
     ],
     "alt_form": false,
-    "speed_rank": 793
+    "speed_rank": 857
   },
   "panpour": {
     "dex_id": 515,
@@ -10014,7 +9208,7 @@
       64
     ],
     "alt_form": false,
-    "speed_rank": 437
+    "speed_rank": 463
   },
   "simipour": {
     "dex_id": 516,
@@ -10030,7 +9224,7 @@
       101
     ],
     "alt_form": false,
-    "speed_rank": 793
+    "speed_rank": 857
   },
   "munna": {
     "dex_id": 517,
@@ -10046,7 +9240,7 @@
       24
     ],
     "alt_form": false,
-    "speed_rank": 41
+    "speed_rank": 42
   },
   "musharna": {
     "dex_id": 518,
@@ -10062,7 +9256,7 @@
       29
     ],
     "alt_form": false,
-    "speed_rank": 59
+    "speed_rank": 61
   },
   "pidove": {
     "dex_id": 519,
@@ -10079,7 +9273,7 @@
       43
     ],
     "alt_form": false,
-    "speed_rank": 205
+    "speed_rank": 217
   },
   "tranquill": {
     "dex_id": 520,
@@ -10096,7 +9290,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "unfezant": {
     "dex_id": 521,
@@ -10113,7 +9307,7 @@
       93
     ],
     "alt_form": false,
-    "speed_rank": 720
+    "speed_rank": 774
   },
   "blitzle": {
     "dex_id": 522,
@@ -10129,7 +9323,7 @@
       76
     ],
     "alt_form": false,
-    "speed_rank": 585
+    "speed_rank": 620
   },
   "zebstrika": {
     "dex_id": 523,
@@ -10145,7 +9339,7 @@
       116
     ],
     "alt_form": false,
-    "speed_rank": 854
+    "speed_rank": 928
   },
   "roggenrola": {
     "dex_id": 524,
@@ -10193,7 +9387,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "woobat": {
     "dex_id": 527,
@@ -10210,7 +9404,7 @@
       72
     ],
     "alt_form": false,
-    "speed_rank": 554
+    "speed_rank": 586
   },
   "swoobat": {
     "dex_id": 528,
@@ -10227,7 +9421,7 @@
       114
     ],
     "alt_form": false,
-    "speed_rank": 845
+    "speed_rank": 917
   },
   "drilbur": {
     "dex_id": 529,
@@ -10243,7 +9437,7 @@
       68
     ],
     "alt_form": false,
-    "speed_rank": 497
+    "speed_rank": 525
   },
   "excadrill": {
     "dex_id": 530,
@@ -10260,7 +9454,7 @@
       88
     ],
     "alt_form": false,
-    "speed_rank": 678
+    "speed_rank": 724
   },
   "audino": {
     "dex_id": 531,
@@ -10276,24 +9470,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
-  },
-  "audino mega audino": {
-    "dex_id": 531,
-    "type": [
-      "fairy",
-      "normal"
-    ],
-    "stats": [
-      103,
-      60,
-      126,
-      80,
-      126,
-      50
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 284
   },
   "timburr": {
     "dex_id": 532,
@@ -10309,7 +9486,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "gurdurr": {
     "dex_id": 533,
@@ -10325,7 +9502,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "conkeldurr": {
     "dex_id": 534,
@@ -10341,7 +9518,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "tympole": {
     "dex_id": 535,
@@ -10357,7 +9534,7 @@
       64
     ],
     "alt_form": false,
-    "speed_rank": 437
+    "speed_rank": 463
   },
   "palpitoad": {
     "dex_id": 536,
@@ -10374,7 +9551,7 @@
       69
     ],
     "alt_form": false,
-    "speed_rank": 503
+    "speed_rank": 531
   },
   "seismitoad": {
     "dex_id": 537,
@@ -10391,7 +9568,7 @@
       74
     ],
     "alt_form": false,
-    "speed_rank": 562
+    "speed_rank": 595
   },
   "throh": {
     "dex_id": 538,
@@ -10407,7 +9584,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "sawk": {
     "dex_id": 539,
@@ -10423,7 +9600,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "sewaddle": {
     "dex_id": 540,
@@ -10440,7 +9617,7 @@
       42
     ],
     "alt_form": false,
-    "speed_rank": 196
+    "speed_rank": 208
   },
   "swadloon": {
     "dex_id": 541,
@@ -10457,7 +9634,7 @@
       42
     ],
     "alt_form": false,
-    "speed_rank": 196
+    "speed_rank": 208
   },
   "leavanny": {
     "dex_id": 542,
@@ -10474,7 +9651,7 @@
       92
     ],
     "alt_form": false,
-    "speed_rank": 717
+    "speed_rank": 771
   },
   "venipede": {
     "dex_id": 543,
@@ -10491,7 +9668,7 @@
       57
     ],
     "alt_form": false,
-    "speed_rank": 362
+    "speed_rank": 384
   },
   "whirlipede": {
     "dex_id": 544,
@@ -10508,7 +9685,7 @@
       47
     ],
     "alt_form": false,
-    "speed_rank": 257
+    "speed_rank": 273
   },
   "scolipede": {
     "dex_id": 545,
@@ -10525,7 +9702,7 @@
       112
     ],
     "alt_form": false,
-    "speed_rank": 841
+    "speed_rank": 913
   },
   "cottonee": {
     "dex_id": 546,
@@ -10542,7 +9719,7 @@
       66
     ],
     "alt_form": false,
-    "speed_rank": 487
+    "speed_rank": 515
   },
   "whimsicott": {
     "dex_id": 547,
@@ -10559,7 +9736,7 @@
       116
     ],
     "alt_form": false,
-    "speed_rank": 854
+    "speed_rank": 928
   },
   "petilil": {
     "dex_id": 548,
@@ -10575,7 +9752,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "lilligant": {
     "dex_id": 549,
@@ -10591,7 +9768,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "basculin red-striped form": {
     "dex_id": 550,
@@ -10607,7 +9784,7 @@
       98
     ],
     "alt_form": false,
-    "speed_rank": 763
+    "speed_rank": 823
   },
   "basculin blue-striped form": {
     "dex_id": 550,
@@ -10623,7 +9800,7 @@
       98
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 823
   },
   "sandile": {
     "dex_id": 551,
@@ -10640,7 +9817,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "krokorok": {
     "dex_id": 552,
@@ -10657,7 +9834,7 @@
       74
     ],
     "alt_form": false,
-    "speed_rank": 562
+    "speed_rank": 595
   },
   "krookodile": {
     "dex_id": 553,
@@ -10674,7 +9851,7 @@
       92
     ],
     "alt_form": false,
-    "speed_rank": 717
+    "speed_rank": 771
   },
   "darumaka": {
     "dex_id": 554,
@@ -10690,7 +9867,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "darumaka galarian darumaka": {
     "dex_id": 554,
@@ -10706,7 +9883,7 @@
       50
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 284
   },
   "darmanitan standard mode": {
     "dex_id": 555,
@@ -10722,7 +9899,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "darmanitan zen mode": {
     "dex_id": 555,
@@ -10739,7 +9916,7 @@
       55
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 346
   },
   "darmanitan galarian standard mode": {
     "dex_id": 555,
@@ -10755,7 +9932,7 @@
       95
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 781
   },
   "darmanitan galarian zen mode": {
     "dex_id": 555,
@@ -10772,7 +9949,7 @@
       135
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 964
   },
   "maractus": {
     "dex_id": 556,
@@ -10788,7 +9965,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "dwebble": {
     "dex_id": 557,
@@ -10805,7 +9982,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "crustle": {
     "dex_id": 558,
@@ -10822,7 +9999,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "scraggy": {
     "dex_id": 559,
@@ -10839,7 +10016,7 @@
       48
     ],
     "alt_form": false,
-    "speed_rank": 259
+    "speed_rank": 275
   },
   "scrafty": {
     "dex_id": 560,
@@ -10856,7 +10033,7 @@
       58
     ],
     "alt_form": false,
-    "speed_rank": 367
+    "speed_rank": 389
   },
   "sigilyph": {
     "dex_id": 561,
@@ -10873,7 +10050,7 @@
       97
     ],
     "alt_form": false,
-    "speed_rank": 755
+    "speed_rank": 814
   },
   "yamask": {
     "dex_id": 562,
@@ -10889,7 +10066,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "yamask galarian yamask": {
     "dex_id": 562,
@@ -10906,7 +10083,7 @@
       30
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 65
   },
   "cofagrigus": {
     "dex_id": 563,
@@ -10922,7 +10099,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "tirtouga": {
     "dex_id": 564,
@@ -10939,7 +10116,7 @@
       22
     ],
     "alt_form": false,
-    "speed_rank": 36
+    "speed_rank": 37
   },
   "carracosta": {
     "dex_id": 565,
@@ -10956,7 +10133,7 @@
       32
     ],
     "alt_form": false,
-    "speed_rank": 105
+    "speed_rank": 110
   },
   "archen": {
     "dex_id": 566,
@@ -10973,7 +10150,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "archeops": {
     "dex_id": 567,
@@ -10990,7 +10167,7 @@
       110
     ],
     "alt_form": false,
-    "speed_rank": 828
+    "speed_rank": 897
   },
   "trubbish": {
     "dex_id": 568,
@@ -11006,7 +10183,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "garbodor": {
     "dex_id": 569,
@@ -11022,7 +10199,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "zorua": {
     "dex_id": 570,
@@ -11038,7 +10215,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "zoroark": {
     "dex_id": 571,
@@ -11054,7 +10231,7 @@
       105
     ],
     "alt_form": false,
-    "speed_rank": 806
+    "speed_rank": 872
   },
   "minccino": {
     "dex_id": 572,
@@ -11070,7 +10247,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "cinccino": {
     "dex_id": 573,
@@ -11086,7 +10263,7 @@
       115
     ],
     "alt_form": false,
-    "speed_rank": 846
+    "speed_rank": 918
   },
   "gothita": {
     "dex_id": 574,
@@ -11102,7 +10279,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "gothorita": {
     "dex_id": 575,
@@ -11118,7 +10295,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "gothitelle": {
     "dex_id": 576,
@@ -11134,7 +10311,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "solosis": {
     "dex_id": 577,
@@ -11166,7 +10343,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "reuniclus": {
     "dex_id": 579,
@@ -11182,7 +10359,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "ducklett": {
     "dex_id": 580,
@@ -11199,7 +10376,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "swanna": {
     "dex_id": 581,
@@ -11216,7 +10393,7 @@
       98
     ],
     "alt_form": false,
-    "speed_rank": 763
+    "speed_rank": 823
   },
   "vanillite": {
     "dex_id": 582,
@@ -11232,7 +10409,7 @@
       44
     ],
     "alt_form": false,
-    "speed_rank": 213
+    "speed_rank": 225
   },
   "vanillish": {
     "dex_id": 583,
@@ -11248,7 +10425,7 @@
       59
     ],
     "alt_form": false,
-    "speed_rank": 375
+    "speed_rank": 397
   },
   "vanilluxe": {
     "dex_id": 584,
@@ -11264,7 +10441,7 @@
       79
     ],
     "alt_form": false,
-    "speed_rank": 595
+    "speed_rank": 633
   },
   "deerling": {
     "dex_id": 585,
@@ -11281,7 +10458,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "sawsbuck": {
     "dex_id": 586,
@@ -11298,7 +10475,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "emolga": {
     "dex_id": 587,
@@ -11315,7 +10492,7 @@
       103
     ],
     "alt_form": false,
-    "speed_rank": 802
+    "speed_rank": 867
   },
   "karrablast": {
     "dex_id": 588,
@@ -11331,7 +10508,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "escavalier": {
     "dex_id": 589,
@@ -11382,7 +10559,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "frillish": {
     "dex_id": 592,
@@ -11399,7 +10576,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "jellicent": {
     "dex_id": 593,
@@ -11416,7 +10593,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "alomomola": {
     "dex_id": 594,
@@ -11432,7 +10609,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "joltik": {
     "dex_id": 595,
@@ -11449,7 +10626,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "galvantula": {
     "dex_id": 596,
@@ -11466,7 +10643,7 @@
       108
     ],
     "alt_form": false,
-    "speed_rank": 819
+    "speed_rank": 886
   },
   "ferroseed": {
     "dex_id": 597,
@@ -11516,7 +10693,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "klang": {
     "dex_id": 600,
@@ -11532,7 +10709,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "klinklang": {
     "dex_id": 601,
@@ -11548,7 +10725,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "tynamo": {
     "dex_id": 602,
@@ -11564,7 +10741,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "eelektrik": {
     "dex_id": 603,
@@ -11580,7 +10757,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "eelektross": {
     "dex_id": 604,
@@ -11596,7 +10773,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "elgyem": {
     "dex_id": 605,
@@ -11612,7 +10789,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "beheeyem": {
     "dex_id": 606,
@@ -11628,7 +10805,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "litwick": {
     "dex_id": 607,
@@ -11662,7 +10839,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "chandelure": {
     "dex_id": 609,
@@ -11679,7 +10856,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "axew": {
     "dex_id": 610,
@@ -11695,7 +10872,7 @@
       57
     ],
     "alt_form": false,
-    "speed_rank": 362
+    "speed_rank": 384
   },
   "fraxure": {
     "dex_id": 611,
@@ -11711,7 +10888,7 @@
       67
     ],
     "alt_form": false,
-    "speed_rank": 492
+    "speed_rank": 520
   },
   "haxorus": {
     "dex_id": 612,
@@ -11727,7 +10904,7 @@
       97
     ],
     "alt_form": false,
-    "speed_rank": 755
+    "speed_rank": 814
   },
   "cubchoo": {
     "dex_id": 613,
@@ -11743,7 +10920,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "beartic": {
     "dex_id": 614,
@@ -11759,7 +10936,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "cryogonal": {
     "dex_id": 615,
@@ -11775,7 +10952,7 @@
       105
     ],
     "alt_form": false,
-    "speed_rank": 806
+    "speed_rank": 872
   },
   "shelmet": {
     "dex_id": 616,
@@ -11791,7 +10968,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "accelgor": {
     "dex_id": 617,
@@ -11807,7 +10984,7 @@
       145
     ],
     "alt_form": false,
-    "speed_rank": 884
+    "speed_rank": 970
   },
   "stunfisk": {
     "dex_id": 618,
@@ -11824,7 +11001,7 @@
       32
     ],
     "alt_form": false,
-    "speed_rank": 105
+    "speed_rank": 110
   },
   "stunfisk galarian stunfisk": {
     "dex_id": 618,
@@ -11841,7 +11018,7 @@
       32
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 110
   },
   "mienfoo": {
     "dex_id": 619,
@@ -11857,7 +11034,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "mienshao": {
     "dex_id": 620,
@@ -11873,7 +11050,7 @@
       105
     ],
     "alt_form": false,
-    "speed_rank": 806
+    "speed_rank": 872
   },
   "druddigon": {
     "dex_id": 621,
@@ -11889,7 +11066,7 @@
       48
     ],
     "alt_form": false,
-    "speed_rank": 259
+    "speed_rank": 275
   },
   "golett": {
     "dex_id": 622,
@@ -11906,7 +11083,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "golurk": {
     "dex_id": 623,
@@ -11923,7 +11100,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "pawniard": {
     "dex_id": 624,
@@ -11940,7 +11117,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "bisharp": {
     "dex_id": 625,
@@ -11957,7 +11134,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "bouffalant": {
     "dex_id": 626,
@@ -11973,7 +11150,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "rufflet": {
     "dex_id": 627,
@@ -11990,7 +11167,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "braviary": {
     "dex_id": 628,
@@ -12007,7 +11184,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "vullaby": {
     "dex_id": 629,
@@ -12024,7 +11201,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "mandibuzz": {
     "dex_id": 630,
@@ -12041,7 +11218,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "heatmor": {
     "dex_id": 631,
@@ -12057,7 +11234,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "durant": {
     "dex_id": 632,
@@ -12074,7 +11251,7 @@
       109
     ],
     "alt_form": false,
-    "speed_rank": 825
+    "speed_rank": 893
   },
   "deino": {
     "dex_id": 633,
@@ -12091,7 +11268,7 @@
       38
     ],
     "alt_form": false,
-    "speed_rank": 151
+    "speed_rank": 160
   },
   "zweilous": {
     "dex_id": 634,
@@ -12108,7 +11285,7 @@
       58
     ],
     "alt_form": false,
-    "speed_rank": 367
+    "speed_rank": 389
   },
   "hydreigon": {
     "dex_id": 635,
@@ -12125,7 +11302,7 @@
       98
     ],
     "alt_form": false,
-    "speed_rank": 763
+    "speed_rank": 823
   },
   "larvesta": {
     "dex_id": 636,
@@ -12142,7 +11319,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "volcarona": {
     "dex_id": 637,
@@ -12159,7 +11336,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "cobalion": {
     "dex_id": 638,
@@ -12176,7 +11353,7 @@
       108
     ],
     "alt_form": false,
-    "speed_rank": 819
+    "speed_rank": 886
   },
   "terrakion": {
     "dex_id": 639,
@@ -12193,7 +11370,7 @@
       108
     ],
     "alt_form": false,
-    "speed_rank": 819
+    "speed_rank": 886
   },
   "virizion": {
     "dex_id": 640,
@@ -12210,7 +11387,7 @@
       108
     ],
     "alt_form": false,
-    "speed_rank": 819
+    "speed_rank": 886
   },
   "tornadus incarnate forme": {
     "dex_id": 641,
@@ -12226,7 +11403,7 @@
       111
     ],
     "alt_form": false,
-    "speed_rank": 839
+    "speed_rank": 911
   },
   "tornadus therian forme": {
     "dex_id": 641,
@@ -12242,7 +11419,7 @@
       121
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 940
   },
   "thundurus incarnate forme": {
     "dex_id": 642,
@@ -12259,7 +11436,7 @@
       111
     ],
     "alt_form": false,
-    "speed_rank": 839
+    "speed_rank": 911
   },
   "thundurus therian forme": {
     "dex_id": 642,
@@ -12276,7 +11453,7 @@
       101
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 857
   },
   "reshiram": {
     "dex_id": 643,
@@ -12293,7 +11470,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "zekrom": {
     "dex_id": 644,
@@ -12310,7 +11487,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "landorus incarnate forme": {
     "dex_id": 645,
@@ -12327,7 +11504,7 @@
       101
     ],
     "alt_form": false,
-    "speed_rank": 793
+    "speed_rank": 857
   },
   "landorus therian forme": {
     "dex_id": 645,
@@ -12344,7 +11521,7 @@
       91
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 766
   },
   "kyurem": {
     "dex_id": 646,
@@ -12361,7 +11538,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "kyurem black kyurem": {
     "dex_id": 646,
@@ -12378,7 +11555,7 @@
       95
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 781
   },
   "kyurem white kyurem": {
     "dex_id": 646,
@@ -12395,7 +11572,7 @@
       95
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 781
   },
   "keldeo ordinary forme": {
     "dex_id": 647,
@@ -12412,7 +11589,7 @@
       108
     ],
     "alt_form": false,
-    "speed_rank": 819
+    "speed_rank": 886
   },
   "keldeo resolute forme": {
     "dex_id": 647,
@@ -12429,7 +11606,7 @@
       108
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 886
   },
   "meloetta aria forme": {
     "dex_id": 648,
@@ -12446,7 +11623,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "meloetta pirouette forme": {
     "dex_id": 648,
@@ -12463,7 +11640,7 @@
       128
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 952
   },
   "genesect": {
     "dex_id": 649,
@@ -12480,7 +11657,7 @@
       99
     ],
     "alt_form": false,
-    "speed_rank": 766
+    "speed_rank": 827
   },
   "chespin": {
     "dex_id": 650,
@@ -12496,7 +11673,7 @@
       38
     ],
     "alt_form": false,
-    "speed_rank": 151
+    "speed_rank": 160
   },
   "quilladin": {
     "dex_id": 651,
@@ -12512,7 +11689,7 @@
       57
     ],
     "alt_form": false,
-    "speed_rank": 362
+    "speed_rank": 384
   },
   "chesnaught": {
     "dex_id": 652,
@@ -12529,7 +11706,7 @@
       64
     ],
     "alt_form": false,
-    "speed_rank": 437
+    "speed_rank": 463
   },
   "fennekin": {
     "dex_id": 653,
@@ -12545,7 +11722,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "braixen": {
     "dex_id": 654,
@@ -12561,7 +11738,7 @@
       73
     ],
     "alt_form": false,
-    "speed_rank": 559
+    "speed_rank": 592
   },
   "delphox": {
     "dex_id": 655,
@@ -12578,7 +11755,7 @@
       104
     ],
     "alt_form": false,
-    "speed_rank": 804
+    "speed_rank": 869
   },
   "froakie": {
     "dex_id": 656,
@@ -12594,7 +11771,7 @@
       71
     ],
     "alt_form": false,
-    "speed_rank": 548
+    "speed_rank": 580
   },
   "frogadier": {
     "dex_id": 657,
@@ -12610,7 +11787,7 @@
       97
     ],
     "alt_form": false,
-    "speed_rank": 755
+    "speed_rank": 814
   },
   "greninja": {
     "dex_id": 658,
@@ -12627,7 +11804,7 @@
       122
     ],
     "alt_form": false,
-    "speed_rank": 866
+    "speed_rank": 943
   },
   "greninja ash-greninja": {
     "dex_id": 658,
@@ -12644,7 +11821,7 @@
       132
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 963
   },
   "bunnelby": {
     "dex_id": 659,
@@ -12660,7 +11837,7 @@
       57
     ],
     "alt_form": false,
-    "speed_rank": 362
+    "speed_rank": 384
   },
   "diggersby": {
     "dex_id": 660,
@@ -12677,7 +11854,7 @@
       78
     ],
     "alt_form": false,
-    "speed_rank": 592
+    "speed_rank": 630
   },
   "fletchling": {
     "dex_id": 661,
@@ -12694,7 +11871,7 @@
       62
     ],
     "alt_form": false,
-    "speed_rank": 432
+    "speed_rank": 458
   },
   "fletchinder": {
     "dex_id": 662,
@@ -12711,7 +11888,7 @@
       84
     ],
     "alt_form": false,
-    "speed_rank": 641
+    "speed_rank": 680
   },
   "talonflame": {
     "dex_id": 663,
@@ -12728,7 +11905,7 @@
       126
     ],
     "alt_form": false,
-    "speed_rank": 873
+    "speed_rank": 950
   },
   "scatterbug": {
     "dex_id": 664,
@@ -12744,7 +11921,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "spewpa": {
     "dex_id": 665,
@@ -12760,7 +11937,7 @@
       29
     ],
     "alt_form": false,
-    "speed_rank": 59
+    "speed_rank": 61
   },
   "vivillon": {
     "dex_id": 666,
@@ -12777,7 +11954,7 @@
       89
     ],
     "alt_form": false,
-    "speed_rank": 680
+    "speed_rank": 726
   },
   "litleo": {
     "dex_id": 667,
@@ -12794,7 +11971,7 @@
       72
     ],
     "alt_form": false,
-    "speed_rank": 554
+    "speed_rank": 586
   },
   "pyroar": {
     "dex_id": 668,
@@ -12811,7 +11988,7 @@
       106
     ],
     "alt_form": false,
-    "speed_rank": 816
+    "speed_rank": 883
   },
   "flab\u00e9b\u00e9": {
     "dex_id": 669,
@@ -12827,7 +12004,7 @@
       42
     ],
     "alt_form": false,
-    "speed_rank": 196
+    "speed_rank": 208
   },
   "floette": {
     "dex_id": 670,
@@ -12843,7 +12020,7 @@
       52
     ],
     "alt_form": false,
-    "speed_rank": 322
+    "speed_rank": 340
   },
   "florges": {
     "dex_id": 671,
@@ -12859,7 +12036,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "skiddo": {
     "dex_id": 672,
@@ -12875,7 +12052,7 @@
       52
     ],
     "alt_form": false,
-    "speed_rank": 322
+    "speed_rank": 340
   },
   "gogoat": {
     "dex_id": 673,
@@ -12891,7 +12068,7 @@
       68
     ],
     "alt_form": false,
-    "speed_rank": 497
+    "speed_rank": 525
   },
   "pancham": {
     "dex_id": 674,
@@ -12907,7 +12084,7 @@
       43
     ],
     "alt_form": false,
-    "speed_rank": 205
+    "speed_rank": 217
   },
   "pangoro": {
     "dex_id": 675,
@@ -12924,7 +12101,7 @@
       58
     ],
     "alt_form": false,
-    "speed_rank": 367
+    "speed_rank": 389
   },
   "furfrou": {
     "dex_id": 676,
@@ -12940,7 +12117,7 @@
       102
     ],
     "alt_form": false,
-    "speed_rank": 799
+    "speed_rank": 864
   },
   "espurr": {
     "dex_id": 677,
@@ -12956,7 +12133,7 @@
       68
     ],
     "alt_form": false,
-    "speed_rank": 497
+    "speed_rank": 525
   },
   "meowstic male": {
     "dex_id": 678,
@@ -12972,7 +12149,7 @@
       104
     ],
     "alt_form": false,
-    "speed_rank": 804
+    "speed_rank": 869
   },
   "meowstic female": {
     "dex_id": 678,
@@ -12988,7 +12165,7 @@
       104
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 869
   },
   "honedge": {
     "dex_id": 679,
@@ -13005,7 +12182,7 @@
       28
     ],
     "alt_form": false,
-    "speed_rank": 55
+    "speed_rank": 57
   },
   "doublade": {
     "dex_id": 680,
@@ -13022,7 +12199,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "aegislash blade forme": {
     "dex_id": 681,
@@ -13039,7 +12216,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "aegislash shield forme": {
     "dex_id": 681,
@@ -13056,7 +12233,7 @@
       60
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 400
   },
   "spritzee": {
     "dex_id": 682,
@@ -13072,7 +12249,7 @@
       23
     ],
     "alt_form": false,
-    "speed_rank": 37
+    "speed_rank": 38
   },
   "aromatisse": {
     "dex_id": 683,
@@ -13088,7 +12265,7 @@
       29
     ],
     "alt_form": false,
-    "speed_rank": 59
+    "speed_rank": 61
   },
   "swirlix": {
     "dex_id": 684,
@@ -13104,7 +12281,7 @@
       49
     ],
     "alt_form": false,
-    "speed_rank": 266
+    "speed_rank": 282
   },
   "slurpuff": {
     "dex_id": 685,
@@ -13120,7 +12297,7 @@
       72
     ],
     "alt_form": false,
-    "speed_rank": 554
+    "speed_rank": 586
   },
   "inkay": {
     "dex_id": 686,
@@ -13137,7 +12314,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "malamar": {
     "dex_id": 687,
@@ -13154,7 +12331,7 @@
       73
     ],
     "alt_form": false,
-    "speed_rank": 559
+    "speed_rank": 592
   },
   "binacle": {
     "dex_id": 688,
@@ -13171,7 +12348,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "barbaracle": {
     "dex_id": 689,
@@ -13188,7 +12365,7 @@
       68
     ],
     "alt_form": false,
-    "speed_rank": 497
+    "speed_rank": 525
   },
   "skrelp": {
     "dex_id": 690,
@@ -13205,7 +12382,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "dragalge": {
     "dex_id": 691,
@@ -13222,7 +12399,7 @@
       44
     ],
     "alt_form": false,
-    "speed_rank": 213
+    "speed_rank": 225
   },
   "clauncher": {
     "dex_id": 692,
@@ -13238,7 +12415,7 @@
       44
     ],
     "alt_form": false,
-    "speed_rank": 213
+    "speed_rank": 225
   },
   "clawitzer": {
     "dex_id": 693,
@@ -13254,7 +12431,7 @@
       59
     ],
     "alt_form": false,
-    "speed_rank": 375
+    "speed_rank": 397
   },
   "helioptile": {
     "dex_id": 694,
@@ -13271,7 +12448,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "heliolisk": {
     "dex_id": 695,
@@ -13288,7 +12465,7 @@
       109
     ],
     "alt_form": false,
-    "speed_rank": 825
+    "speed_rank": 893
   },
   "tyrunt": {
     "dex_id": 696,
@@ -13305,7 +12482,7 @@
       48
     ],
     "alt_form": false,
-    "speed_rank": 259
+    "speed_rank": 275
   },
   "tyrantrum": {
     "dex_id": 697,
@@ -13322,7 +12499,7 @@
       71
     ],
     "alt_form": false,
-    "speed_rank": 548
+    "speed_rank": 580
   },
   "amaura": {
     "dex_id": 698,
@@ -13339,7 +12516,7 @@
       46
     ],
     "alt_form": false,
-    "speed_rank": 253
+    "speed_rank": 268
   },
   "aurorus": {
     "dex_id": 699,
@@ -13356,7 +12533,7 @@
       58
     ],
     "alt_form": false,
-    "speed_rank": 367
+    "speed_rank": 389
   },
   "sylveon": {
     "dex_id": 700,
@@ -13372,7 +12549,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "hawlucha": {
     "dex_id": 701,
@@ -13389,7 +12566,7 @@
       118
     ],
     "alt_form": false,
-    "speed_rank": 857
+    "speed_rank": 931
   },
   "dedenne": {
     "dex_id": 702,
@@ -13406,7 +12583,7 @@
       101
     ],
     "alt_form": false,
-    "speed_rank": 793
+    "speed_rank": 857
   },
   "carbink": {
     "dex_id": 703,
@@ -13423,7 +12600,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "goomy": {
     "dex_id": 704,
@@ -13439,7 +12616,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "sliggoo": {
     "dex_id": 705,
@@ -13455,7 +12632,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "goodra": {
     "dex_id": 706,
@@ -13471,7 +12648,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "klefki": {
     "dex_id": 707,
@@ -13488,7 +12665,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "phantump": {
     "dex_id": 708,
@@ -13505,7 +12682,7 @@
       38
     ],
     "alt_form": false,
-    "speed_rank": 151
+    "speed_rank": 160
   },
   "trevenant": {
     "dex_id": 709,
@@ -13522,7 +12699,7 @@
       56
     ],
     "alt_form": false,
-    "speed_rank": 358
+    "speed_rank": 379
   },
   "pumpkaboo average size": {
     "dex_id": 710,
@@ -13539,7 +12716,7 @@
       51
     ],
     "alt_form": false,
-    "speed_rank": 319
+    "speed_rank": 337
   },
   "pumpkaboo small size": {
     "dex_id": 710,
@@ -13556,7 +12733,7 @@
       56
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 379
   },
   "pumpkaboo large size": {
     "dex_id": 710,
@@ -13573,7 +12750,7 @@
       46
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 268
   },
   "pumpkaboo super size": {
     "dex_id": 710,
@@ -13590,7 +12767,7 @@
       41
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 205
   },
   "gourgeist average size": {
     "dex_id": 711,
@@ -13607,7 +12784,7 @@
       84
     ],
     "alt_form": false,
-    "speed_rank": 641
+    "speed_rank": 680
   },
   "gourgeist small size": {
     "dex_id": 711,
@@ -13624,7 +12801,7 @@
       99
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 827
   },
   "gourgeist large size": {
     "dex_id": 711,
@@ -13641,7 +12818,7 @@
       69
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 531
   },
   "gourgeist super size": {
     "dex_id": 711,
@@ -13658,7 +12835,7 @@
       54
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 345
   },
   "bergmite": {
     "dex_id": 712,
@@ -13674,7 +12851,7 @@
       28
     ],
     "alt_form": false,
-    "speed_rank": 55
+    "speed_rank": 57
   },
   "avalugg": {
     "dex_id": 713,
@@ -13690,7 +12867,7 @@
       28
     ],
     "alt_form": false,
-    "speed_rank": 55
+    "speed_rank": 57
   },
   "noibat": {
     "dex_id": 714,
@@ -13707,7 +12884,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "noivern": {
     "dex_id": 715,
@@ -13724,7 +12901,7 @@
       123
     ],
     "alt_form": false,
-    "speed_rank": 867
+    "speed_rank": 944
   },
   "xerneas": {
     "dex_id": 716,
@@ -13740,7 +12917,7 @@
       99
     ],
     "alt_form": false,
-    "speed_rank": 766
+    "speed_rank": 827
   },
   "yveltal": {
     "dex_id": 717,
@@ -13757,7 +12934,7 @@
       99
     ],
     "alt_form": false,
-    "speed_rank": 766
+    "speed_rank": 827
   },
   "zygarde 50% forme": {
     "dex_id": 718,
@@ -13774,7 +12951,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "zygarde 10% forme": {
     "dex_id": 718,
@@ -13791,7 +12968,7 @@
       115
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 918
   },
   "zygarde complete forme": {
     "dex_id": 718,
@@ -13808,7 +12985,7 @@
       85
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 684
   },
   "diancie": {
     "dex_id": 719,
@@ -13825,24 +13002,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
-  },
-  "diancie mega diancie": {
-    "dex_id": 719,
-    "type": [
-      "fairy",
-      "rock"
-    ],
-    "stats": [
-      50,
-      160,
-      110,
-      160,
-      110,
-      110
-    ],
-    "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 284
   },
   "hoopa hoopa confined": {
     "dex_id": 720,
@@ -13859,7 +13019,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "hoopa hoopa unbound": {
     "dex_id": 720,
@@ -13876,7 +13036,7 @@
       80
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 636
   },
   "volcanion": {
     "dex_id": 721,
@@ -13893,7 +13053,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "rowlet": {
     "dex_id": 722,
@@ -13910,7 +13070,7 @@
       42
     ],
     "alt_form": false,
-    "speed_rank": 196
+    "speed_rank": 208
   },
   "dartrix": {
     "dex_id": 723,
@@ -13927,7 +13087,7 @@
       52
     ],
     "alt_form": false,
-    "speed_rank": 322
+    "speed_rank": 340
   },
   "decidueye": {
     "dex_id": 724,
@@ -13944,7 +13104,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "litten": {
     "dex_id": 725,
@@ -13960,7 +13120,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "torracat": {
     "dex_id": 726,
@@ -13976,7 +13136,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "incineroar": {
     "dex_id": 727,
@@ -13993,7 +13153,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "popplio": {
     "dex_id": 728,
@@ -14009,7 +13169,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "brionne": {
     "dex_id": 729,
@@ -14025,7 +13185,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "primarina": {
     "dex_id": 730,
@@ -14042,7 +13202,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "pikipek": {
     "dex_id": 731,
@@ -14059,7 +13219,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "trumbeak": {
     "dex_id": 732,
@@ -14076,7 +13236,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "toucannon": {
     "dex_id": 733,
@@ -14093,7 +13253,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "yungoos": {
     "dex_id": 734,
@@ -14109,7 +13269,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "gumshoos": {
     "dex_id": 735,
@@ -14125,7 +13285,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "grubbin": {
     "dex_id": 736,
@@ -14141,7 +13301,7 @@
       46
     ],
     "alt_form": false,
-    "speed_rank": 253
+    "speed_rank": 268
   },
   "charjabug": {
     "dex_id": 737,
@@ -14158,7 +13318,7 @@
       36
     ],
     "alt_form": false,
-    "speed_rank": 143
+    "speed_rank": 150
   },
   "vikavolt": {
     "dex_id": 738,
@@ -14175,7 +13335,7 @@
       43
     ],
     "alt_form": false,
-    "speed_rank": 205
+    "speed_rank": 217
   },
   "crabrawler": {
     "dex_id": 739,
@@ -14191,7 +13351,7 @@
       63
     ],
     "alt_form": false,
-    "speed_rank": 434
+    "speed_rank": 460
   },
   "crabominable": {
     "dex_id": 740,
@@ -14208,7 +13368,7 @@
       43
     ],
     "alt_form": false,
-    "speed_rank": 205
+    "speed_rank": 217
   },
   "oricorio baile style": {
     "dex_id": 741,
@@ -14225,7 +13385,7 @@
       93
     ],
     "alt_form": false,
-    "speed_rank": 720
+    "speed_rank": 774
   },
   "oricorio pom-pom style": {
     "dex_id": 741,
@@ -14242,7 +13402,7 @@
       93
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 774
   },
   "oricorio pa'u style": {
     "dex_id": 741,
@@ -14259,7 +13419,7 @@
       93
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 774
   },
   "oricorio sensu style": {
     "dex_id": 741,
@@ -14276,7 +13436,7 @@
       93
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 774
   },
   "cutiefly": {
     "dex_id": 742,
@@ -14293,7 +13453,7 @@
       84
     ],
     "alt_form": false,
-    "speed_rank": 641
+    "speed_rank": 680
   },
   "ribombee": {
     "dex_id": 743,
@@ -14310,7 +13470,7 @@
       124
     ],
     "alt_form": false,
-    "speed_rank": 868
+    "speed_rank": 945
   },
   "rockruff": {
     "dex_id": 744,
@@ -14326,7 +13486,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "rockruff own tempo rockruff": {
     "dex_id": 744,
@@ -14342,7 +13502,7 @@
       60
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 400
   },
   "lycanroc midday form": {
     "dex_id": 745,
@@ -14358,7 +13518,7 @@
       112
     ],
     "alt_form": false,
-    "speed_rank": 841
+    "speed_rank": 913
   },
   "lycanroc midnight form": {
     "dex_id": 745,
@@ -14374,7 +13534,7 @@
       82
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 673
   },
   "lycanroc dusk form": {
     "dex_id": 745,
@@ -14390,7 +13550,7 @@
       110
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 897
   },
   "wishiwashi solo form": {
     "dex_id": 746,
@@ -14406,7 +13566,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "wishiwashi school form": {
     "dex_id": 746,
@@ -14422,7 +13582,7 @@
       30
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 65
   },
   "mareanie": {
     "dex_id": 747,
@@ -14439,7 +13599,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "toxapex": {
     "dex_id": 748,
@@ -14456,7 +13616,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "mudbray": {
     "dex_id": 749,
@@ -14472,7 +13632,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "mudsdale": {
     "dex_id": 750,
@@ -14488,7 +13648,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "dewpider": {
     "dex_id": 751,
@@ -14505,7 +13665,7 @@
       27
     ],
     "alt_form": false,
-    "speed_rank": 54
+    "speed_rank": 56
   },
   "araquanid": {
     "dex_id": 752,
@@ -14522,7 +13682,7 @@
       42
     ],
     "alt_form": false,
-    "speed_rank": 196
+    "speed_rank": 208
   },
   "fomantis": {
     "dex_id": 753,
@@ -14538,7 +13698,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "lurantis": {
     "dex_id": 754,
@@ -14554,7 +13714,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "morelull": {
     "dex_id": 755,
@@ -14588,7 +13748,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "salandit": {
     "dex_id": 757,
@@ -14605,7 +13765,7 @@
       77
     ],
     "alt_form": false,
-    "speed_rank": 588
+    "speed_rank": 623
   },
   "salazzle": {
     "dex_id": 758,
@@ -14622,7 +13782,7 @@
       117
     ],
     "alt_form": false,
-    "speed_rank": 856
+    "speed_rank": 930
   },
   "stufful": {
     "dex_id": 759,
@@ -14639,7 +13799,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "bewear": {
     "dex_id": 760,
@@ -14656,7 +13816,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "bounsweet": {
     "dex_id": 761,
@@ -14672,7 +13832,7 @@
       32
     ],
     "alt_form": false,
-    "speed_rank": 105
+    "speed_rank": 110
   },
   "steenee": {
     "dex_id": 762,
@@ -14688,7 +13848,7 @@
       62
     ],
     "alt_form": false,
-    "speed_rank": 432
+    "speed_rank": 458
   },
   "tsareena": {
     "dex_id": 763,
@@ -14704,7 +13864,7 @@
       72
     ],
     "alt_form": false,
-    "speed_rank": 554
+    "speed_rank": 586
   },
   "comfey": {
     "dex_id": 764,
@@ -14720,7 +13880,7 @@
       100
     ],
     "alt_form": false,
-    "speed_rank": 769
+    "speed_rank": 831
   },
   "oranguru": {
     "dex_id": 765,
@@ -14737,7 +13897,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "passimian": {
     "dex_id": 766,
@@ -14753,7 +13913,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "wimpod": {
     "dex_id": 767,
@@ -14770,7 +13930,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "golisopod": {
     "dex_id": 768,
@@ -14787,7 +13947,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "sandygast": {
     "dex_id": 769,
@@ -14821,7 +13981,7 @@
       35
     ],
     "alt_form": false,
-    "speed_rank": 117
+    "speed_rank": 123
   },
   "pyukumuku": {
     "dex_id": 771,
@@ -14853,7 +14013,7 @@
       59
     ],
     "alt_form": false,
-    "speed_rank": 375
+    "speed_rank": 397
   },
   "silvally": {
     "dex_id": 773,
@@ -14869,7 +14029,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "minior meteor form": {
     "dex_id": 774,
@@ -14886,7 +14046,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "minior core form": {
     "dex_id": 774,
@@ -14903,7 +14063,7 @@
       120
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 933
   },
   "komala": {
     "dex_id": 775,
@@ -14919,7 +14079,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "turtonator": {
     "dex_id": 776,
@@ -14936,7 +14096,7 @@
       36
     ],
     "alt_form": false,
-    "speed_rank": 143
+    "speed_rank": 150
   },
   "togedemaru": {
     "dex_id": 777,
@@ -14953,7 +14113,7 @@
       96
     ],
     "alt_form": false,
-    "speed_rank": 753
+    "speed_rank": 812
   },
   "mimikyu": {
     "dex_id": 778,
@@ -14970,7 +14130,7 @@
       96
     ],
     "alt_form": false,
-    "speed_rank": 753
+    "speed_rank": 812
   },
   "bruxish": {
     "dex_id": 779,
@@ -14987,7 +14147,7 @@
       92
     ],
     "alt_form": false,
-    "speed_rank": 717
+    "speed_rank": 771
   },
   "drampa": {
     "dex_id": 780,
@@ -15004,7 +14164,7 @@
       36
     ],
     "alt_form": false,
-    "speed_rank": 143
+    "speed_rank": 150
   },
   "dhelmise": {
     "dex_id": 781,
@@ -15021,7 +14181,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "jangmo-o": {
     "dex_id": 782,
@@ -15037,7 +14197,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "hakamo-o": {
     "dex_id": 783,
@@ -15054,7 +14214,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "kommo-o": {
     "dex_id": 784,
@@ -15071,7 +14231,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "tapu koko": {
     "dex_id": 785,
@@ -15088,7 +14248,7 @@
       130
     ],
     "alt_form": false,
-    "speed_rank": 875
+    "speed_rank": 955
   },
   "tapu lele": {
     "dex_id": 786,
@@ -15105,7 +14265,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "tapu bulu": {
     "dex_id": 787,
@@ -15122,7 +14282,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "tapu fini": {
     "dex_id": 788,
@@ -15139,7 +14299,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "cosmog": {
     "dex_id": 789,
@@ -15155,7 +14315,7 @@
       37
     ],
     "alt_form": false,
-    "speed_rank": 149
+    "speed_rank": 158
   },
   "cosmoem": {
     "dex_id": 790,
@@ -15171,7 +14331,7 @@
       37
     ],
     "alt_form": false,
-    "speed_rank": 149
+    "speed_rank": 158
   },
   "solgaleo": {
     "dex_id": 791,
@@ -15188,7 +14348,7 @@
       97
     ],
     "alt_form": false,
-    "speed_rank": 755
+    "speed_rank": 814
   },
   "lunala": {
     "dex_id": 792,
@@ -15205,7 +14365,7 @@
       97
     ],
     "alt_form": false,
-    "speed_rank": 755
+    "speed_rank": 814
   },
   "nihilego": {
     "dex_id": 793,
@@ -15222,7 +14382,7 @@
       103
     ],
     "alt_form": false,
-    "speed_rank": 802
+    "speed_rank": 867
   },
   "buzzwole": {
     "dex_id": 794,
@@ -15239,7 +14399,7 @@
       79
     ],
     "alt_form": false,
-    "speed_rank": 595
+    "speed_rank": 633
   },
   "pheromosa": {
     "dex_id": 795,
@@ -15256,7 +14416,7 @@
       151
     ],
     "alt_form": false,
-    "speed_rank": 888
+    "speed_rank": 975
   },
   "xurkitree": {
     "dex_id": 796,
@@ -15272,7 +14432,7 @@
       83
     ],
     "alt_form": false,
-    "speed_rank": 637
+    "speed_rank": 676
   },
   "celesteela": {
     "dex_id": 797,
@@ -15289,7 +14449,7 @@
       61
     ],
     "alt_form": false,
-    "speed_rank": 429
+    "speed_rank": 455
   },
   "kartana": {
     "dex_id": 798,
@@ -15306,7 +14466,7 @@
       109
     ],
     "alt_form": false,
-    "speed_rank": 825
+    "speed_rank": 893
   },
   "guzzlord": {
     "dex_id": 799,
@@ -15323,7 +14483,7 @@
       43
     ],
     "alt_form": false,
-    "speed_rank": 205
+    "speed_rank": 217
   },
   "necrozma": {
     "dex_id": 800,
@@ -15339,7 +14499,7 @@
       79
     ],
     "alt_form": false,
-    "speed_rank": 595
+    "speed_rank": 633
   },
   "necrozma dusk mane necrozma": {
     "dex_id": 800,
@@ -15356,7 +14516,7 @@
       77
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 623
   },
   "necrozma dawn wings necrozma": {
     "dex_id": 800,
@@ -15373,7 +14533,7 @@
       77
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 623
   },
   "necrozma ultra necrozma": {
     "dex_id": 800,
@@ -15390,7 +14550,7 @@
       129
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 954
   },
   "magearna": {
     "dex_id": 801,
@@ -15407,7 +14567,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "marshadow": {
     "dex_id": 802,
@@ -15424,7 +14584,7 @@
       125
     ],
     "alt_form": false,
-    "speed_rank": 869
+    "speed_rank": 946
   },
   "poipole": {
     "dex_id": 803,
@@ -15440,7 +14600,7 @@
       73
     ],
     "alt_form": false,
-    "speed_rank": 559
+    "speed_rank": 592
   },
   "naganadel": {
     "dex_id": 804,
@@ -15457,7 +14617,7 @@
       121
     ],
     "alt_form": false,
-    "speed_rank": 864
+    "speed_rank": 940
   },
   "stakataka": {
     "dex_id": 805,
@@ -15491,7 +14651,7 @@
       107
     ],
     "alt_form": false,
-    "speed_rank": 818
+    "speed_rank": 885
   },
   "zeraora": {
     "dex_id": 807,
@@ -15507,7 +14667,7 @@
       143
     ],
     "alt_form": false,
-    "speed_rank": 883
+    "speed_rank": 969
   },
   "meltan": {
     "dex_id": 808,
@@ -15523,7 +14683,7 @@
       34
     ],
     "alt_form": false,
-    "speed_rank": 113
+    "speed_rank": 119
   },
   "melmetal": {
     "dex_id": 809,
@@ -15539,7 +14699,7 @@
       34
     ],
     "alt_form": false,
-    "speed_rank": 113
+    "speed_rank": 119
   },
   "grookey": {
     "dex_id": 810,
@@ -15555,7 +14715,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "thwackey": {
     "dex_id": 811,
@@ -15571,7 +14731,7 @@
       80
     ],
     "alt_form": false,
-    "speed_rank": 598
+    "speed_rank": 636
   },
   "rillaboom": {
     "dex_id": 812,
@@ -15587,7 +14747,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "scorbunny": {
     "dex_id": 813,
@@ -15603,7 +14763,7 @@
       69
     ],
     "alt_form": false,
-    "speed_rank": 503
+    "speed_rank": 531
   },
   "raboot": {
     "dex_id": 814,
@@ -15619,7 +14779,7 @@
       94
     ],
     "alt_form": false,
-    "speed_rank": 723
+    "speed_rank": 780
   },
   "cinderace": {
     "dex_id": 815,
@@ -15635,7 +14795,7 @@
       119
     ],
     "alt_form": false,
-    "speed_rank": 858
+    "speed_rank": 932
   },
   "sobble": {
     "dex_id": 816,
@@ -15651,7 +14811,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "drizzile": {
     "dex_id": 817,
@@ -15667,7 +14827,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "inteleon": {
     "dex_id": 818,
@@ -15683,7 +14843,7 @@
       120
     ],
     "alt_form": false,
-    "speed_rank": 859
+    "speed_rank": 933
   },
   "skwovet": {
     "dex_id": 819,
@@ -15699,7 +14859,7 @@
       25
     ],
     "alt_form": false,
-    "speed_rank": 42
+    "speed_rank": 43
   },
   "greedent": {
     "dex_id": 820,
@@ -15731,7 +14891,7 @@
       57
     ],
     "alt_form": false,
-    "speed_rank": 362
+    "speed_rank": 384
   },
   "corvisquire": {
     "dex_id": 822,
@@ -15747,7 +14907,7 @@
       77
     ],
     "alt_form": false,
-    "speed_rank": 588
+    "speed_rank": 623
   },
   "corviknight": {
     "dex_id": 823,
@@ -15764,7 +14924,7 @@
       67
     ],
     "alt_form": false,
-    "speed_rank": 492
+    "speed_rank": 520
   },
   "blipbug": {
     "dex_id": 824,
@@ -15780,7 +14940,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "dottler": {
     "dex_id": 825,
@@ -15797,7 +14957,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "orbeetle": {
     "dex_id": 826,
@@ -15814,7 +14974,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "nickit": {
     "dex_id": 827,
@@ -15830,7 +14990,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "thievul": {
     "dex_id": 828,
@@ -15846,7 +15006,7 @@
       90
     ],
     "alt_form": false,
-    "speed_rank": 681
+    "speed_rank": 727
   },
   "gossifleur": {
     "dex_id": 829,
@@ -15878,7 +15038,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "wooloo": {
     "dex_id": 831,
@@ -15894,7 +15054,7 @@
       48
     ],
     "alt_form": false,
-    "speed_rank": 259
+    "speed_rank": 275
   },
   "dubwool": {
     "dex_id": 832,
@@ -15910,7 +15070,7 @@
       88
     ],
     "alt_form": false,
-    "speed_rank": 678
+    "speed_rank": 724
   },
   "chewtle": {
     "dex_id": 833,
@@ -15926,7 +15086,7 @@
       44
     ],
     "alt_form": false,
-    "speed_rank": 213
+    "speed_rank": 225
   },
   "drednaw": {
     "dex_id": 834,
@@ -15943,7 +15103,7 @@
       74
     ],
     "alt_form": false,
-    "speed_rank": 562
+    "speed_rank": 595
   },
   "yamper": {
     "dex_id": 835,
@@ -15959,7 +15119,7 @@
       26
     ],
     "alt_form": false,
-    "speed_rank": 53
+    "speed_rank": 55
   },
   "boltund": {
     "dex_id": 836,
@@ -15975,7 +15135,7 @@
       121
     ],
     "alt_form": false,
-    "speed_rank": 864
+    "speed_rank": 940
   },
   "rolycoly": {
     "dex_id": 837,
@@ -15991,7 +15151,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "carkol": {
     "dex_id": 838,
@@ -16008,7 +15168,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "coalossal": {
     "dex_id": 839,
@@ -16025,7 +15185,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "applin": {
     "dex_id": 840,
@@ -16059,7 +15219,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "appletun": {
     "dex_id": 842,
@@ -16076,7 +15236,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "silicobra": {
     "dex_id": 843,
@@ -16092,7 +15252,7 @@
       46
     ],
     "alt_form": false,
-    "speed_rank": 253
+    "speed_rank": 268
   },
   "sandaconda": {
     "dex_id": 844,
@@ -16108,7 +15268,7 @@
       71
     ],
     "alt_form": false,
-    "speed_rank": 548
+    "speed_rank": 580
   },
   "cramorant": {
     "dex_id": 845,
@@ -16125,7 +15285,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "arrokuda": {
     "dex_id": 846,
@@ -16141,7 +15301,7 @@
       66
     ],
     "alt_form": false,
-    "speed_rank": 487
+    "speed_rank": 515
   },
   "barraskewda": {
     "dex_id": 847,
@@ -16157,7 +15317,7 @@
       136
     ],
     "alt_form": false,
-    "speed_rank": 881
+    "speed_rank": 965
   },
   "toxel": {
     "dex_id": 848,
@@ -16174,7 +15334,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "toxtricity low key form": {
     "dex_id": 849,
@@ -16191,7 +15351,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "toxtricity amped form": {
     "dex_id": 849,
@@ -16208,7 +15368,7 @@
       75
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 599
   },
   "sizzlipede": {
     "dex_id": 850,
@@ -16225,7 +15385,7 @@
       45
     ],
     "alt_form": false,
-    "speed_rank": 217
+    "speed_rank": 229
   },
   "centiskorch": {
     "dex_id": 851,
@@ -16242,7 +15402,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "clobbopus": {
     "dex_id": 852,
@@ -16258,7 +15418,7 @@
       32
     ],
     "alt_form": false,
-    "speed_rank": 105
+    "speed_rank": 110
   },
   "grapploct": {
     "dex_id": 853,
@@ -16274,7 +15434,7 @@
       42
     ],
     "alt_form": false,
-    "speed_rank": 196
+    "speed_rank": 208
   },
   "sinistea": {
     "dex_id": 854,
@@ -16290,7 +15450,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "polteageist": {
     "dex_id": 855,
@@ -16306,7 +15466,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "hatenna": {
     "dex_id": 856,
@@ -16322,7 +15482,7 @@
       39
     ],
     "alt_form": false,
-    "speed_rank": 154
+    "speed_rank": 163
   },
   "hattrem": {
     "dex_id": 857,
@@ -16338,7 +15498,7 @@
       49
     ],
     "alt_form": false,
-    "speed_rank": 266
+    "speed_rank": 282
   },
   "hatterene": {
     "dex_id": 858,
@@ -16355,7 +15515,7 @@
       29
     ],
     "alt_form": false,
-    "speed_rank": 59
+    "speed_rank": 61
   },
   "impidimp": {
     "dex_id": 859,
@@ -16372,7 +15532,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "morgrem": {
     "dex_id": 860,
@@ -16389,7 +15549,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "grimmsnarl": {
     "dex_id": 861,
@@ -16406,7 +15566,7 @@
       60
     ],
     "alt_form": false,
-    "speed_rank": 378
+    "speed_rank": 400
   },
   "obstagoon": {
     "dex_id": 862,
@@ -16423,7 +15583,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "perrserker": {
     "dex_id": 863,
@@ -16439,7 +15599,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "cursola": {
     "dex_id": 864,
@@ -16455,7 +15615,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "sirfetch'd": {
     "dex_id": 865,
@@ -16471,7 +15631,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "mr. rime": {
     "dex_id": 866,
@@ -16488,7 +15648,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "runerigus": {
     "dex_id": 867,
@@ -16505,7 +15665,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "milcery": {
     "dex_id": 868,
@@ -16521,7 +15681,7 @@
       34
     ],
     "alt_form": false,
-    "speed_rank": 113
+    "speed_rank": 119
   },
   "alcremie": {
     "dex_id": 869,
@@ -16537,7 +15697,7 @@
       64
     ],
     "alt_form": false,
-    "speed_rank": 437
+    "speed_rank": 463
   },
   "falinks": {
     "dex_id": 870,
@@ -16553,7 +15713,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "pincurchin": {
     "dex_id": 871,
@@ -16603,7 +15763,7 @@
       65
     ],
     "alt_form": false,
-    "speed_rank": 443
+    "speed_rank": 469
   },
   "stonjourner": {
     "dex_id": 874,
@@ -16619,7 +15779,7 @@
       70
     ],
     "alt_form": false,
-    "speed_rank": 505
+    "speed_rank": 534
   },
   "eiscue ice face": {
     "dex_id": 875,
@@ -16635,7 +15795,7 @@
       50
     ],
     "alt_form": false,
-    "speed_rank": 268
+    "speed_rank": 284
   },
   "eiscue noice face": {
     "dex_id": 875,
@@ -16651,7 +15811,7 @@
       130
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 955
   },
   "indeedee male": {
     "dex_id": 876,
@@ -16668,7 +15828,7 @@
       95
     ],
     "alt_form": false,
-    "speed_rank": 724
+    "speed_rank": 781
   },
   "indeedee female": {
     "dex_id": 876,
@@ -16685,7 +15845,7 @@
       85
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 684
   },
   "morpeko full belly mode": {
     "dex_id": 877,
@@ -16702,7 +15862,7 @@
       97
     ],
     "alt_form": false,
-    "speed_rank": 755
+    "speed_rank": 814
   },
   "morpeko hangry mode": {
     "dex_id": 877,
@@ -16719,7 +15879,7 @@
       97
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 814
   },
   "cufant": {
     "dex_id": 878,
@@ -16735,7 +15895,7 @@
       40
     ],
     "alt_form": false,
-    "speed_rank": 156
+    "speed_rank": 165
   },
   "copperajah": {
     "dex_id": 879,
@@ -16751,7 +15911,7 @@
       30
     ],
     "alt_form": false,
-    "speed_rank": 63
+    "speed_rank": 65
   },
   "dracozolt": {
     "dex_id": 880,
@@ -16768,7 +15928,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "arctozolt": {
     "dex_id": 881,
@@ -16785,7 +15945,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "dracovish": {
     "dex_id": 882,
@@ -16802,7 +15962,7 @@
       75
     ],
     "alt_form": false,
-    "speed_rank": 566
+    "speed_rank": 599
   },
   "arctovish": {
     "dex_id": 883,
@@ -16819,7 +15979,7 @@
       55
     ],
     "alt_form": false,
-    "speed_rank": 327
+    "speed_rank": 346
   },
   "duraludon": {
     "dex_id": 884,
@@ -16836,7 +15996,7 @@
       85
     ],
     "alt_form": false,
-    "speed_rank": 645
+    "speed_rank": 684
   },
   "dreepy": {
     "dex_id": 885,
@@ -16853,7 +16013,7 @@
       82
     ],
     "alt_form": false,
-    "speed_rank": 635
+    "speed_rank": 673
   },
   "drakloak": {
     "dex_id": 886,
@@ -16870,7 +16030,7 @@
       102
     ],
     "alt_form": false,
-    "speed_rank": 799
+    "speed_rank": 864
   },
   "dragapult": {
     "dex_id": 887,
@@ -16887,7 +16047,7 @@
       142
     ],
     "alt_form": false,
-    "speed_rank": 882
+    "speed_rank": 968
   },
   "zacian crowned sword": {
     "dex_id": 888,
@@ -16904,7 +16064,7 @@
       148
     ],
     "alt_form": false,
-    "speed_rank": 885
+    "speed_rank": 971
   },
   "zacian hero of many battles": {
     "dex_id": 888,
@@ -16920,7 +16080,7 @@
       138
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 966
   },
   "zamazenta crowned shield": {
     "dex_id": 889,
@@ -16937,7 +16097,7 @@
       128
     ],
     "alt_form": false,
-    "speed_rank": 874
+    "speed_rank": 952
   },
   "zamazenta hero of many battles": {
     "dex_id": 889,
@@ -16953,7 +16113,7 @@
       138
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 966
   },
   "eternatus": {
     "dex_id": 890,
@@ -16970,7 +16130,7 @@
       130
     ],
     "alt_form": false,
-    "speed_rank": 875
+    "speed_rank": 955
   },
   "eternatus eternamax": {
     "dex_id": 890,
@@ -16987,6 +16147,6 @@
       130
     ],
     "alt_form": true,
-    "speed_rank": -1
+    "speed_rank": 955
   }
 }

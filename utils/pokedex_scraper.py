@@ -18,6 +18,8 @@ import lxml.html as lh
 import json
 import os
 import os.path as osp
+from bs4 import BeautifulSoup
+
 
 def scrape_pokedex():
     # This void function takes Pokemon data from the pokemondb website and
@@ -29,61 +31,51 @@ def scrape_pokedex():
     # Create a page to handle the contents of the website
     page_info = requests.get(url)
 
-    # Store the contents of the website as doc
-    doc = lh.fromstring(page_info.content)
+    # Store the contents of the website as element data
+    page_element_data = lh.fromstring(page_info.content)
 
-    # Parse data that are stored between <tr>..</tr> of HTML
-    tr_elements = doc.xpath('//tr')
+    # Parse data that is stored between <tr> tags in HTML
+    tr_elements = page_element_data.xpath('//tr')
 
-    # Create empty list
-    cols = []
-    i = 0
+    # Create empty list for key names and all_pokemon dictionary for the pokedex
+    col_names = []
+    all_pokemon = {}
 
     # For each row, store each first element (header) and an empty list
     for th_tag in tr_elements[0]:
-        i += 1
         name = th_tag.text_content()
-        cols.append((name,[]))
+        col_names.append(name)
+        all_pokemon[name] = []
 
-    # Since out first row is the header, data is stored on the second row onwards
+    # Since the first row is the header, iterate through remaining rows
     for j in range(1,len(tr_elements)):
+        # pokemon_row is the j-th row
+        pokemon_row = tr_elements[j]
 
-        # T is our j'th row
-        T = tr_elements[j]
-
-        # If row is not of size 10, the //tr data is not from our table
-        if len(T) != 10:
+        # If the row is not of size 10, the //tr data is not from our table
+        if len(pokemon_row) != 10:
+            print('Wrong table or bad data.')
             break
 
-        # i is the index of our column
-        i = 0
-
         # Iterate through each element of the row
-        for t in T.iterchildren():
-            data = t.text_content()
+        for i, pokemon_row_element in enumerate(pokemon_row.iterchildren()):
+            data = pokemon_row_element.text_content()
 
-            # Check if row is empty
-            if i > 0:
+            # Convert any numerical value to an int
+            try:
+                data = int(data)
+            except:
+                pass
 
-            # Convert any numerical value to integers
-                try:
-                    data = int(data)
-                except:
-                    pass
+            # Append the data to the empty list of the i-th column
+            all_pokemon[col_names[i]].append(data)
 
-            # Append the data to the empty list of the i'th column
-            cols[i][1].append(data)
-
-            # Increment i for the next column
-            i+=1
-
-    Dict = {title : column for (title, column) in cols}
-    return Dict
+    return all_pokemon
 
 
-def build_pokedex(pd_df):
-    # Takes in a pandas dataframe and makes a dictionary out of it and dumps the
-    # result as pokedex.json
+def build_pokedex(unformatted_dex, allow_megas=False):
+    # Takes in an undesirably-formatted dictionary and makes a better dictionary
+    # out of it and dumps the result as pokedex.json
 
     # Create initial variables for the Pokemon dict
     stats = [0, 0, 0, 0, 0, 0]
@@ -92,18 +84,18 @@ def build_pokedex(pd_df):
     j = 0
     prev_id = 0
 
-    # This variable is less self-explanatory.  It is needed so that alternate forms
-    # don't overwrite the normal forms
+    # This variable is less self-explanatory.  It is needed so that alternate
+    # forms don't overwrite the normal forms
     alt_form = False
+    is_mega = False
 
     # Iterate through all rows and store the Pokemon data in a dict
-    for i in range(len(pd_df['#'])):
+    for i in range(len(unformatted_dex['#'])):
         # Iterate through all keys for each row
-        for key in pd_df.keys():
+        for key in unformatted_dex.keys():
             # Start checking key cases
-
             if key == '#': # Number
-                id = int(pd_df[key][i])
+                id = int(unformatted_dex[key][i])
                 # Check if the previous id is the same as the current one.  This
                 # prevents undesirable stuff such as overwriting venusaur with
                 # mega venusaur's stats
@@ -115,17 +107,25 @@ def build_pokedex(pd_df):
                 prev_id = id
 
             elif key == 'Name': # Name
+                # Checks if the pokemon is a mega and that megas shouldn't be
+                # stored in the dex since they no longer exist :(
+                name = unformatted_dex[key][i].lower()
+                if 'mega' in unformatted_dex[key][i].lower() and allow_megas == False:
+                    is_mega = True
+                    break
                 # not isalpha() avoids taking the first string in the split of
-                # Pokemon like Mr. mime and type: null, who would just be mr. and
-                # type: if this check wasn't here
-                if not pd_df[key][i].isalpha() or alt_form:
-                    name = pd_df[key][i].lower()
+                # Pokemon like Mr. mime and Type: null, who would just be 'mr.'
+                # and 'type:' if this check wasn't here
+                elif not name.isalpha() or alt_form:
+                    is_mega = False
+                    continue
                 else:
-                    name = pd_df[key][i].lower().split()[0]
+                    name = name.split()[0]
+                    is_mega = False
 
             elif key == 'Type': # Type
                 # Sorts the types in alphabetical order just for consistency
-                type = sorted(pd_df[key][i].lower().split())
+                type = sorted(unformatted_dex[key][i].lower().split())
 
             elif key == 'Total': # Total BST
                 # BST isn't needed for now
@@ -133,17 +133,17 @@ def build_pokedex(pd_df):
 
             # The next few cases just grab each Pokemon's stats
             elif key == 'HP': # HP
-                stats[0] = int(pd_df[key][i])
+                stats[0] = int(unformatted_dex[key][i])
             elif key == 'Attack': # Attack
-                stats[1] = int(pd_df[key][i])
+                stats[1] = int(unformatted_dex[key][i])
             elif key == 'Defense': # Defense
-                stats[2] = int(pd_df[key][i])
+                stats[2] = int(unformatted_dex[key][i])
             elif key == 'Sp. Atk': # Special Attack
-                stats[3] = int(pd_df[key][i])
+                stats[3] = int(unformatted_dex[key][i])
             elif key == 'Sp. Def': # Special Defense
-                stats[4] = int(pd_df[key][i])
+                stats[4] = int(unformatted_dex[key][i])
             elif key == 'Speed': # Speed
-                stats[5] = int(pd_df[key][i])
+                stats[5] = int(unformatted_dex[key][i])
 
                 # Add the Pokemon to the Pokedex
                 pokedex[name] = {}
@@ -151,8 +151,10 @@ def build_pokedex(pd_df):
                 pokedex[name]['type'] = type
                 pokedex[name]['stats'] = stats
                 pokedex[name]['alt_form'] = alt_form
+                # speed_rank is initialized as -1 for all pokemon and
+                # only overwritten for non-alt forms later
                 pokedex[name]['speed_rank'] = -1
-                if not alt_form:
+                if not is_mega:
                     speed_dict[name] = stats[5]
 
                 # This is necessary for some reason otherwise every Pokemon will
@@ -160,6 +162,7 @@ def build_pokedex(pd_df):
                 stats = [0, 0, 0, 0, 0, 0]
 
             # I know this one is entirely unnecessary, but I like having it here
+            # for readability
             else:
                 continue
 
@@ -167,6 +170,7 @@ def build_pokedex(pd_df):
                   key=lambda item : item[1])}
 
     # Find how many Pokemon each Pokemon outspeeds
+    # Initialize prev_speed as the lowest speed stat in the game
     prev_speed = 5
     mons = []
     j = 0
@@ -191,14 +195,36 @@ def build_pokedex(pd_df):
         prev_speed = cur_speed
 
     # Write the data to a JSON
-    with open(osp.join(os.pardir, 'data', 'testdex.json'), 'w') as f_out:
+    with open(osp.join(os.pardir, 'data', 'pokedex.json'), 'w') as f_out:
         json.dump(pokedex, f_out, indent=2)
+
+'''This is all WIP code, but it is garbage right now'''
+# def test():
+#     # This void function takes Pokemon data from the pokemondb website and
+#     # stores it as a dictionary
+#
+#     # Set the url to the full pokemondb pokedex
+#     url = 'https://www.smogon.com/dex/ss/formats/ou/'
+#
+#     # Create a page to handle the contents of the website
+#     page_info = requests.get(url)
+#
+#     # Store the contents of the website as element data
+#     soup = BeautifulSoup(page_info.content, features='lxml')
+#     script = soup.find('script').find_all(text=True, recursive=False)
+#     smogon_json_text = script[0]
+#     smogon_json_text = smogon_json_text.split('=')[1]
+#     parsed_smogon_json = json.loads(smogon_json_text)
+#     print(parsed_smogon_json)
+#
+#     assert False
 
 
 def main():
-    pokedex_df = scrape_pokedex()
-    build_pokedex(pokedex_df)
+    pokedex = scrape_pokedex()
+    build_pokedex(pokedex)
 
 
 if __name__ == '__main__':
     main()
+    # test()
