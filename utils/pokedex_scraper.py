@@ -110,7 +110,7 @@ def build_pokedex(unformatted_dex, allow_megas=False):
                 # Checks if the pokemon is a mega and that megas shouldn't be
                 # stored in the dex since they no longer exist :(
                 name = unformatted_dex[key][i].lower()
-                if 'mega' in unformatted_dex[key][i].lower() and allow_megas == False:
+                if 'mega' in name or 'primal' in name and allow_megas == False:
                     is_mega = True
                     break
                 # not isalpha() avoids taking the first string in the split of
@@ -144,6 +144,11 @@ def build_pokedex(unformatted_dex, allow_megas=False):
                 stats[4] = int(unformatted_dex[key][i])
             elif key == 'Speed': # Speed
                 stats[5] = int(unformatted_dex[key][i])
+
+                # Get rid of Eternatus Eternamax because he doesn't exist for
+                # the players
+                if sum(stats) > 1000:
+                    break
 
                 # Add the Pokemon to the Pokedex
                 pokedex[name] = {}
@@ -200,10 +205,9 @@ def build_pokedex(unformatted_dex, allow_megas=False):
 
 '''This is all WIP code, but it is garbage right now'''
 # def test():
-#     # This void function takes Pokemon data from the pokemondb website and
-#     # stores it as a dictionary
+#     # This void function takes Pokemon data from smogon
 #
-#     # Set the url to the full pokemondb pokedex
+#     # Set the url to the smogon website
 #     url = 'https://www.smogon.com/dex/ss/formats/ou/'
 #
 #     # Create a page to handle the contents of the website
